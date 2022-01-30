@@ -51,5 +51,5 @@ The HTML element is everything from the start tag to the end tag:
 </table>
 <h1>Important!</h1>
 HTML tags are not case sensitive: &lt;P&gt; means the same as &lt;p&gt;.
-
+<p></p>
 The HTML standard does not require lowercase tags, but I recommend lowercase in HTML, and demands lowercase for stricter document types like XHTML.
