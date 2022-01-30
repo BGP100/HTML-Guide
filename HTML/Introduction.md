@@ -21,7 +21,7 @@
   &lt;/body&gt;
 &lt;/html&gt;
 </pre>
-Preview on Home.md
+Preview and more at <a href="Home.md">Home</a>
 <h1>Demo Explained</h1>
 <ul>
   <li>The &lt;!DOCTYPE html&gt; declaration defines that this document is an HTML5 document.</li>
