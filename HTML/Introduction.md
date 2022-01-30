@@ -42,3 +42,25 @@ The HTML element is everything from the start tag to the end tag:
 &lt;h1&gt;My First Heading&lt;/h1&gt;
 <br>
 &lt;p&gt;My first paragraph.&lt;/p&gt;
+<table class="ws-table-all notranslate">
+<tr>
+<th>Start tag</th>
+<th>Element content</th>
+<th>End tag</th>
+</tr>
+<tr>
+<td>&lt;h1&gt;</td>
+<td>My First Heading</td>
+<td>&lt;/h1&gt;</td>
+</tr>
+<tr>
+<td>&lt;p&gt;</td>
+<td>My first paragraph.</td>
+<td>&lt;/p&gt;</td>
+</tr>
+<tr>
+<td>&lt;br&gt;</td>
+<td><em>none</em></td>
+<td><em>none</em></td>
+</tr>
+</table>
