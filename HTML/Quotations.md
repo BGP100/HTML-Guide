@@ -85,11 +85,11 @@ USA
 &lt;/address&gt;
 </pre>
 <h1>&lt;cite&gt;</h1>
-The HTML &lt;cite&gt; tag defines the title of a creative work. (e.g. a book, a poem, a song, a movie, a painting, a sculpture, etc.)
+The HTML <b>&lt;cite&gt;</b> tag defines the title of a creative work. (e.g. a book, a poem, a song, a movie, a painting, a sculpture, etc.)
 <br>
 <b>Note:</b> A person's name is not the title of a work.
 <br>
-The text in the &lt;cite&gt; element usually renders in italic.
+The text in the <b>&lt;cite&gt;</b> element usually renders in italic.
 <h2>Preview:</h2>
 The HTML <b>cite</b> element defines the title of a work.
 <br>
