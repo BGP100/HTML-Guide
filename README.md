@@ -197,7 +197,7 @@ The ultimate HTML, CSS, and JS guide on github. (I think so)
   <li>Masking</li>
   <li>Buttons Pagination</li>
   <li>Multiple Columns</li>
-      <li>User Interface</li>
+  <li>User Interface</li>
   <li>Variables</li>
   <li>Box Sizing</li>
   <li>Media Queries</li>
