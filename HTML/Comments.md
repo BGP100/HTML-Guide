@@ -23,5 +23,5 @@ Comments are also great for debugging HTML, because you can comment out HTML lin
 <br>
 Comments can be used to hide parts in the middle of the HTML code.
 <pre>
-<p>This <!-- great text --> is a paragraph.</p>
+<p>This &lt;!-- great text --&gt; is a paragraph.</p>
 </pre>
