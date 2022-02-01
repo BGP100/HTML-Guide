@@ -49,6 +49,7 @@ The following three &lt;div&gt; elements have their background color set with RG
 <h2>Preview:</h2>
 Sorry but github does not support colored text so just see this image:
 <img src="https://i.imgur.com/q6t9Egy_d.webp?maxwidth=640&shape=thumb&fidelity=medium">
+<p></p>
 <img src="https://i.imgur.com/A6r0lXR_d.webp?maxwidth=640&shape=thumb&fidelity=medium">
 <h2>Demo:</h2>
 <pre>
