@@ -92,19 +92,19 @@ function myFunction() {
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="/tags/tag_img.asp">&lt;img&gt;</a></td>
+    <td>&lt;img&gt;</td>
     <td>Defines an image</td>
   </tr>
   <tr>
-    <td><a href="/tags/tag_map.asp">&lt;map&gt;</a></td>
+    <td>&lt;map&gt;</td>
     <td>Defines an image map</td>
   </tr>
   <tr>
-    <td><a href="/tags/tag_area.asp">&lt;area&gt;</a></td>
+    <td>&lt;area&gt;</td>
     <td>Defines a clickable area inside an image map</td>
   </tr>
   <tr>
-    <td><a href="/tags/tag_picture.asp">&lt;picture&gt;</a></td>
+    <td>&lt;picture&gt;</td>
     <td>Defines a container for multiple image resources</td>
   </tr>
 </table>
