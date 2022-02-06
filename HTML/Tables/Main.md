@@ -82,6 +82,6 @@ Each table row is defined by a <b>&lt;tr&gt;</b> and a <b>&lt;/tr&gt;</b> tag.
 <h1>Cells</h1>
 Each table cell is defined by a <b>&lt;td&gt;</b> and a <b>&lt;/td&gt;</b> tag.
 <h1>Headers</h1>
-Sometimes you want your cells to be headers, in those cases use the &lt;th&gt; tag instead of the &lt;td&gt; tag.
+Sometimes you want your cells to be headers, in those cases use the <b>&lt;th&gt;</b> tag instead of the <b>&lt;td&gt;</b> tag.
 <br>
-By default, the text in <th> elements are bold and centered, but you can change that with CSS.
+By default, the text in <b>&lt;th&gt;</b> elements are bold and centered, but you can change that with CSS.
