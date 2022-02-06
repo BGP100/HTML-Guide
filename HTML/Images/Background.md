@@ -12,7 +12,7 @@ div {
 </pre>
 <h1>Background image on a page</h1>
 If you want the entire page to have a background image, you must specify the background image on the <b>&lt;body&gt;</b> element:
-<img src="https://images.alalgi.repl.co/769.png">
+<img src="https://i.imgur.com/ibJtTSh.png">
 <pre>
 &lt;style&gt;
 body {
