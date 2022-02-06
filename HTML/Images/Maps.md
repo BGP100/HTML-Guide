@@ -40,22 +40,22 @@ You must also define some coordinates to be able to place the clickable area ont
 The coordinates for shape="rect" come in pairs, one for the x-axis and one for the y-axis.
 <br>
 So, the coordinates 34,44 is located 34 pixels from the left margin and 44 pixels from the top:
-<img src="https://images.alalgi.repl.co/638.png" alt="Workplace">
+<img src="https://i.imgur.com/k8M6m8z.png" alt="Workplace">
 The coordinates 270,350 is located 270 pixels from the left margin and 350 pixels from the top:
 <img src="https://images.alalgi.repl.co/193.png" alt="Workplace">
 Now we have enough data to create a clickable rectangular area:
 <pre>&lt;area shape="rect" coords="34,44,270,350" href="computer.htm"&gt;</pre>
 This is the area that becomes clickable and will send the user to the page "computer.htm":
-<img src="https://images.alalgi.repl.co/837.png" alt="Workplace">
+<img src="https://i.imgur.com/eQPq0CJ.png" alt="Workplace">
 <h1>shape="circle"</h1>
 To add a circle area, first locate the coordinates of the center of the circle: 337,300
-<img src="https://images.alalgi.repl.co/743.png" alt="Workplace">
+<img src="https://i.imgur.com/veu2ESe.png" alt="Workplace">
 Then specify the radius of the circle: 44 pixels
 <img src="https://images.alalgi.repl.co/285.png" alt="Workplace">
 Now you have enough data to create a clickable circular area:
 <pre>&lt;area shape="circle" coords="337, 300, 44" href="coffee.htm"&gt;</pre>
 This is the area that becomes clickable and will send the user to the page "coffee.htm":
-<img src="https://images.alalgi.repl.co/547.png" alt="Workplace">
+<img src="https://i.imgur.com/gmRkzzo.png" alt="Workplace">
 <h1>shape="poly"</h1>
 The <b>shape="poly"</b> contains several coordinate points, which creates a shape formed with straight lines (a polygon).
 <br>
