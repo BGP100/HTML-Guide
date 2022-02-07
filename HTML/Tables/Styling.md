@@ -55,6 +55,10 @@ Sorry but GitHub cant make styles so just go to the coding part.
 Use the :hover selector on tr to highlight table rows on mouse over:
 <img src="https://i.imgur.com/UzoOYOP.png">
 <pre>
+tr {
+  border-bottom: 1px solid #ddd;
+}
+<p></p>
 tr:hover {
   background-color: #D6EEEE;
 }
