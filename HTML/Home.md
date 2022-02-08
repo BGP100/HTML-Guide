@@ -7,7 +7,7 @@ HTML is easy to learn - You will enjoy it!
 <h2>Demo:</h2>
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
-<h2>Preview:<h2>
+<h2>Preview:</h2>
 <pre>
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
