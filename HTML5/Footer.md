@@ -10,10 +10,16 @@ A <b>&lt;footer&gt;</b> element typically contains:
   <li>Related Documents</li>
 </ul>
 You can have several <b>&lt;footer&gt;</b> elements in one document.
+<pre>
+&lt;footer&gt;
+  &lt;p&gt;Author: Hege Refsnes&lt;/p&gt;
+  &lt;p&gt;&lt;a href="mailto:name@example.com">hege@example.com&lt;/a&gt;&lt;/p&gt;
+&lt;/footer&gt;
+</pre>
 <h1>Browser Support</h1>
 <table class="ws-table-all notranslate">
   <tr>
-    <th>&lt;article&gt;</th>
+    <th>&lt;footer&gt;</th>
     <th>Chrome</th>
     <th>Edge</th>
     <th>Firefox</th>
