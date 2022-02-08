@@ -12,7 +12,7 @@ The aside content should be indirectly related to the surrounding content.
 &lt;h4&gt;Epcot Center&lt;/h4&gt;
 &lt;p&gt;Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.&lt;/p&gt;
 &lt;/aside&gt;
-<pre>
+</pre>
 <h1>Browser Support</h1>
 <table class="ws-table-all notranslate">
   <tr>
