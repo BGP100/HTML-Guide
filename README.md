@@ -33,7 +33,7 @@ The ultimate HTML, CSS, and JS guide on github. (I think so)
   <li>Responsive</li>
   <li>Computercode</li>
   <li>Semantics</li>
-  <li>Style Guide</li>
+  <li>Begginer Guide</li>
   <li>Entities</li>
   <li>Symbols</li>
   <li>Emojis</li>
