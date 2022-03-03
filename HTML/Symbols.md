@@ -31,55 +31,55 @@ I will display &#x20AC;.
   <tr>
   <tr>
     <td>&part;</td>
-    <td>&amp;#8706</td>
+    <td>&amp;#8706;</td>
     <td>&amp;part;</td>
     <td>PARTIAL DIFFERENTIAL</td>
   <tr>
   <tr>
     <td>&exist;</td>
-    <td></td>
+    <td>&amp;#8707;</td>
     <td>&amp;exist;</td>
     <td>THERE EXISTS</td>
   <tr>
   <tr>
     <td>&empty;</td>
-    <td></td>
+    <td>&amp;#8709;</td>
     <td>&amp;empty;</td>
     <td>EMPTY SETS</td>
   <tr>
   <tr>
     <td>&nabla;</td>
-    <td></td>
+    <td>&amp;#8711;</td>
     <td>&amp;nabla;</td>
     <td>NABLA</td>
   <tr>
   <tr>
     <td>&isin;</td>
-    <td></td>
+    <td>&amp;#8712;</td>
     <td>&amp;isin;</td>
     <td>ELEMENT OF</td>
   <tr>
   <tr>
     <td>&notin;</td>
-    <td></td>
+    <td>&amp;#8713;</td>
     <td>&amp;notin;</td>
     <td>NOT AN ELEMENT OF</td>
   <tr>
   <tr>
     <td>&ni;</td>
-    <td></td>
+    <td>&amp;#8715;</td>
     <td>&amp;ni;</td>
     <td>CONTAINS AS MEMBER</td>
   <tr>
   <tr>
     <td>&prod;</td>
-    <td></td>
+    <td>&amp;#8719;</td>
     <td>&amp;prod;</td>
     <td>N-ARY PRODUCT</td>
   <tr>
   <tr>
     <td>&sum;</td>
-    <td></td>
+    <td>&amp;#8721;</td>
     <td>&amp;sum;</td>
     <td>N-ARY SUMMATION</td>
   <tr>
