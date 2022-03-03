@@ -119,7 +119,7 @@ An HTML page will validate without the html and body tags:
 
 &lt;h1&gt;This is a heading&lt;/h1&gt;
 &lt;p&gt;This is a paragraph.&lt;/p&gt;
-<pre>
+</pre>
 However, we strongly recommend to always add the html and body tags!
 <br>
 Omitting body can produce errors in older browsers.
