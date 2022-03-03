@@ -31,7 +31,7 @@ I will display &#x20AC;.
   <tr>
   <tr>
     <td>&part;</td>
-    <td></td>
+    <td>&amp;#8706</td>
     <td>&amp;part;</td>
     <td>PARTIAL DIFFERENTIAL</td>
   <tr>
