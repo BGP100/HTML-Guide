@@ -141,4 +141,57 @@ Browsers will add all elements before body, to a default head element.
 &lt;/body&gt;
 &lt;/html&gt;
 </pre>
-<b>To be continued. . .</b>
+<h1>Close Empty Elements?</h1>
+In HTML, it is optional to close empty elements.
+<pre>&lt;meta charset="utf-8"&gt;</pre>
+<pre>&lt;meta charset="utf-8" /&gt;</pre>
+If you expect XML/XHTML software to access your page, keep the closing slash ( /), because it is required in XML and XHTML.
+<h1>The lang Attribute</h1>
+You should always include the lang attribute inside the &lt;html&gt; tag, to declare the language of the Web page. This is meant to assist search engines and browsers.
+<pre>&lt;html lang="en"&gt;</pre>
+<pre>&lt;html lang="en-us"&gt;</pre>
+<h1>Meta Data</h1>
+To ensure proper interpretation and correct search engine indexing, both the language and the character encoding &lt;meta charset="<i>charset</i>"&gt; should be defined as early as possible in an HTML document:
+<pre>&lt;meta charset="UTF-8"&gt;</pre>
+<h1>Viewport</h1>
+<a href="Responsive.md#Viewport">Click Here</a> to know more about Viewport.
+<h1>Comments</h1>
+<a href="Comments.md">Click Here</a> to know more about Comments.
+<h1>StyleSheets</h1>
+Short CSS rules can be written compressed, like this:
+<pre>p.intro{font-family:Verdana;font-size:16em;}</pre>
+Long CSS rules should be written over multiple lines:
+<pre>
+body {
+  background-color: lightgrey;
+  font-family: "Arial Black", Helvetica, sans-serif;
+  font-size: 16em;
+  color: black;
+}
+</pre>
+<h1>Use Lowercase File Names</h1>
+Some web servers (Apache, Unix) are case sensitive about file names: "london.jpg" cannot be accessed as "London.jpg".
+<br>
+Other web servers (Microsoft, IIS) are not case sensitive: "london.jpg" can be accessed as "London.jpg".
+<br>
+If you use a mix of uppercase and lowercase, you have to be aware of this.
+<br>
+If you move from a case-insensitive to a case-sensitive server, even small errors will break your web!
+<br>
+To avoid these problems, always use lowercase file names!
+<h1>File Extensions</h1>
+HTML files should have a .html extension (.htm is allowed).
+<br>
+CSS files should have a .css extension.
+<br>
+JavaScript files should have a .js extension.
+<h1>What is the Difference Between HTML and HTM?</h1>
+There is no difference between the .htm and .html file extensions!
+<br>
+Both will be treated as HTML by any web browser and web server.
+<h1>Default Filename</h1>
+When a URL does not specify a filename at the end (like "//preview.bledygamesweb.repl.co/"), the server just adds a default filename, such as "index.html", "index.htm", "default.html", or "default.htm".
+<br>
+If your server is configured only with "index.html" as the default filename, your file must be named "index.html", and not "default.html".
+<br>
+However, servers can be configured with more than one default filename; usually you can set up as many default filenames as you want.
