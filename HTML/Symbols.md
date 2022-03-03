@@ -16,7 +16,7 @@ I will display &#8364;.
 <br>
 I will display &#x20AC;.
 <h1>Some Mathematical Symbols</h1>
-<table>
+<table class="ws-table-all notranslate">
   <tr>
     <th>Character</th>
     <th>Number</th>
@@ -83,4 +83,130 @@ I will display &#x20AC;.
     <td>&amp;sum;</td>
     <td>N-ARY SUMMATION</td>
   <tr>
+</table>
+<h1>Greek Letters</h1>
+<table class="ws-table-all notranslate">
+  <tr>
+    <th>Character</th>
+    <th>Number</th>
+    <th>Entity</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>&#913;</td>
+    <td>&amp;#913;</td>
+    <td>&amp;Alpha;</td>
+    <td>GREEK CAPITAL LETTER ALPHA</td>
+  </tr>
+  <tr>
+    <td>&#914;</td>
+    <td>&amp;#914;</td>
+    <td>&amp;Beta;</td>
+    <td>GREEK CAPITAL LETTER BETA</td>
+  </tr>
+  <tr>
+    <td>&#915;</td>
+    <td>&amp;#915;</td>
+    <td>&amp;Gamma;</td>
+    <td>GREEK CAPITAL LETTER GAMMA</td>
+  </tr>
+  <tr>
+    <td>&#916;</td>
+    <td>&amp;#916;</td>
+    <td>&amp;Delta;</td>
+    <td>GREEK CAPITAL LETTER DELTA</td>
+  </tr>
+  <tr>
+    <td>&#917;</td>
+    <td>&amp;#917;</td>
+    <td>&amp;Epsilon;</td>
+    <td>GREEK CAPITAL LETTER EPSILON</td>
+  </tr>
+  <tr>
+    <td>&#918;</td>
+    <td>&amp;#918;</td>
+    <td>&amp;Zeta;</td>
+    <td>GREEK CAPITAL LETTER ZETA</td>
+  </tr>
+</table>
+<h1>Some Other Entities</h1>
+<table class="ws-table-all notranslate">
+  <tr>
+    <th>Character</th>
+    <th>Number</th>
+    <th>Entity</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>&#169;</td>
+    <td>&amp;#169;</td>
+    <td>&amp;copy;</td>
+    <td>COPYRIGHT SIGN</td>
+  </tr>
+  <tr>
+    <td>&#174;</td>
+    <td>&amp;#174;</td>
+    <td>&amp;reg;</td>
+    <td>REGISTERED SIGN</td>
+  </tr>
+  <tr>
+    <td>&#8364;</td>
+    <td>&amp;#8364;</td>
+    <td>&amp;euro;</td>
+    <td>EURO SIGN</td>
+  </tr>
+  <tr>
+    <td>&#8482;</td>
+    <td>&amp;#8482;</td>
+    <td>&amp;trade;</td>
+    <td>TRADEMARK</td>
+  </tr>
+  <tr>
+    <td>&#8592;</td>
+    <td>&amp;#8592;</td>
+    <td>&amp;larr;</td>
+    <td>LEFTWARDS ARROW</td>
+  </tr>
+  <tr>
+    <td>&#8593;</td>
+    <td>&amp;#8593;</td>
+    <td>&amp;uarr;</td>
+    <td>UPWARDS ARROW</td>
+  </tr>
+  <tr>
+    <td>&#8594;</td>
+    <td>&amp;#8594;</td>
+    <td>&amp;rarr;</td>
+    <td>RIGHTWARDS ARROW</td>
+  </tr>
+  <tr>
+    <td>&#8595;</td>
+    <td>&amp;#8595;</td>
+    <td>&amp;darr;</td>
+    <td>DOWNWARDS ARROW</td>
+  </tr>
+  <tr>
+    <td>&#9824;</td>
+    <td>&amp;#9824;</td>
+    <td>&amp;spades;</td>
+    <td>BLACK SPADE SUIT</td>
+  </tr>
+  <tr>
+    <td>&#9827;</td>
+    <td>&amp;#9827;</td>
+    <td>&amp;clubs;</td>
+    <td>BLACK CLUB SUIT</td>
+  </tr>
+  <tr>
+    <td>&#9829;</td>
+    <td>&amp;#9829;</td>
+    <td>&amp;hearts;</td>
+    <td>BLACK HEART SUIT</td>
+  </tr>
+  <tr>
+    <td>&#9830;</td>
+    <td>&amp;#9830;</td>
+    <td>&amp;diams;</td>
+    <td>BLACK DIAMOND SUIT</td>
+  </tr>     
 </table>
