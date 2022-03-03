@@ -210,3 +210,5 @@ I will display &#x20AC;.
     <td>BLACK DIAMOND SUIT</td>
   </tr>     
 </table>
+<h1>Other</h1>
+More info in the <a href="Entities.md">Entities Chapter.</a>
