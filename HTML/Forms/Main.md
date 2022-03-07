@@ -39,7 +39,7 @@ Here are some types:
     <td>Displays a clickable button</td>
   </tr>
 </table>
-Every type is on the <a href="InputTypes">Input Types</a>
+Every type is on the <a href="InputTypes.md">Input Types</a>
 <h1>name Atributte</h1>
 Notice that each input field must have a <b>name</b> attribute to be submitted.
 <br>
