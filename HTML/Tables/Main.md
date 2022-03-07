@@ -39,7 +39,7 @@ HTML tables allow web developers to arrange data into rows and columns.
 <h1>Define HTML Tables</h1>
 A table in HTML consists of table cells inside rows and columns.
 <pre>
-&lt;table class="ws-table-all notranslate"&gt;
+&lt;table&gt;
   &lt;tr&gt;
     &lt;th&gt;Company&lt;/th&gt;
     &lt;th&gt;Contact&lt;/th&gt;
