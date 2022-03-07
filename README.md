@@ -64,22 +64,6 @@ The ultimate HTML, CSS, and JS guide on github. (I think so)
   <li>Certificate</li>
   <li>Summary</li>
   <li>Accessibility</li>
-  <li>Tag List</li>
-  <li>Reference Atributes</li>
-  <li>Global Atributes</li>
-  <li>Browser Support</li>
-  <li>Events</li>
-  <li>Reference Colors</li>
-  <li>Reference Canvas</li>
-  <li>Reference Audio/Video</li>
-  <li>Doctypes</li>
-  <li>Character Sets</li>
-  <li>Reference URL Encode</li>
-  <li>Lang Codes</li>
-  <li>Messagers</li>
-  <li>Methods</li>
-  <li>PX to EM Convert</li>
-  <li>Keyboard Shortcuts</li>
   <li>Graphics</li>
   <li>Map Intro</li>
   <li>Map Basic</li>
