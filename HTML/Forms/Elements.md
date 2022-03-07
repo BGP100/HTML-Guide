@@ -1,16 +1,16 @@
 The HTML <b>&lt;form&gt;</b> element can contain one or more of the following form elements:
 <ul>
-  <li><a href="#">&lt;input&gt;</a></li>
-  <li><a href="#">&lt;label&gt;</a></li>
-  <li><a href="#">&lt;select&gt;</a></li>
-  <li><a href="#">&lt;option&gt;</a></li>
-  <li><a href="#">&lt;textarea&gt;</a></li>
-  <li><a href="#">&lt;button&gt;</a></li>
-  <li><a href="#">&lt;fieldset&gt;</a></li>
-  <li><a href="#">&lt;legend&gt;</a></li>
-  <li><a href="#">&lt;datalist&gt;</a></li>
-  <li><a href="#">&lt;output&gt;</a></li>
-  <li><a href="#">&lt;optgroup&gt;</a></li>
+  <li><a href="#input">&lt;input&gt;</a></li>
+  <li><a href="#label">&lt;label&gt;</a></li>
+  <li><a href="#select">&lt;select&gt;</a></li>
+  <li><a href="#option">&lt;option&gt;</a></li>
+  <li><a href="#textarea">&lt;textarea&gt;</a></li>
+  <li><a href="#button">&lt;button&gt;</a></li>
+  <li><a href="#fieldset">&lt;fieldset&gt;</a></li>
+  <li><a href="#legend">&lt;legend&gt;</a></li>
+  <li><a href="#datalist">&lt;datalist&gt;</a></li>
+  <li><a href="#output">&lt;output&gt;</a></li>
+  <li><a href="#optgroup">&lt;optgroup&gt;</a></li>
 </ul>
 <h1>input</h1>
 <h1>label</h1>
