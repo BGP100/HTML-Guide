@@ -70,9 +70,72 @@ Use the <b>multiple</b> attribute to allow the user to select more than one valu
 &lt;/select&gt;
 </pre>
 <h1>textarea</h1>
+The <b>&lt;textarea&gt;</b> element defines a multi-line input field (a text area):
+<pre>&lt;textarea name="message" rows="10" cols="30"&gt;The cat was playing in the garden.&lt;/textarea&gt;</pre>
+The <b>rows</b> attribute specifies the visible number of lines in a text area.
+<br>
+The <b>cols</b> attribute specifies the visible width of a text area.
+<br>
+This is how the HTML code above will be displayed in a browser:
+<br>
+<img src="https://i.imgur.com/PGEeeS7.jpg" width="20%">
+<br>
+You can also define the size of the text area by using CSS:
+<pre>&lt;textarea name="message" style="width:200px;height:600px;"&gt;The cat was playing in the garden.&lt;/textarea&gt;</pre>
 <h1>button</h1>
+<pre>&lt;a href="image.jpg"&gt;&lt;button type="button"&gt;Click Me!&lt;/button&gt;&lt;/a&gt;</pre>
+This is how the HTML code above will be displayed in a browser:
+<br>
+<img src="https://i.imgur.com/UDAKBtD.jpg" width="10%">
 <h1>fieldset</h1>
+The <b>&lt;fieldset&gt;</b> element is used to group related data in a form.
+<br>
+The <b>&lt;legend&gt;</b> element defines a caption for the <b>&lt;fieldset&gt;</b> element.
+<pre>
+&lt;form action="/action_page.php"&gt;
+  <b>&lt;fieldset&gt;</b>
+    &lt;legend&gt;Personalia:&lt;/legend&gt;
+    &lt;label for="fname">First name:&lt;/label
+    &lt;br&gt;
+    &lt;input type="text" id="fname" name="fname" value="John"&gt;
+    &lt;br&gt;
+    &lt;label for="lname"&gt;Last name:&lt;/label&gt;
+    &lt;br&gt;
+    &lt;input type="text" id="lname" name="lname" value="Doe"&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;input type="submit" value="Submit"&gt;
+  <b>&lt;/fieldset&gt;</b>
+&lt;/form&gt;
+</pre>
+This is how the HTML code above will be displayed in a browser:
+<br>
+<img src="https://i.imgur.com/DWcPupy.jpg" width="69%">
 <h1>legend</h1>
+The <b>&lt;fieldset&gt;</b> element is used to group related data in a form.
+<br>
+The <b>&lt;legend&gt;</b> element defines a caption for the <b>&lt;fieldset&gt;</b> element.
+<pre>
+&lt;form action="/action_page.php"&gt;
+  <b>&lt;fieldset&gt;</b>
+    &lt;legend&gt;Personalia:&lt;/legend&gt;
+    &lt;label for="fname">First name:&lt;/label
+    &lt;br&gt;
+    &lt;input type="text" id="fname" name="fname" value="John"&gt;
+    &lt;br&gt;
+    &lt;label for="lname"&gt;Last name:&lt;/label&gt;
+    &lt;br&gt;
+    &lt;input type="text" id="lname" name="lname" value="Doe"&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;input type="submit" value="Submit"&gt;
+  <b>&lt;/fieldset&gt;</b>
+&lt;/form&gt;
+</pre>
+This is how the HTML code above will be displayed in a browser:
+<br>
+<img src="https://i.imgur.com/DWcPupy.jpg" width="69%">
 <h1>datalist</h1>
+
 <h1>output</h1>
 <h1>optgroup</h1>
