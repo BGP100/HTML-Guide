@@ -136,6 +136,39 @@ This is how the HTML code above will be displayed in a browser:
 <br>
 <img src="https://i.imgur.com/DWcPupy.jpg" width="69%">
 <h1>datalist</h1>
-
+The <b>&lt;datalist&gt;</b> element specifies a list of pre-defined options for an <b>&lt;input&gt;</b> element.
+<br>
+Users will see a drop-down list of the pre-defined options as they input data.
+<br>
+The list attribute of the <b>&lt;input&gt;</b> element, must refer to the id attribute of the <b>&lt;datalist&gt;</b> element.
+<pre>
+&lt;form action="/action_page.php"&gt;
+  &lt;input list="browsers"&gt;
+  &lt;datalist id="browsers"&gt;
+    &lt;option value="Internet Explorer"&gt;
+    &lt;option value="Firefox"&gt;
+    &lt;option value="Chrome"&gt;
+    &lt;option value="Opera"&gt;
+    &lt;option value="Safari"&gt;
+  &lt;/datalist&gt;
+&lt;/form&gt;
+</pre>
 <h1>output</h1>
+The <b>&lt;output&gt;</b> element represents the result of a calculation (like one performed by a script).
+<pre>
+&lt;form action="/action_page.php" oninput="x.value=parseInt(a.value)+parseInt(b.value)"&gt;
+  0
+  &lt;input type="range"  id="a" name="a" value="50"&gt;
+  100 +
+  &lt;input type="number" id="b" name="b" value="50"&gt;
+  =
+  &lt;output name="x" for="a b"&gt;&lt;/output&gt;
+  &lt;br&gt;
+  &lt;br&gt;
+  &lt;input type="submit"&gt;
+&lt;/form&gt;
+</pre>
 <h1>optgroup</h1>
+The <b>&lt;optgroup&gt;</b> tag is used to group related options in a <b>&lt;select&gt;</b> element (drop-down list).
+<br>
+If you have a long list of options, groups of related options are easier to handle for a user.
