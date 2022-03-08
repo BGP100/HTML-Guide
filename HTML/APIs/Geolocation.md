@@ -39,7 +39,7 @@ function getLocation() {
 }
 function showPosition(position) {
   x.innerHTML = "Latitude: " + position.coords.latitude + 
-  "<br>Longitude: " + position.coords.longitude; 
+  "&lt;br&gt;Longitude: " + position.coords.longitude; 
 }
 &lt;/script&gt;
 </pre>
@@ -138,6 +138,6 @@ function getLocation() {
 }
 function showPosition(position) {
   x.innerHTML = "Latitude: " + position.coords.latitude + 
-  "<br>Longitude: " + position.coords.longitude; 
+  "&lt;br&gt;Longitude: " + position.coords.longitude; 
 }
 </pre>
