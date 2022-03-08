@@ -58,12 +58,6 @@ The ultimate HTML, CSS, and JS guide on github. (I think so)
   <li>Web Storage</li>
   <li>Web Workers</li>
   <li>SSE</li>
-  <li>Examples</li>
-  <li>Quiz</li>
-  <li>Exercises</li>
-  <li>Certificate</li>
-  <li>Summary</li>
-  <li>Accessibility</li>
   <li>Graphics</li>
   <li>Map Intro</li>
   <li>Map Basic</li>
