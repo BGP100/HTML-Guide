@@ -24,9 +24,10 @@ ctx.stroke();
 </pre>
 <h1>Draw a Circle</h1>
 To draw a circle on a canvas, use the following methods:
-
-beginPath() - begins a path
-arc(<i>x</i>, <i>y</i>, </i>r</i>, <i>startangle</i>, </i>endangle</i>) - creates an arc/curve. To create a circle with arc(): Set start angle to 0 and end angle to <code>2*Math.PI</code>. The x and y parameters define the x- and y-coordinates of the center of the circle. The r parameter defines the radius of the circle.
+<ul>
+  <li><b>beginPath()</b> - begins a path.</li>
+  <li><b>arc(<i>x</i>, <i>y</i>, </i>r</i>, <i>startangle</i>, <i>endangle</i>)</b> - creates an arc/curve. To create a circle with <b>arc()</b>: Set start angle to 0 and end angle to <code>2*Math.PI</code>. The <i>x</i> and <i>y</i> parameters define the <i>x-</i> and <i>y-coordinates</i> of the center of the circle. The </i>r</i> parameter defines the radius of the circle.</li>
+</ul>
 <pre>
 var canvas = document.getElementById("myCanvas");
 var ctx = canvas.getContext("2d");
