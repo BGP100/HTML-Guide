@@ -2,14 +2,14 @@ Gradients can be used to fill rectangles, circles, lines, text, etc. Shapes on t
 <br>
 There are two different types of gradients:
 <ul>
-  <li>createLinearGradient(x,y,x1,y1) - creates a linear gradient</li>
-  <li>createRadialGradient(x,y,r,x1,y1,r1) - creates a radial/circular gradient</li>
+  <li>createLinearGradient(<i>x</i>,<i>y</i>,<i>x1</i>,<i>y1</i>) - creates a linear gradient</li>
+  <li>createRadialGradient(<i>x</i>,<i>y</i>,<i>r</i>,<i>x1</i>,<i>y1</i>,<i>r1</i>) - creates a radial/circular gradient</li>
 </ul>
 Once we have a gradient object, we must add two or more color stops.
 <br>
-The addColorStop() method specifies the color stops, and its position along the gradient. Gradient positions can be anywhere between 0 to 1.
+The <b>addColorStop()</b> method specifies the color stops, and its position along the gradient. Gradient positions can be anywhere between 0 to 1.
 <br>
-To use the gradient, set the fillStyle or strokeStyle property to the gradient, then draw the shape (rectangle, text, or a line).
+To use the gradient, set the <b>fillStyle</b> or <b>strokeStyle</b> property to the gradient, then draw the shape (rectangle, text, or a line).
 <h1>Using createLinearGradient()</h1>
 <img src="https://i.imgur.com/Esm2a0N.jpg" width="27%">
 <pre>
