@@ -193,25 +193,8 @@ The ultimate HTML, CSS, and JS guide on github. (I think so)
   <li>Grid Container</li>
   <li>Grid Item</li>
   <li>SSAS</li>
-  <li>Templates</li>
-  <li>Examples</li>
-  <li>Quiz</li>
-  <li>Exercises</li>
-  <li>Certificate</li>
-  <li>Reference</li>
-  <li>Selectors</li>
-  <li>Fuctions</li>
-  <li>Reference Aural</li>
-  <li>Web-safe Fonts</li>
-  <li>Animatable</li>
-  <li>Units</li>
-  <li>PX-EM Converter</li>
-  <li>Color References</li>
-  <li>Color Values</li>
-  <li>Default Values</li>
-  <li>Browser Support</li>
 </ol>
-<h2>List of JS</h2>
+<h2>List of JavaScript</h2>
 <ol>
   <li>Home</li>
   <li>Introduction</li>
@@ -370,18 +353,6 @@ The ultimate HTML, CSS, and JS guide on github. (I think so)
   <li>Chart.js</li>
   <li>Google Chart</li>
   <li>D3.js</li>
-  <li>Examples</li>
-  <li>HTML DOM</li>
-  <li>HTML Input</li>
-  <li>HTML Objects</li>
-  <li>HTML Events</li>
-  <li>Browser</li>
-  <li>Editor</li>
-  <li>Examples</li>
-  <li>Quiz</li>
-  <li>Certificate</li>
-  <li>JavaScript Objects</li>
-  <li>HTML DOM Objects</li>
 </ol>
 <h2>List of HTML5</h2>
 HTML5 is the same thing as HTML but it has these new things:
