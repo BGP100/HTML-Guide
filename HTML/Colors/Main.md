@@ -1,18 +1,18 @@
 HTML colors are specified with predefined color names, or with RGB, HEX, HSL, RGBA, or HSLA values.
 <br>
-![#ff6347](https://via.placeholder.com/15/ff6347/000000?text=+) Tomato
+<img src="https://via.placeholder.com/15/ff6347/000000?text=+"> Tomato
 <br>
-![#ffa500](https://via.placeholder.com/15/ffa500/000000?text=+) Orange
+<img src="https://via.placeholder.com/15/ffa500/000000?text=+"> Orange
 <br>
-![#0000ff](https://via.placeholder.com/15/0000ff/000000?text=+) Blue
+<img src="https://via.placeholder.com/15/0000ff/000000?text=+"> Blue
 <br>
-![#2e8b57](https://via.placeholder.com/15/2e8b57/000000?text=+) Sea Green
+<img src="https://via.placeholder.com/15/2e8b57/000000?text=+"> Sea Green
 <br>
-![#808080](https://via.placeholder.com/15/808080/000000?text=+) Gray
+<img src="https://via.placeholder.com/15/808080/000000?text=+"> Gray
 <br>
-![#8a2be2](https://via.placeholder.com/15/8a2be2/000000?text=+) Violet
+<img src="https://via.placeholder.com/15/8a2be2/000000?text=+"> Violet
 <br>
-![#ffffff](https://via.placeholder.com/15/ffffff/000000?text=+) White
+<img src="https://via.placeholder.com/15/ffffff/000000?text=+"> White
 <h1>Background Color</h1>
 You can set the background color for HTML elements.
 <h2>Preview:</h2>
