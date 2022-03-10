@@ -10,7 +10,7 @@ body {
 </pre>
 <h1>HTML</h1>
 <pre>&lt;h2 color="#333"&gt;Timer until 9999&lt;/h2&gt;</pre>
-<h1>JS</h1>
+<h1>JavaScript</h1>
 <pre>
 /* Set the date we're counting down to */
 var countDownDate = new Date("Jan 1, 9999 00:00:00").getTime();
