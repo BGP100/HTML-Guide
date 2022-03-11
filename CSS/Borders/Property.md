@@ -21,10 +21,10 @@ p {
   border-left: 6px solid red;
 }
 </pre>
-<img src="https://i.imgur.com/4FjA6fG.png">
+<img src="https://i.imgur.com/h3e4hcL.png">
 <pre>
 p {
   border-bottom: 6px solid red;
 }
 </pre>
-<img src="https://i.imgur.com/h3e4hcL.png">
+<img src="https://i.imgur.com/4FjA6fG.png">
