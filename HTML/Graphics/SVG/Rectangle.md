@@ -37,7 +37,7 @@ The following chapters will explain each element, starting with the rect element
 <ul>
   <li>The CSS opacity property defines the opacity value for the whole element (legal range: 0 to 1)</li>
 </ul>
-<h1>Example 3</h1>
+<h1>Example 4</h1>
 <img src="https://i.imgur.com/0xms2Lc.png" width="150" height="150">
 <pre>&lt;svg width="400" height="180"&gt;&lt;rect x="50" y="20" rx="20" ry="20" width="150" height="150" style="fill:red;stroke:black;stroke-width:5;opacity:0.5" /&gt;&lt;/svg&gt;</pre>
 <b>Explanation:</b>
