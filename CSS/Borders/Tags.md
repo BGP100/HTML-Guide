@@ -32,7 +32,7 @@
     <td>Sets all the left border properties in one declaration</td>
   </tr>
   <tr>
-    <tdborder-left-color</td>
+    <td>border-left-color</td>
     <td>Sets the color of the left border</td>
   </tr>
   <tr>
