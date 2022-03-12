@@ -8,7 +8,7 @@
     <td>Sets all the border properties in one declaration</td>
   </tr>
   <tr>
-    <tdborder-bottom</td>
+    <td>border-bottom</td>
     <td>Sets all the bottom border properties in one declaration</td>
   </tr>
   <tr>
