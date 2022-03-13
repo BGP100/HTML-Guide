@@ -8,11 +8,11 @@ This tutorial will teach you JavaScript from basic to advanced.
 <br>
 If you didn't know, JS is an abbrebiation of JavaScript
 <p></p>
-<h2>Demo:<h2>
+<h2>Demo:</h2>
 Sorry, buttons can't be displayed on github, so just go to the preview below.
-<h2>Preview:<h2>
+<h2>Preview:</h2>
 <pre>
 &lt;button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()"&gt;
+onclick="<b>document.getElementById('demo').innerHTML = Date()</b>"&gt;
 Click me to display Date and Time.&lt;/button&gt;
 </pre>
