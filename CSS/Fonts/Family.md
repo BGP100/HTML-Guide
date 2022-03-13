@@ -20,7 +20,7 @@ All the different font names belong to one of the generic font families.
 <h1>Property</h1>
 In CSS, we use the <b>font-family</b> property to specify the font of a text.
 <br>
-<b>Tip:</b> The <b>font-family</b> property should hold several font names as a "fallback" system, to ensure maximum compatibility between browsers/operating systems. Start with the font you want, and end with a generic family (to let the browser pick a similar font in the generic family, if no other fonts are available). The font names should be separated with comma. Read more about fallback fonts in the <a href="WebSafe.md">Web Safe chatper</a>.
+<b>Tip:</b> The <b>font-family</b> property should hold several font names as a "fallback" system, to ensure maximum compatibility between browsers/operating systems. Start with the font you want, and end with a generic family (to let the browser pick a similar font in the generic family, if no other fonts are available). The font names should be separated with comma. Read more about fallback fonts in the <a href="WebSafe.md#Fallback">Web Safe chatper</a>.
 <pre>
 .ff1 {
   font-family: "Times New Roman", Times, serif;
