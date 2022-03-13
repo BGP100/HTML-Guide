@@ -1,8 +1,8 @@
 The outline property is a shorthand property for setting the following individual outline properties:
 <ul>
-outline-width
-outline-style (required)
-outline-color
+  <li>outline-width</li>
+  <li>outline-style (required)</li>
+  <li>outline-color</li>
 </ul>
 The outline property is specified as one, two, or three values from the list above. The order of the values does not matter.
 <br>
