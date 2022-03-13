@@ -10,6 +10,7 @@ p {
   font-family: Tahoma, Verdana, sans-serif;
 }
 </pre>
+More info in the <a href="Fallback.md">Fallback chapter</a>.
 <h1>Best Web Safe Fonts for HTML and CSS</h1>
 The following list are the best web safe fonts for HTML and CSS:
 <ul>
