@@ -49,7 +49,7 @@ The text size can be set with a "vw" unit, which means the "viewport width".
 <br>
 That way the text size will follow the size of the browser window:
 <br>
-<img src="https://i.imgur.com/qXBUj73.jpg">
+<img src="https://i.imgur.com/qXBUj73.jpg" width="70%">
 <pre>&lt;h1 style="font-size:10vw"&gt;Hello World&lt;/h1&gt;</pre>
 <h1>Media Queries</h1>
 In addition to resize text and images, it is also common to use media queries in responsive web pages.
