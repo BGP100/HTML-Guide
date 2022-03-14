@@ -1,5 +1,5 @@
 Great font pairings are essential to great design.
-<h1>Pairing Rule</h1>
+<h1>Pairing Rules</h1>
 Here are some basic rules to create great font pairings:
 <h2>1. Complement</h2>
 It is always safe to find font pairings that complement one another.
