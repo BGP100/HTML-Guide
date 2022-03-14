@@ -8,7 +8,7 @@ Below are some commonly used font fallbacks, organized by the 5 generic font fam
   <li><b>Fantasy</b></li>
 </ul>
 <h2>Serif Fonts</h2>
-<table class="ws-table-all notranslate">
+<table class="ws-table-all notranslate" width="100%">
   <tr>
     <th>font-family</th>
     <th>code</th>
@@ -27,7 +27,7 @@ Below are some commonly used font fallbacks, organized by the 5 generic font fam
   </tr>
 </table>
 <h2>Sans-Serif Fonts</h2>
-<table class="ws-table-all notranslate">
+<table class="ws-table-all notranslate" width="100%">
   <tr>
     <th>font-family</th>
     <th>code</th>
@@ -50,7 +50,7 @@ Below are some commonly used font fallbacks, organized by the 5 generic font fam
   </tr>
 </table>
 <h2>Monospace Fonts</h2>
-<table class="ws-table-all notranslate">
+<table class="ws-table-all notranslate" width="100%">
   <tr>
     <th>font-family</th>
     <th>code</th>
@@ -61,7 +61,7 @@ Below are some commonly used font fallbacks, organized by the 5 generic font fam
   </tr>
 </table>
 <h2>Cursive Fonts</h2>
-<table class="ws-table-all notranslate">
+<table class="ws-table-all notranslate" width="100%">
   <tr>
     <th>font-family</th>
     <th>code</th>
@@ -72,7 +72,7 @@ Below are some commonly used font fallbacks, organized by the 5 generic font fam
   </tr>
 </table>
 <h2>Fantasy Fonts</h2>
-<table class="ws-table-all notranslate">
+<table class="ws-table-all notranslate" width="100%">
   <tr>
     <th>font-family</th>
     <th>code</th>
