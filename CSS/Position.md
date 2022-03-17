@@ -61,8 +61,7 @@ div.relative {
   width: 400px;
   height: 200px;
   border: 3px solid #73AD21;
-} 
-
+}
 div.absolute {
   position: absolute;
   top: 80px;
