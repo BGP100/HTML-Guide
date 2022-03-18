@@ -3,7 +3,7 @@ A CSS selector can contain more than one simple selector. Between the simple sel
 There are four different combinators in CSS:
 <ul>
   <li>descendant selector (space)</li>
-  <li>child selector (&gt;)<li>
+  <li>child selector (&gt;)</li>
   <li>adjacent sibling selector (+)</li>
   <li>general sibling selector (~)</li>
 </ul>
