@@ -1,6 +1,7 @@
 <h1>HTML-Guide</h1>
 The ultimate HTML, CSS, and JS guide on github. (I think so)
 <p></p>
+MORE THAN 400 PAGES IN TOTAL
 <h2>List of HTML</h2>
 <ol>
   <li>Home</li>
