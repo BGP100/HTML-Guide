@@ -1,4 +1,4 @@
-CSS supports 140+ color names, HEX values, RGB values, RGBA values, HSL values, HSLA values, and opacity. <a href="/CSS/Colors/">List of Colors</a>
+CSS supports 140+ color names, HEX values, RGB values, RGBA values, HSL values, HSLA values, and opacity. <a href="/CSS/ColorsList/">List of Colors</a>
 <h1>RGBA</h1>
 RGBA color values are an extension of RGB color values with an alpha channel - which specifies the opacity for a color.
 <br>
