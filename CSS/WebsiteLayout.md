@@ -14,7 +14,7 @@ A header is usually located at the top of the website (or right below a top navi
 </pre>
 <img src="https://i.imgur.com/FJ7VTcA.jpg" width="80%">
 <h1>Navigation Bar</h1>
-<b>Tip:</b> go to my <a href="/NavigationBar/">Navigation Bar Chapters</a> for more info.
+<b>Tip:</b> go to my <a href="https://github.com/BGP100/HTML-Guide/tree/main/CSS/NavigationBar/">Navigation Bar Chapters</a> for more info.
 <br>
 A navigation bar contains a list of links to help visitors navigating through your website:
 <pre>
