@@ -18,7 +18,7 @@ The <b>border-image</b> property takes the image and slices it into nine section
 <br>
 Here, the middle sections of the image are repeated to create the border:
 <br>
-<img src="https://i.imgur.com/o07E3nF.jpg">
+<img src="https://i.imgur.com/httYU1a.jpg">
 <pre>
 #borderimg {
   border: 10px solid transparent;
