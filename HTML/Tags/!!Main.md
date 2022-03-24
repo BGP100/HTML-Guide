@@ -33,7 +33,7 @@ Here is the list of every HTML tag:
     <td>Defines an embedded applet. <code>*</code></td>
   </tr>
   <tr>
-    <td><a href="area.md">&lt;are&gt;</a></td>
+    <td><a href="area.md">&lt;area&gt;</a></td>
     <td>Defines an area inside an image map.</td>
   </tr>
   <tr>
