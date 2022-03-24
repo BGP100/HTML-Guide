@@ -34,9 +34,9 @@ The <b>&lt;body&gt;</b> element contains all the contents of an HTML document, s
   </tr>
 </table>
 <h1>Standard</h1>
-The <b>&lt;abbr&gt;</b> tag supports the standard attributes.
+The <b>&lt;body&gt;</b> tag supports the standard attributes.
 <h1>Event</h1>
-The <b>&lt;abbr&gt;</b> tag supports the event attributes.
+The <b>&lt;body&gt;</b> tag supports the event attributes.
 <h1>Default CSS</h1>
 Most browsers will display the <b>&lt;abbr&gt;</b> element with the following default values:
 <pre>
