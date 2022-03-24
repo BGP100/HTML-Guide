@@ -25,12 +25,12 @@ ctx.fillRect(0, 0, 80, 80);
     <th>Opera</th>
   </tr>
   <tr>
-    <td>Compatibility</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
-    <td>Yes</td>
+    <td>Version</td>
+    <td>4.0</td>
+    <td>9.0</td>
+    <td>2.0</td>
+    <td>3.1</td>
+    <td>9.0</td>
   </tr>
 </table>
 <h1>Standard</h1>
