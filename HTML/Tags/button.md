@@ -24,8 +24,8 @@ Tip: Always specify the type attribute for a <b>&lt;button&gt;</b> element, to t
   </tr>
 </table>
 <h1>Standard</h1>
-The <b>&lt;abbr&gt;</b> tag supports the standard attributes.
+The <b>&lt;button&gt;</b> tag supports the standard attributes.
 <h1>Event</h1>
-The <b>&lt;abbr&gt;</b> tag supports the event attributes.
+The <b>&lt;button&gt;</b> tag supports the event attributes.
 <h1>Default CSS</h1>
 None.
