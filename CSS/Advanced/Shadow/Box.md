@@ -47,7 +47,9 @@ div {
 <h1>Multiple Shadows</h1>
 An element can also have multiple shadows:
 <pre>
-
+div {
+  box-shadow: 5px 5px blue, 10px 10px red, 15px 15px green;
+}
 </pre>
 <h1>Cards</h1>
 <img src="https://i.imgur.com/X4FRbVJ.jpg" width="50%">
