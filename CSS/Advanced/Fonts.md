@@ -87,7 +87,7 @@ In the <b>@font-face</b> rule; first define a name for the font (e.g. myFirstFon
 <br>
 To use the font for an HTML element, refer to the name of the font (myFirstFont) through the <b>@font-family</b> property:
 <pre>
-font-face {
+@font-face {
   font-family: myFirstFont;
   src: url(sansation_light.woff);
 }
@@ -98,7 +98,7 @@ div {
 <h1>Bold Text</h1>
 You must add another <b>@font-face</b> rule containing descriptors for bold text:
 <pre>
-font-face {
+@font-face {
   font-family: myFirstFont;
   src: url(sansation_bold.woff);
   font-weight: bold;
