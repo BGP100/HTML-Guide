@@ -26,15 +26,15 @@ The numbers in the table specify the first browser version that fully supports t
 <h1>All Methods</h1>
 With the CSS transform property you can use the following 2D transformation methods:
 <ul>
-  <li><a href="#translate()">translate()</a></li>
-  <li><a href="#rotate()">rotate()</a></li>
-  <li><a href="#scaleX()">scaleX()</a></li>
-  <li><a href="#scaleY()">scaleY()</a></li>
-  <li><a href="#scale()">scale()</a></li>
-  <li><a href="#skewX()">skewX()</a></li>
-  <li><a href="#skewY()">skewY()</a></li>
-  <li><a href="#skew()">skew()</a></li>
-  <li><a href="#matrix()">matrix()</a></li>
+  <li><a href="#translate">translate()</a></li>
+  <li><a href="#rotate">rotate()</a></li>
+  <li><a href="#scaleX">scaleX()</a></li>
+  <li><a href="#scaleY">scaleY()</a></li>
+  <li><a href="#scale">scale()</a></li>
+  <li><a href="#skewX">skewX()</a></li>
+  <li><a href="#skewY">skewY()</a></li>
+  <li><a href="#skew">skew()</a></li>
+  <li><a href="#matrix">matrix()</a></li>
 </ul>
 <h1>translate()</h1>
 <img src="https://i.imgur.com/vFgkTxZ.jpg">
