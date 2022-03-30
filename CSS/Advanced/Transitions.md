@@ -129,7 +129,7 @@ div {
 }
 </pre>
 <h1>More Examples</h1>
-The CSS transition properties can be specified one by one, like this:
+The CSS <b>transition</b> properties can be specified one by one, like this:
 <pre>
 div {
   transition-property: width;
