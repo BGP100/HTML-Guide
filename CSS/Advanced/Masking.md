@@ -87,6 +87,6 @@ mask2 {
     &lt;circle fill="#ffffff" cx="80" cy="260" r="75"&gt;&lt;/circle&gt;
     &lt;circle fill="#ffffff" cx="270" cy="160" r="75"&gt;&lt;/circle&gt;
   &lt;/mask&gt;
-  &lt;image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="img_5terre.jpg" mask="url(#svgmask2)"&gt;&lt;/image&gt;
+  &lt;image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="img_5terre.jpg" mask="url(#svgmask3)"&gt;&lt;/image&gt;
 &lt;/svg&gt;
 </pre>
