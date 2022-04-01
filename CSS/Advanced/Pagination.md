@@ -41,7 +41,7 @@ Change the size of the pagination with the <b>font-size</b> property:
 }
 </pre>
 <h1>Breadcrums</h1>
-<pre><a href="#">Home</a> / <a href="#">Pictures</a> / <a href="#">Summer 15</a> / <b>Italy</b></pre>
+<pre><a href="#Breadcrums">Home</a> / <a href="#Breadcrums">Pictures</a> / <a href="#Breadcrums">Summer 15</a> / <b>Italy</b></pre>
 Another variation of pagination is so-called "breadcrumbs":
 <pre>
 ul.breadcrumb {
