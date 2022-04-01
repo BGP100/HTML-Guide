@@ -62,17 +62,17 @@ First, we declare two global variables (--blue and --white). Then, we use the <b
   --blue: #1e90ff;
   --white: #ffffff;
 }
-
-body { background-color: var(--blue); }
-
-h2 { border-bottom: 2px solid var(--blue); }
-
+body {
+  background-color: var(--blue);
+}
+h2 {
+  border-bottom: 2px solid var(--blue);
+}
 .container {
   color: var(--blue);
   background-color: var(--white);
   padding: 15px;
 }
-
 button {
   background-color: var(--white);
   color: var(--blue);
