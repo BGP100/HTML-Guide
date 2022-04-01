@@ -110,7 +110,7 @@ button {
 }
 </pre>
 <h1>Browser Support</h1>
-The numbers in the table specify the first browser version that fully supports the var() function.
+The numbers in the table specify the first browser version that fully supports the <b>var()</b> function.
 <table class="ws-table-all notranslate">
   <tr>
     <th>Browser</th>
