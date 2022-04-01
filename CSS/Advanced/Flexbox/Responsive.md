@@ -1,4 +1,4 @@
-You learned from the CSS <a href="/CSS/Advanced/MediaQueries.md">Media Queries</a> chapter that you can use media queries to create different layouts for different screen sizes and devices.
+You learned from the CSS <a href="https://github.com/BGP100/HTML-Guide/blob/main/CSS/Advanced/MediaQueries.md">Media Queries</a> chapter that you can use media queries to create different layouts for different screen sizes and devices.
 <br>
 For example, if you want to create a two-column layout for most screen sizes, and a one-column layout for small screen sizes (such as phones and tablets), you can change the <b>flex-direction</b> from <b>row</b> to <b>column</b> at a specific breakpoint (800px in the example below):
 <pre>
