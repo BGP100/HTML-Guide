@@ -10,7 +10,9 @@ Web pages can be viewed using many different devices: desktops, tablets, and pho
 Web pages should not leave out information to fit smaller devices, but rather adapt its content to fit any device:
 <br>
 <b>Desktop:</b> <img src="https://i.imgur.com/lIRIeMw.png">
+<br>
 <b>Tablet:</b> <img src="https://i.imgur.com/RlPEkWp.png">
+<br>
 <b>Phone:</b> <img src="https://i.imgur.com/1Z1rgr1.png">
 <br>
 It is called responsive web design when you use CSS and HTML to resize, hide, shrink, enlarge, or move the content to make it look good on any screen.
