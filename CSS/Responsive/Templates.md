@@ -41,7 +41,7 @@ You are free to modify, save, share, and use them in all your projects.
 <img src="https://i.imgur.com/ZUAT4mG.jpg" width="80%">
 <br>
 <a href="https://codepen.io/BGP100/pen/1234567">View Code</a>
-<h1>Photo Template</h1>
+<h1>Photo 1 Template</h1>
 <img src="https://i.imgur.com/Dm69OIe.jpg" width="80%">
 <br>
 <a href="https://codepen.io/BGP100/pen/1234567">View Code</a>
@@ -53,15 +53,11 @@ You are free to modify, save, share, and use them in all your projects.
 <img src="https://i.imgur.com/p9Gy3tH.jpg" width="80%">
 <br>
 <a href="https://codepen.io/BGP100/pen/1234567">View Code</a>
-<h1>Black &amp; White Template</h1>
-<img src="https://i.imgur.com/aNSUYzk.jpg" width="80%">
-<br>
-<a href="https://codepen.io/BGP100/pen/1234567">View Code</a>
 <h1>Nature Template</h1>
 <img src="https://i.imgur.com/yfShgP4.jpg" width="80%">
 <br>
 <a href="https://codepen.io/BGP100/pen/1234567">View Code</a>
-<h1>People Template</h1>
+<h1>People 1 Template</h1>
 <img src="https://i.imgur.com/ZSs4ItI.jpg" width="80%">
 <br>
 <a href="https://codepen.io/BGP100/pen/1234567">View Code</a>
@@ -73,7 +69,7 @@ You are free to modify, save, share, and use them in all your projects.
 <img src="https://i.imgur.com/GWQaGog.jpg" width="80%">
 <br>
 <a href="https://codepen.io/BGP100/pen/1234567">View Code</a>
-<h1>Black &amp; White 2 Template</h1>
+<h1>Black &amp; White Template</h1>
 <img src="https://i.imgur.com/g8r6TA7.jpg" width="80%">
 <br>
 <a href="https://codepen.io/BGP100/pen/1234567">View Code</a>
