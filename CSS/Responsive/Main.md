@@ -4,11 +4,11 @@ Responsive web design makes your web page look good on all devices.
 Responsive web design uses only HTML and CSS.
 <br>
 Responsive web design is not a program or a JavaScript.
-<h1></h1>
+<h1>Designing For The Best Experience For All Users</h1>
 Web pages can be viewed using many different devices: desktops, tablets, and phones. Your web page should look good, and be easy to use, regardless of the device.
 <br>
 Web pages should not leave out information to fit smaller devices, but rather adapt its content to fit any device:
-<br>
+<p></p>
 <b>Desktop:</b> <img src="https://i.imgur.com/lIRIeMw.png">
 <br>
 <b>Tablet:</b> <img src="https://i.imgur.com/RlPEkWp.png">
