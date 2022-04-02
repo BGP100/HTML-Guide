@@ -1,6 +1,8 @@
 All popular CSS Frameworks offer responsive design.
 <br>
 They are free, and easy to use.
+<p></p>
+For more W3.CSS templates go to the <a href="Templates.md">Responsive Templates</a> chapter.
 <h1>W3.CSS</h1>
 W3.CSS is a modern CSS framework with support for desktop, tablet, and mobile design by default.
 <br>
