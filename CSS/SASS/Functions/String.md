@@ -9,58 +9,58 @@ The following table lists all string functions in SASS:
     <th>Description &amp; Example</th>
   </tr>
   <tr>
-    <td>quote(<i>string</i>)</td>
-    <td>Adds quotes to <i>string</i>, and returns the result.<br><br>
-    <b>Example:</b><br>quote(Hello world!)<br>Result: "Hello world!"</td>
+    <td>quote(<em>string</em>)</td>
+    <td>Adds quotes to <em>string</em>, and returns the result.<br><br>
+    <strong>Example:</strong><br>quote(Hello world!)<br>Result: &quot;Hello world!&quot;</td>
   </tr>
   <tr>
-    <td>str-index(<i>string</i>,<i> substring</i>)</td>
-    <td>Returns the index of the first occurrence of the <i>substring</i> within 
-    <i>string</i>.<br><br>
-    <b>Example:</b><br>str-index("Hello world!", "H")<br>Result: 1</td>
+    <td>str-index(<em>string</em>,<em> substring</em>)</td>
+    <td>Returns the index of the first occurrence of the <em>substring</em> within 
+    <em>string</em>.<br><br>
+    <strong>Example:</strong><br>str-index(&quot;Hello world!&quot;, &quot;H&quot;)<br>Result: 1</td>
   </tr>
   <tr>
-    <td>str-insert(<i>string</i>, <i>insert</i>, <i>index</i>)</td>
-    <td>Returns <i>string</i> with <i>insert</i> inserted at the specified 
-    <i>index</i> position.<br><br>
-    <b>Example:</b><br>str-insert("Hello world!", " wonderful", 6)<br>Result: "Hello 
-    wonderful world!"</td>
+    <td>str-insert(<em>string</em>, <em>insert</em>, <em>index</em>)</td>
+    <td>Returns <em>string</em> with <em>insert</em> inserted at the specified 
+    <em>index</em> position.<br><br>
+    <strong>Example:</strong><br>str-insert(&quot;Hello world!&quot;, &quot; wonderful&quot;, 6)<br>Result: &quot;Hello 
+    wonderful world!&quot;</td>
   </tr>
   <tr>
-    <td>str-length(<i>string</i>)</td>
-    <td>Returns the length of <i>string</i> (in characters).<br><br>
-    <b>Example:</b><br>str-length("Hello world!")<br>Result: 12</td>
+    <td>str-length(<em>string</em>)</td>
+    <td>Returns the length of <em>string</em> (in characters).<br><br>
+    <strong>Example:</strong><br>str-length(&quot;Hello world!&quot;)<br>Result: 12</td>
   </tr>
   <tr>
-    <td>str-slice(<i>string</i>, <i>start</i>, <i>end</i>)</td>
-    <td>Extracts characters from <i>string</i>; start at <i>start</i> 
-    and end at <i>end</i>, and returns the slice.<br><br>
-    <b>Example:</b><br>str-slice("Hello world!", 2, 
-    5)<br>Result: "ello"</td>
+    <td>str-slice(<em>string</em>, <em>start</em>, <em>end</em>)</td>
+    <td>Extracts characters from <em>string</em>; start at <em>start</em> 
+    and end at <em>end</em>, and returns the slice.<br><br>
+    <strong>Example:</strong><br>str-slice(&quot;Hello world!&quot;, 2, 
+    5)<br>Result: &quot;ello&quot;</td>
   </tr>
   <tr>
-    <td>to-lower-case(<i>string</i>)</td>
-    <td>Returns a copy of <i>string</i> converted to lower case.<br><br>
-    <b>Example:</b><br>to-lower-case("Hello 
-    World!")<br>Result: "hello world!"</td>
+    <td>to-lower-case(<em>string</em>)</td>
+    <td>Returns a copy of <em>string</em> converted to lower case.<br><br>
+    <strong>Example:</strong><br>to-lower-case(&quot;Hello 
+    World!&quot;)<br>Result: &quot;hello world!&quot;</td>
   </tr>
   <tr>
-    <td>to-upper-case(<i>string</i>)</td>
-    <td>Returns a copy of <i>string</i> converted to upper case.<br><br>
-    <strong>Example:</strong><br>to-upper-case("Hello 
-    World!")<br>Result: "HELLO WORLD!"</td>
+    <td>to-upper-case(<em>string</em>)</td>
+    <td>Returns a copy of <em>string</em> converted to upper case.<br><br>
+    <strong>Example:</strong><br>to-upper-case(&quot;Hello 
+    World!&quot;)<br>Result: &quot;HELLO WORLD!&quot;</td>
   </tr>
   <tr>
     <td>unique-id()</td>
     <td>Returns a unique randomly generated unquoted string (guaranteed to be 
     unique within the current sass session).<br><br>
-    <b>Example:</b><br>unique-id()<br>Result: 
+    <strong>Example:</strong><br>unique-id()<br>Result: 
     tyghefnsv</td>
   </tr>
   <tr>
-    <td>unquote(<i>string</i>)</td>
-    <td>Removes quotes around <i>string</i> (if any), and returns the result.<br>
+    <td>unquote(<em>string</em>)</td>
+    <td>Removes quotes around <em>string</em> (if any), and returns the result.<br>
     <br>
-    <b>Example:</b><br>unquote("Hello world!")<br>Result: Hello world!</td>
+    <strong>Example:</strong><br>unquote(&quot;Hello world!&quot;)<br>Result: Hello world!</td>
   </tr>
 </table>
