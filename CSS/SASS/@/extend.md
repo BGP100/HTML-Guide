@@ -30,11 +30,9 @@ After compilation, the CSS will look like this:
   font-size: 16px;
   cursor: pointer;
 }
-
 .button-report  {
   background-color: red;
 }
-
 .button-submit  {
   background-color: green;
   color: white;
