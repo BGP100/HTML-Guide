@@ -18,7 +18,7 @@ nav {
   }
 }
 </pre>
-Notice that in Sass, the <b>ul</b>, <b>li</b>, and <b>a</b> selectors are nested inside the <b>nav</b> selector.
+Notice that in SASS, the <b>ul</b>, <b>li</b>, and <b>a</b> selectors are nested inside the <b>nav</b> selector.
 <br>
 While in CSS, the rules are defined one by one (not nested):
 <pre>
@@ -36,11 +36,11 @@ nav a {
   text-decoration: none;
 }
 </pre>
-Because you can nest properties in Sass, it is cleaner and easier to read than standard CSS.
+Because you can nest properties in SASS, it is cleaner and easier to read than standard CSS.
 <h1>Properties</h1>
-Many CSS properties have the same prefix, like font-family, font-size and font-weight or text-align, text-transform and text-overflow.
+Many CSS properties have the same prefix, like <b>font-family</b>, <b>font-size</b> and <b>font-weight</b> or <b>text-align</b>, <b>text-transform</b> and text-overflow.
 <br>
-With Sass you can write them as nested properties:
+With SASS you can write them as nested properties:
 <pre>
 font: {
   family: Helvetica, sans-serif;
