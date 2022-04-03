@@ -200,13 +200,13 @@ MORE THAN 400 PAGES IN TOTAL
   <li>SASS @import</li>
   <li>SASS @mixin</li>
   <li>SASS @extend</li>
-  <li>SASS String</li>
-  <li>SASS Numeric</li>
-  <li>SASS List</li>
-  <li>SASS Map</li>
-  <li>SASS Selector</li>
-  <li>SASS Introspection</li>
-  <li>SASS Color</li>
+  <li>SASS String Function</li>
+  <li>SASS Numeric Function</li>
+  <li>SASS List Function</li>
+  <li>SASS Map Function</li>
+  <li>SASS Selector Function</li>
+  <li>SASS Introspection Function</li>
+  <li>SASS Color Function</li>
 </ol>
 <h2>List of JavaScript</h2>
 <ol>
