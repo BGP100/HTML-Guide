@@ -28,7 +28,6 @@ and now we want to import the "reset.scss" file into another file called "standa
 Here is how we do it: It is normal to add the @import directive at the top of a file; this way its content will have a global scope:
 <pre>
 @import "reset";
-
 body {
   font-family: Helvetica, sans-serif;
   font-size: 18px;
