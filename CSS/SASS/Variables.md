@@ -43,12 +43,10 @@ Sass variables are only available at the level of nesting where they are defined
 Look at the following example:
 <pre>
 $myColor: red;
-
 h1 {
   $myColor: green;
   color: $myColor;
 }
-
 p {
   color: $myColor;
 }
