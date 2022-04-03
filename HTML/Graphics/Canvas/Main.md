@@ -39,4 +39,4 @@ The markup looks like this:
 Here is an example of a basic, empty canvas:
 <br>
 <img src="https://i.imgur.com/BwoXDFW.jpg" width="200" height="100">
-<pre>&lt;canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;"&gt;&lt;/canvas&gt;
+<pre>&lt;canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;"&gt;&lt;/canvas&gt;</pre>
