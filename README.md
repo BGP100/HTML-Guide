@@ -280,7 +280,7 @@ MORE THAN 400 PAGES IN TOTAL
   <li>Version 2016</li>
   <li>Version 2017</li>
   <li>Version 2018</li>
-  <li>Version IE/Edge</li>
+  <li>Version Edge/IE</li>
   <li>Version History</li>
   <li>Definitions</li>
   <li>Properties</li>
