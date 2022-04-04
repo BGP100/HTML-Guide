@@ -1,4 +1,4 @@
-<h1>Aritmetic Operators</h1>
+<h1>Arithmetic Operators</h1>
 <table class="ws-table-all notranslate">
   <tr>
     <th>Operator</th>
@@ -37,7 +37,7 @@
     <td>Decrement.</td>
   </tr>
 </table>
-More info in the <a href="Aritmetic.md">Aritmetic</a> chapter.
+More info in the <a href="Arithmetic.md">Arithmetic</a> chapter.
 <h1>Assignment Operators</h1>
 <table class="ws-table-all notranslate">
   <tr>
