@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td><code>**</code></td>
-    <td>Exponentation. (ES2016)</td>
+    <td>Exponentation (ES2016).</td>
   </tr>
   <tr>
     <td><code>/</code></td>
@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td><code>%</code></td>
-    <td>Modulus. (Division Remainder)</td>
+    <td>Modulus (Division Remainder).</td>
   </tr>
   <tr>
     <td><code>++</code></td>
@@ -37,6 +37,7 @@
     <td>Decrement.</td>
   </tr>
 </table>
+More info in the <a href="Aritmetic.md">Aritmetic</a> chapter.
 <h1>Assignment Operators</h1>
 <table class="ws-table-all notranslate">
   <tr>
@@ -72,6 +73,7 @@
     <td>Raises the value of a variable.</td>
   </tr>
 </table>
+More info in the <a href="Assignment.md">Assignment</a> chapter.
 <h1>Comparison Operators</h1>
 <table class="ws-table-all notranslate">
   <tr>
@@ -115,6 +117,7 @@
     <td>Ternary operator.</td>
   </tr>
 </table>
+More info in the <a href="Comparison.md">Comparison</a> chapter.
 <h1>Logical Operators</h1>
 <table class="ws-table-all notranslate">
   <tr>
@@ -134,6 +137,7 @@
     <td>Logical not.</td>
   </tr>
 </table>
+More info in the <a href="Logical.md">Logical</a> chapter.
 <h1>Type Operators</h1>
 <table class="ws-table-all notranslate">
   <tr>
@@ -149,7 +153,8 @@
     <td>Returns <b>true</b> if an object is an instance of an object type, and returns <b>false</b> if not.</td>
   </tr>
 </table>
-<h1>Assignment Operators</h1>
+More info in the <a href="Type.md">Type</a> chapter.
+<h1>Bitwise Operators</h1>
 <table class="ws-table-all notranslate">
   <tr>
     <th>Operator</th>
@@ -184,3 +189,4 @@
     <td>Unsigned right shift.</td>
   </tr>
 </table>
+More info in the <a href="Bitwise.md">Bitwise</a> chapter.
