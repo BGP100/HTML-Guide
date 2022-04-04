@@ -221,8 +221,12 @@ MORE THAN 400 PAGES IN TOTAL
   <li>Let</li>
   <li>Const</li>
   <li>Operators</li>
-  <li>Arithmetic</li>
-  <li>Assigment</li>
+  <li>Arithmetic Operators</li>
+  <li>Assigment Operators</li>
+  <li>Comparison Operators</li>
+  <li>Logical Operators</li>
+  <li>Type Operators</li>
+  <li>Bitwise Operators</li>
   <li>Data Types</li>
   <li>Functions</li>
   <li>Objects</li>
