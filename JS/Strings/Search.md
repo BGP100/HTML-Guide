@@ -47,7 +47,6 @@ The endsWith() method returns true if a string ends with a specified value, othe
 let text = "John Doe";
 text.endsWith("Doe");
 </pre>
-
 <h1>search()</h1>
 The <b>search()</b> method searches a string for a specified value and returns the position of the match:
 <pre>
