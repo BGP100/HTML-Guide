@@ -65,7 +65,7 @@ Date methods allow you to get and set the year, month, day, hour, minute, second
 <h1>Displaying Dates</h1>
 JavaScript will (by default) output dates in full text string format:
 <br>
-<code>Thu Apr 07 2022 11:05:00 GMT-0500 (CDT)</code>
+<code>Thu Apr 07 2022 11:09:00 GMT-0500 (CDT)</code>
 <p></p>
 When you display a date object in HTML, it is automatically converted to a string, with the <b>toString()</b> method.
 <pre>
