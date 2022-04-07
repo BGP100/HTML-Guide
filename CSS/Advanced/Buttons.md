@@ -81,3 +81,12 @@ button.test3{width:100%;}
 </pre>
 <h1>Button on Image</h1>
 <img src="https://i.imgur.com/TexuWPt.png">
+<h1>Disabled Buttons</h1>
+The <b>readonly</b> attribute is a boolean attribute. 
+<br>
+When present, it specifies that an input field or textarea is read-only. 
+<br>
+A read-only field cannot be modified (however, a user can tab to it, highlight it, and copy the text from it). 
+<br>
+The <b>readonly</b> attribute can be set to keep a user from changing the value until some other conditions have been met (like selecting a checkbox, etc.). Then, a JavaScript can remove the readonly value, and make the input field editable.
+<pre>&lt;input type="text" id="text" name="text" value="Hello" readonly&gt;</pre>
