@@ -1,3 +1,7 @@
+<a href="/HTML/Comments.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Colors/RGB.md">Next &gt;</a>
+<hr>
 HTML colors are specified with predefined color names, or with RGB, HEX, HSL, RGBA, or HSLA values.
 <br>
 <img src="https://via.placeholder.com/15/ff6347/000000?text=+"> Tomato
