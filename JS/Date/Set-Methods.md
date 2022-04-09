@@ -54,3 +54,18 @@ The <b>setSeconds()</b> method sets the seconds of a date object (0-59):
 const d = new Date();
 d.setSeconds(30);
 </pre>
+<h1>Compare Dates</h1>
+Dates can easily be compared.
+<br>
+The following example compares today's date with January 14, 2100:
+<pre>
+let text = "";
+const today = new Date();
+const someday = new Date();
+someday.setFullYear(2100, 0, 14);
+if (someday > today) {
+  text = "Today is before January 14, 2100.";
+} else {
+  text = "Today is after January 14, 2100.";
+}
+</pre>
