@@ -1,3 +1,7 @@
+<a href="/HTML/Styles.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Quotations.md">Next &gt;</a>
+<hr>
 HTML contains several elements for defining text with a special meaning...
 <hr>
 <p><b>This text is bold</b></p>
