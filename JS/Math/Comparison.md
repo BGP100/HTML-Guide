@@ -71,7 +71,7 @@ Given that <code>x = 6</code> and <code>y = 3</code>, the table below explains t
     <td>Logical not.</td>
   </tr>
 </table>
-More info in the <a href="/JS/Operators/Logical.md">Logical</a> chapter.
+More info in the <a href="/JS/Operators/Logical.md">Logical Operators</a> chapter.
 <h1>Comparing Different Types</h1>
 Comparing data of different types may give unexpected results.
 <br>
