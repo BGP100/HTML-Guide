@@ -1,3 +1,7 @@
+<a href="/HTML/Home.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Editors.md">Next &gt;</a>
+<hr>
 <h1>What is it?</h1>
 <ul>
   <li>HTML stands for Hyper Text Markup Language.</li>
