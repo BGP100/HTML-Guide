@@ -6,7 +6,7 @@ In JavaScript we have the following conditional statements:
 <ul>
   <li>Use <a href="#if">if</a> to specify a block of code to be executed, if a specified condition is true.</li>
   <li>Use <a href="#else">else</a> to specify a block of code to be executed, if the same condition is false.</li>
-  <li>Use <a href="#if-else">else if</a> to specify a new condition to test, if the first condition is false.</li>
+  <li>Use <a href="#else-if">else if</a> to specify a new condition to test, if the first condition is false.</li>
   <li>Use <a href="Switch.md">switch</a> to specify many alternative blocks of code to be executed.</li>
 </ul>
 <h1>if</h1>
