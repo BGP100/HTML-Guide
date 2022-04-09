@@ -1,3 +1,7 @@
+<a href="/HTML/Colors/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Colors/HEX.md">Next &gt;</a>
+<hr>
 An RGB color value represents RED, GREEN, and BLUE light sources.
 <br>
 An RGBA color value is an extension of RGB with an Alpha channel. (opacity)
