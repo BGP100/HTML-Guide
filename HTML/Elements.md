@@ -1,3 +1,7 @@
+<a href="/HTML/Basic.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Attributes.md">Next &gt;</a>
+<hr>
 <h1>What is an Element?</h1>
 An HTML element is defined by a start tag, some content, and an end tag:
 <p></p>
