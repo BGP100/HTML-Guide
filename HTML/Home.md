@@ -1,3 +1,7 @@
+<a href="https://bledy-guides.repl.co">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Introduction.md">Next &gt;</a>
+<hr>
 HTML is the standard markup language for Web pages.
 <br>
 With HTML you can create your own Website.
