@@ -1,5 +1,5 @@
 The JavaScript for in statement loops through the properties of an Object:
-
+<br>
 <b>Syntax:</b>
 <pre>
 for (key in object) {
@@ -35,7 +35,7 @@ for (let x in numbers) {
 }
 </pre>
 <h1>Array.forEach()</h1>
-The forEach() method calls a function (a callback function) once for each array element.
+The <b>forEach()</b> method calls a function (a callback function) once for each array element.
 <pre>
 const numbers = [45, 4, 9, 16, 25];
 let txt = "";
