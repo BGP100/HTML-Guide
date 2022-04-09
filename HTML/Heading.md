@@ -1,3 +1,7 @@
+<a href="/HTML/Attributes.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Paragraphs.md">Next &gt;</a>
+<hr>
 HTML headings are defined with the &lt;h1&gt; to &lt;h6&gt; tags.
 <br>
 &lt;h1&gt; defines the most important heading. &lt;h6&gt; defines the least important heading.
