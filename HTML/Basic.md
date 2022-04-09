@@ -1,3 +1,7 @@
+<a href="/HTML/Editors.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Elements.md">Next &gt;</a>
+<hr>
 <h1>Documents</h1>
 All HTML documents must start with a document type declaration: &lt;!DOCTYPE html&gt;.
 <br>
