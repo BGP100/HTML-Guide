@@ -1,3 +1,7 @@
+<a href="/HTML/Colors/HEX.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/CSS.md">Next &gt;</a>
+<hr>
 HSL stands for hue, saturation, and lightness.
 <br>
 HSLA color values are an extension of HSL with an Alpha channel (opacity).
