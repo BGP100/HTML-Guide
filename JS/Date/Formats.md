@@ -54,7 +54,7 @@ And, month can be written in full (January), or abbreviated (Jan):
 Commas are ignored. Names are case insensitive:
 <pre>const d = new Date("JANUARY, 25, 2015");</pre>
 <h1>Parsing Dates</h1>
-If you have a valid date string, you can use the Date.parse() method to convert it to milliseconds.
+If you have a valid date string, you can use the <b>Date.parse()</b> method to convert it to milliseconds.
 <br>
 <b>Date.parse()</b> returns the number of milliseconds between the date and January 1, 1970:
 <pre>let msec = Date.parse("March 21, 2012");</pre>
