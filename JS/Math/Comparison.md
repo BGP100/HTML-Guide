@@ -2,7 +2,7 @@ Comparison and Logical operators are used to test for <b>true</b> or <b>false</b
 <hr>
 Comparison operators are used in logical statements to determine equality or difference between variables or values.
 <br>
-Given that x = 5, the table below explains the comparison operators:
+Given that <code>x = 5</code>, the table below explains the comparison operators:
 <table class="ws-table-all notranslate">
   <tr>
     <th>Operator</th>
@@ -45,14 +45,14 @@ Given that x = 5, the table below explains the comparison operators:
     <td>Ternary operator.</td>
   </tr>
 </table>
-More info in the <a href="/Operators/Comparison.md">Comparison Operators</a> chapter.
+More info in the <a href="/JS/Operators/Comparison.md">Comparison Operators</a> chapter.
 <h1>How Can it be Used</h1>
 Comparison operators can be used in conditional statements to compare values and take action depending on the result:
 <pre>if (age < 18) text = "Too young to buy alcohol";</pre>
 <h1>Logical Operators</h1>
 Logical operators are used to determine the logic between variables or values.
 <br>
-Given that x = 6 and y = 3, the table below explains the logical operators:
+Given that <code>x = 6</code> and <code>y = 3</code>, the table below explains the logical operators:
 <table class="ws-table-all notranslate">
   <tr>
     <th>Operator</th>
@@ -71,11 +71,11 @@ Given that x = 6 and y = 3, the table below explains the logical operators:
     <td>Logical not.</td>
   </tr>
 </table>
-More info in the <a href="/Operators/Logical.md">Logical</a> chapter.
+More info in the <a href="/JS/Operators/Logical.md">Logical</a> chapter.
 <h1>Comparing Different Types</h1>
 Comparing data of different types may give unexpected results.
 <br>
-When comparing a string with a number, JavaScript will convert the string to a number when doing the comparison. An empty string converts to 0. A non-numeric string converts to NaN which is always false.
+When comparing a string with a number, JavaScript will convert the string to a number when doing the comparison. An empty string converts to 0. A non-numeric string converts to <b>NaN</b> which is always <b>false</b>.
 <br>
 When comparing two strings, "2" will be greater than "12", because (alphabetically) 1 is less than 2.
 <br>
