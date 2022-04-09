@@ -1,4 +1,4 @@
-The JavaScript for in statement loops through the properties of an Object:
+The JavaScript <b>for in</b> statement loops through the properties of an Object:
 <br>
 <b>Syntax:</b>
 <pre>
