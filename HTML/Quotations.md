@@ -1,4 +1,7 @@
-<h1>Index</h1>
+<a href="/HTML/Formats.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Comments.md">Next &gt;</a>
+<hr>
 <ul>
   <li><a href="#blockquote">&lt;blockquote&gt;</a></li>
   <li><a href="#q">&lt;q&gt;</a></li>
