@@ -1,3 +1,7 @@
+<a href="/HTML/Paragraphs.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Formats.md">Next &gt;</a>
+<hr>
 <ul>
   <li>Use the style attribute for styling HTML elements.</li>
   <li>Use background-color for background color.</li>
