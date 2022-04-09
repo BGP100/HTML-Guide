@@ -1,3 +1,7 @@
+<a href="/HTML/Colors/RGB.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Colors/HSL.md">Next &gt;</a>
+<hr>
 A hexadecimal color is specified with: #RRGGBB, where the RR (red), GG (green) and BB (blue) hexadecimal integers specify the components of the color.
 <br>
 In HTML, a color can be specified using a hexadecimal value in the form:
