@@ -1,3 +1,7 @@
+<a href="/HTML/Introduction.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Basic.md">Next &gt;</a>
+<hr>
 Web pages can be created and modified by using professional HTML editors.
 <br>
 However, for learning HTML we recommend a simple text editor like Notepad (PC) or TextEdit (Mac).
