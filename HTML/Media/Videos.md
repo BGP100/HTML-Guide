@@ -1,3 +1,7 @@
+<a href="/HTML/Media/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Media/Audios.md">Next &gt;</a>
+<hr>
 The HTML <b>&lt;video&gt;</b> element is used to show a video on a web page.
 <h1>The Element</h1>
 To show a video in HTML, use the <b>&lt;video&gt;</b> element:
