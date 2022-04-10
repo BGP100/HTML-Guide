@@ -1,3 +1,7 @@
+<a href="/CSS/Display.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Posistion.md">Next &gt;</a>
+<hr>
 As mentioned in the <a href="Display.md">previous chapter</a>; a block-level element always takes up the full width available (stretches out to the left and right as far as it can).
 <br>
 Setting the <b>width</b> of a block-level element will prevent it from stretching out to the edges of its container. Then, you can set the margins to auto, to horizontally center the element within its container. The element will take up the specified width, and the remaining space will be split equally between the two margins.
