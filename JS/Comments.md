@@ -1,3 +1,7 @@
+<a href="/JS/Syntax.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Variable.md">Next &gt;</a>
+<hr>
 JavaScript comments can be used to explain JavaScript code, and to make it more readable.
 <br>
 JavaScript comments can also be used to prevent execution, when testing alternative code.
