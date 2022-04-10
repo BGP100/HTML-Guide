@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Multiple-Columns.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Variables/Main.md">Next &gt;</a>
+<hr>
 In this chapter you will learn about the following CSS user interface properties:
 <ul>
   <li><b>resize</b></li>
