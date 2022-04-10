@@ -1,3 +1,7 @@
+<a href="/CSS/Tables/Alignment.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Tables/Responsive.md">Next &gt;</a>
+<hr>
 <h1>Padding</h1>
 To control the space between the border and the content in a table, use the padding property on <b>&lt;td&gt;</b> and <b>&lt;th&gt;</b> elements:
 <br>
