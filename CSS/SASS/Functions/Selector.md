@@ -1,3 +1,7 @@
+<a href="/CSS/SASS/Functions/Map.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/SASS/Functions/Introspection.md">Next &gt;</a>
+<hr>
 The selector functions are used to check and manipulate selectors. 
 <br>
 The following table lists all selector functions in SASS:
