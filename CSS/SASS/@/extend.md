@@ -1,6 +1,6 @@
 <a href="/CSS/SASS/@/mixin.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/CSS/SASS/Functions/.md">Next &gt;</a>
+<a href="/CSS/SASS/Functions/String.md">Next &gt;</a>
 <hr>
 The <b>@extend</b> directive lets you share a set of CSS properties from one selector to another.
 <br>
@@ -44,4 +44,4 @@ After compilation, the CSS will look like this:
 </pre>
 By using the <b>@extend</b> directive, you do not need to specify several classes for an element in your HTML code, like this: <code>&lt;button class="button-basic button-report"&gt;Report this&lt;/button&gt;</code>. You just need to specify .button-report to get both sets of styles.
 <br>
-The <b>@extend</b> directive helps keep your Sass code very DRY.
+The <b>@extend</b> directive helps keep your Sass code very DRY.=
