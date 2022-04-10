@@ -1,3 +1,7 @@
+<a href="/CSS/SASS/@/mixin.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/SASS/Functions/.md">Next &gt;</a>
+<hr>
 The <b>@extend</b> directive lets you share a set of CSS properties from one selector to another.
 <br>
 The <b>@extend</b> directive is useful if you have almost identically styled elements that only differ in some small details.
