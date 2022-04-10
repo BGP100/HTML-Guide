@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/ImageReflection.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Object-position.md">Next &gt;</a>
+<hr>
 The CSS object-fit property is used to specify how an <b>&lt;img&gt;</b> or <b>&lt;video&gt;</b> should be resized to fit its container.
 <hr>
 The CSS object-fit property is used to specify how an <b>&lt;img&gt;</b> or <b>&lt;video&gt;</b> should be resized to fit its container.
