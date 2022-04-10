@@ -1,6 +1,6 @@
-<a href="/JS/Formats.md">&lt; Previous</a>
+<a href="/JS/Date/Formats.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/Set-Methods.md">Next &gt;</a>
+<a href="/JS/Date/Set-Methods.md">Next &gt;</a>
 <hr>
 These methods can be used for getting information from a date object:
 <ul>
