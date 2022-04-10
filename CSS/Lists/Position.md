@@ -1,3 +1,7 @@
+<a href="/CSS/Lists/Images.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Lists/RemoveDefault.md">Next &gt;</a>
+<hr>
 The <b>list-style-position</b> property specifies the position of the list-item markers (bullet points).
 <br>
 "list-style-position: outside;" means that the bullet points will be outside the list item. The start of each line of a list item will be aligned vertically. This is default:
