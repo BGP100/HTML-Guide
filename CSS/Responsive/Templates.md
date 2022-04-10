@@ -1,3 +1,7 @@
+<a href="/CSS/Responsive/Frameworks.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://bledy-guides.repl.co">Next &gt;</a>
+<hr>
 I have created some responsive templates with the <a href="Frameworks.md">W3.CSS frameworks</a>.
 <br>
 You are free to modify, save, share, and use them in all your projects.
