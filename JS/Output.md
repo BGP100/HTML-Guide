@@ -1,3 +1,7 @@
+<a href="/JS/Where-To.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Statements.md">Next &gt;</a>
+<hr>
 JavaScript can "display" data in different ways:
 <ul>
   <li>Writing into an HTML element, using <b>innerHTML</b></li>
