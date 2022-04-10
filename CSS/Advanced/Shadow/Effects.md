@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Gradients/Conic.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Shadow/Box.md">Next &gt;</a>
+<hr>
 With CSS you can add shadow to text and to elements.
 <br>
 In these chapters you will learn about the following properties:
