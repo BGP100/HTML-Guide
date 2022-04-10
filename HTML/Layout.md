@@ -1,3 +1,7 @@
+<a href="/HTML/Head.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Responsive.md">Next &gt;</a>
+<hr>
 Websites often display content in multiple columns (like a magazine or a newspaper).
 <br>
 <img src="https://i.imgur.com/YIJb7Qa.png">
