@@ -1,3 +1,7 @@
+<a href="/JS/Const.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Operators/Arithmetic.md">Next &gt;</a>
+<hr>
 <h1>Arithmetic Operators</h1>
 <table class="ws-table-all notranslate">
   <tr>
