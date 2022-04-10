@@ -1,6 +1,6 @@
 <a href="/CSS/!important.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://bledy-guides.repl.co">Next &gt;</a>
+<a href="/CSS/Grid/Introduction.md">Next &gt;</a>
 <hr>
 The CSS math functions allow mathematical expressions to be used as property values. Here, we will explain the calc(), max() and min() functions.
 <h1>calc()</h1>
