@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/Game/Images.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/Game/Gravity.md">Next &gt;</a>
+<hr>
 Use the <b>&lt;audio&gt;</b> element to add sound and music to your games.
 <br>
 In our examples, we create a new object constructor to handle sound objects:
