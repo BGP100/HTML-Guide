@@ -1,3 +1,7 @@
+<a href="/CSS/Lists/Styling.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Tables/Size.md">Next &gt;</a>
+<hr>
 The look of an HTML table can be greatly improved with CSS:
 <br>
 <img src="https://i.imgur.com/l968yyt.jpg" width="69%">
