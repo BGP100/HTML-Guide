@@ -1,3 +1,7 @@
+<a href="/CSS/Lists/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Lists/Images.md">Next &gt;</a>
+<hr>
 The <b>list-style-type</b> property specifies the type of list item marker.
 <br>
 The following example shows some of the available list item markers:
