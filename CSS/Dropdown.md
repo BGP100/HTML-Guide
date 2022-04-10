@@ -1,3 +1,7 @@
+<a href="/CSS/NavigationBar/Horizontal.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/ImageGallery.md">Next &gt;</a>
+<hr>
 Create a hoverable dropdown with CSS.
 <h1>Basic</h1>
 Create a dropdown box that appears when the user moves the mouse over an element.
