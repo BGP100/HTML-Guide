@@ -1,3 +1,7 @@
+<a href="/JS/Date/Get-Methods.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Math/Main.md">Next &gt;</a>
+<hr>
 Set Date methods are used for setting a part of a date:
 <ul>
   <li><a href="#setDate">setDate()</a></li>
