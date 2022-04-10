@@ -1,3 +1,7 @@
+<a href="/JS/Arrays/Iterations.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Date/Main.md">Next &gt;</a>
+<hr>
 In 2015, JavaScript introduced an important new keyword: <b>const</b>.
 <br>
 It has become a common practice to declare arrays using <b>const</b>:
