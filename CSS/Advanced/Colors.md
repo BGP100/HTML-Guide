@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Backgrounds.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/ColorKeywords.md">Next &gt;</a>
+<hr>
 CSS supports 140+ color names, HEX values, RGB values, RGBA values, HSL values, HSLA values, and opacity. <a href="/CSS/Advanced/Colors/">List of Colors</a>
 <h1>RGBA</h1>
 RGBA color values are an extension of RGB color values with an alpha channel - which specifies the opacity for a color.
