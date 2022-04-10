@@ -1,3 +1,7 @@
+<a href="/CSS/HowToAdd.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Colors/Main.md">Next &gt;</a>
+<hr>
 Comments are used to explain the code, and may help when you edit the source code at a later date.
 <br>
 Comments are ignored by browsers.
