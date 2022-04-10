@@ -1,3 +1,7 @@
+<a href="/CSS/Fonts/Google.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Fonts/Shorthand.md">Next &gt;</a>
+<hr>
 Great font pairings are essential to great design.
 <h1>Pairing Rules</h1>
 Here are some basic rules to create great font pairings:
