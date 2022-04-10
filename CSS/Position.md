@@ -1,3 +1,7 @@
+<a href="/CSS/Max-width.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Z-index.md">Next &gt;</a>
+<hr>
 The <b>position</b> property specifies the type of positioning method used for an element (static, relative, fixed, absolute or sticky).
 <h1>Property</h1>
 The position property specifies the type of positioning method used for an element.
