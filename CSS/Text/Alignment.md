@@ -1,3 +1,7 @@
+<a href="/CSS/Text/Colors.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Text/Decoration.md">Next &gt;</a>
+<hr>
 In this chapter you will learn about the following properties:
 <ul>
   <li><b>text-align</b></li>
