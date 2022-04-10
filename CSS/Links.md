@@ -4,7 +4,7 @@
 <hr>
 With CSS, links can be styled in many different ways.
 <br>
-<a href="#">text link</a>
+<a href="#">text link
 <b><i><s>text link</s></i></b>
 <img src="https://i.imgur.com/bcORF04.jpg" width="15%">
 <img src="https://i.imgur.com/ScIdbHK.jpg" width="15%"></a>
