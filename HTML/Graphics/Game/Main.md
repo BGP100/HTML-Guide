@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/GoogleMaps/Types.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/Game/Canvas.md">Next &gt;</a>
+<hr>
 Learn how to make games, using nothing but HTML and JavaScript.
 <p></p>
 Push the buttons to move the red square:
