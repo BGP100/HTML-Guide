@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/GoogleMaps/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/GoogleMaps/Overlays.md">Next &gt;</a>
+<hr>
 This basic example creates a Google Map centered in London, England:
 <pre>
 &lt;h1&gt;My First Google Map&lt;/h1&gt;
