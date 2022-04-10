@@ -1,3 +1,7 @@
+<a href="/CSS/Outline/Width.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Outline/Shorthand.md">Next &gt;</a>
+<hr>
 The outline-color property is used to set the color of the outline.
 <br>
 The color can be set by:
