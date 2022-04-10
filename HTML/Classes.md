@@ -1,3 +1,7 @@
+<a href="/HTML/BlockAndInline.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/ID.md">Next &gt;</a>
+<hr>
 The HTML class attribute is used to specify a class for an HTML element.
 <br>
 Multiple HTML elements can share the same class.
@@ -22,12 +26,10 @@ In the following example we have three <b>&lt;div&gt;</b> elements with a class 
   &lt;h2&gt;London&lt;/h2&gt;
   &lt;p&gt;London is the capital of England.&lt;/p&gt;
 &lt;/div&gt;
-
 &lt;div class="city"&gt;
   &lt;h2&gt;Paris&lt;/h2&gt;
   &lt;p&gt;Paris is the capital of France.&lt;/p&gt;
 &lt;/div&gt;
-
 &lt;div class="city"&gt;
   &lt;h2&gt;Tokyo&lt;/h2&gt;
   &lt;p&gt;Tokyo is the capital of Japan.&lt;/p&gt;
@@ -78,7 +80,7 @@ JavaScript can access elements with a specific class name with the getElementsBy
 &lt;script&gt;
 function myFunction() {
   var x = document.getElementsByClassName("city");
-  for (var i = 0; i < x.length; i++) {
+  for (var i = 0; i &lt; x.length; i++) {
     x[i].style.display = "none";
   }
 }
