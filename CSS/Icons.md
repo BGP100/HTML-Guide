@@ -1,3 +1,7 @@
+<a href="/CSS/Fonts/Shorthand.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Links.md">Next &gt;</a>
+<hr>
 Icons can easily be added to your HTML page, by using an icon library.
 <br>
 <img src="https://i.imgur.com/1Xe0AAL.jpg" width="70%">
