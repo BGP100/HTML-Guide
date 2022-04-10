@@ -1,10 +1,14 @@
+<a href="/HTML/Graphics/Game/Bouncing.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/Game/Movement.md">Next &gt;</a>
+<hr>
 Earlier in this tutorial, the red square was able to move around on the gamearea, but it could not turn or rotate.
 <br>
 To rotate components, we have to change the way we draw components.
 <br>
 The only rotation method available for the canvas element will rotate the entire canvas:
 <br>
-<img src="https://i.imgur.com/llYCYga.png">
+<img src="https://i.imgur.com/BS3lX6B.png">
 <br>
 Everything else you draw on the canvas will also be rotated, not only the specific component.
 <br>
