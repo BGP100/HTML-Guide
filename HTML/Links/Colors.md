@@ -1,3 +1,7 @@
+<a href="/HTML/Links/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Links/Bookmarks.md">Next &gt;</a>
+<hr>
 An HTML link is displayed in a different color depending on whether it has been visited, is unvisited, or is active.
 <br>
 By default, a link will appear like this (in all browsers):
@@ -43,7 +47,6 @@ a:link, a:visited {
   text-decoration: none;
   display: inline-block;
 }
-
 a:hover, a:active {
   background-color: red;
 }
