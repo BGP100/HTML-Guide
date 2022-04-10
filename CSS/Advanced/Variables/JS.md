@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Variables/Overriding.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Variables/MediaQueries.md">Next &gt;</a>
+<hr>
 Here is an example of how you can create a script to display and change the --blue variable from the example used in the previous pages. For now, do not worry if you are not familiar with JavaScript:
 <pre>
 // Get the root element
