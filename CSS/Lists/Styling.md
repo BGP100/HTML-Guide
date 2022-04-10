@@ -1,3 +1,7 @@
+<a href="/CSS/Lists/Shorthand.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Tables/Borders.md">Next &gt;</a>
+<hr>
 We can also style lists with colors, to make them look a little more interesting.
 <br>
 Anything added to the <b>&lt;ol&gt;</b> or <b>&lt;ul&gt;</b> tag, affects the entire list, while properties added to the <b>&lt;li&gt;</b> tag will affect the individual list items:
