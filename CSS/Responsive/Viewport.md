@@ -1,3 +1,7 @@
+<a href="/CSS/Responsive/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Responsive/Grid-View.md">Next &gt;</a>
+<hr>
 <h1>What is it?</h1>
 The viewport is the user's visible area of a web page.
 <br>
