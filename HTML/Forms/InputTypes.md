@@ -1,3 +1,7 @@
+<a href="/HTML/Forms/Elements.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Forms/InputAttributes.md">Next &gt;</a>
+<hr>
 Here are the different input types you can use in HTML:
 <ul>
   <li>&lt;input type="button"&gt;</li>
