@@ -1,3 +1,7 @@
+<a href="/HTML/FilePaths.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Layout.md">Next &gt;</a>
+<hr>
 The HTML <b>&lt;head&gt;</b> element is a container for the following elements: <b>&lt;title&gt;</b>, <b>&lt;style&gt;</b>, <b>&lt;meta&gt;</b>, <b>&lt;link&gt;</b>, <b>&lt;script&gt;</b>, and <b>&lt;base&gt;</b>.
 <br>
 The <b>&lt;head&gt;</b> element is a container for metadata (data about data) and is placed between the <html> tag and the <body> tag.
