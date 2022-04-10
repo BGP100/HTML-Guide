@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/Game/Gravity.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/Game/Rotation.md">Next &gt;</a>
+<hr>
 Another functionallity we want to add is the <b>bounce</b> property.
 <br>
 The <b>bounce</b> property indicates if the component will <b>bounce</b> back when gravity makes it fall down to the ground.
