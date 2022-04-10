@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Shadow/Box.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Fonts.md">Next &gt;</a>
+<hr>
 In this chapter you will learn about the following properties:
 <ul>
   <li><a href="#text-overflow">text-overflow</a></li>
