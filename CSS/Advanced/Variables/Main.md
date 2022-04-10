@@ -1,4 +1,8 @@
-The var() function is used to insert the value of a CSS variable.
+<a href="/CSS/Advanced/User-Interface.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Variables/Overriding.md">Next &gt;</a>
+<hr>
+The <b>var()</b> function is used to insert the value of a CSS variable.
 <br>
 CSS variables have access to the DOM, which means that you can create variables with local or global scope, change the variables with JavaScript, and change the variables based on media queries.
 <br>
