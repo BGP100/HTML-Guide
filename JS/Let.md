@@ -1,3 +1,7 @@
+<a href="/JS/Variables.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Const.md">Next &gt;</a>
+<hr>
 The let keyword was introduced in ES6 (2015).
 <br>
 Variables defined with let cannot be Redeclared.
