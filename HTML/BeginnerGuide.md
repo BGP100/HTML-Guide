@@ -1,3 +1,7 @@
+<a href="/HTML/Semantic.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Entities.md">Next &gt;</a>
+<hr>
 A consistent, clean, and tidy HTML code makes it easier for others to read and understand your code.
 <br>
 Here are some guidelines and tips for creating good HTML code.
