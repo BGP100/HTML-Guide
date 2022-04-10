@@ -1,3 +1,7 @@
+<a href="/CSS/Borders/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Borders/Colors.md">Next &gt;</a>
+<hr>
 The <b>border-width</b> property specifies the width of the four borders.
 <br>
 The width can be set as a specific size (in px, pt, cm, em, etc) or by using one of the three pre-defined values: thin, medium, or thick:
