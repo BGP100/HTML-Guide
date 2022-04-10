@@ -1,3 +1,7 @@
+<a href="/CSS/Responsive/Viewport.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Responsive/MediaQueries.md">Next &gt;</a>
+<hr>
 <h1>What is it?</h1>
 Many web pages are based on a grid-view, which means that the page is divided into columns:
 <br>
