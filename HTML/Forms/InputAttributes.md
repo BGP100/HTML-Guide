@@ -1,3 +1,7 @@
+<a href="/HTML/Forms/InputTypes.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Forms/Input-FormAttributes.md">Next &gt;</a>
+<hr>
 Here I describe all the attributes for the <b>&lt;input&gt;</b> element.
 <h1>value</h1>
 The input value attribute specifies an initial value for an input field.
