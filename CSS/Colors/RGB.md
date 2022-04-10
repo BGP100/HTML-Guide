@@ -1,6 +1,6 @@
-<a href="/CSS/Color/Main.md">&lt; Previous</a>
+<a href="/CSS/Colors/Main.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/CSS/Color/HEX.md">Next &gt;</a>
+<a href="/CSS/Colors/HEX.md">Next &gt;</a>
 <hr>
 An RGB color value represents RED, GREEN, and BLUE light sources.
 <br>
