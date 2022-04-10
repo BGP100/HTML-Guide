@@ -1,3 +1,7 @@
+<a href="/CSS/SASS/Functions/String.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/SASS/Functions/List.md">Next &gt;</a>
+<hr>
 The numeric functions are used to manipulate numeric values.
 <br>
 The following table lists all numeric functions in SASS:
