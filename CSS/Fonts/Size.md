@@ -1,3 +1,7 @@
+<a href="/CSS/Fonts/Style.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Fonts/Google.md">Next &gt;</a>
+<hr>
 The <b>font-size</b> property sets the size of the text.
 <br>
 Being able to manage the text size is important in web design. However, you should not use font size adjustments to make paragraphs look like headings, or headings look like paragraphs.
