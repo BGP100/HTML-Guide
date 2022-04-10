@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/TextEffects.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/2D-Transforms.md">Next &gt;</a>
+<hr>
 Web fonts allow Web designers to use fonts that are not installed on the user's computer.
 <br>
 When you have found/bought the font you wish to use, just include the font file on your web server, and it will be automatically downloaded to the user when needed.
