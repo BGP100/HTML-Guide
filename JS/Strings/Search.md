@@ -1,3 +1,7 @@
+<a href="/JS/Strings/Methods.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Strings/Templates.md">Next &gt;</a>
+<hr>
 String Search Methods:
 <ul>
   <li><a href="#indexOf">String indexOf()</a></li>
