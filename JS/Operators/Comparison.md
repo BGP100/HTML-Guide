@@ -1,3 +1,7 @@
+<a href="/JS/Operators/Assignment.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Operators/Logical.md">Next &gt;</a>
+<hr>
 <table class="ws-table-all notranslate">
   <tr>
     <th>Operator</th>
