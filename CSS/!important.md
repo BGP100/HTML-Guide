@@ -1,3 +1,7 @@
+<a href="/CSS/Specificity.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Math.md">Next &gt;</a>
+<hr>
 The <b>!important</b> rule in CSS is used to add more importance to a property/value than normal.
 <br>
 In fact, if you use the <b>!important</b> rule, it will override ALL previous styling rules for that specific property on that element!
