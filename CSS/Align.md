@@ -1,3 +1,7 @@
+<a href="/CSS/Inline-Block.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Combinators.md">Next &gt;</a>
+<hr>
 <img src="https://i.imgur.com/IHOSJBM.jpg" width="100%">
 <h1>Center Elements</h1>
 To horizontally center a block element (like <b>&lt;div&gt;</b>), use <b>margin: auto;</b>
