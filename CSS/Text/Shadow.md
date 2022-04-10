@@ -1,3 +1,7 @@
+<a href="/CSS/Text/Spacing.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Fonts/Family.md">Next &gt;</a>
+<hr>
 The <b>text-shadow</b> property adds shadow to text.
 <br>
 In its simplest use, you only specify the horizontal shadow (2px) and the vertical shadow (2px):
