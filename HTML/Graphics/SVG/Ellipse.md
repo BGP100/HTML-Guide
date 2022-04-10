@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/SVG/Circle.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/SVG/Line.md">Next &gt;</a>
+<hr>
 The <b>&lt;ellipse&gt;</b> element is used to create an ellipse.
 <br>
 An ellipse is closely related to a circle. The difference is that an ellipse has an <var>x</var> and a <var>y</var> radius that differs from each other, while a circle has equal <var>x</var> and a <var>y</var> radius:
