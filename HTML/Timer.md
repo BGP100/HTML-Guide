@@ -1,6 +1,6 @@
 <a href="/HTML/APIs/SSE.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://bledy-guides.repl.co">Next &gt;</a>
+<a href="/HTML/Tags/!!Main.md">Next &gt;</a>
 <hr>
 In here you will learn how to do a countdown in HTML just like the example below:
 <br>
