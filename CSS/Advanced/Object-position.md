@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Object-fit.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Masking.md">Next &gt;</a>
+<hr>
 The CSS object-position property is used to specify how an <b>&lt;img&gt;</b> or <b>&lt;video&gt;</b> should be positioned within its container.
 <hr>
 Look at the following image from Paris, which is 400x300 pixels:
