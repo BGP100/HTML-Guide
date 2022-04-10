@@ -1,3 +1,7 @@
+<a href="/CSS/Fonts/Pairing.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Icons.md">Next &gt;</a>
+<hr>
 To shorten the code, it is also possible to specify all the individual font properties in one property.
 <br>
 The <b>font</b> property is a shorthand property for:
