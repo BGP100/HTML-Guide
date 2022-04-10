@@ -1,3 +1,7 @@
+<a href="/CSS/BoxModel.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Outline/Width.md">Next &gt;</a>
+<hr>
 An outline is a line drawn outside the element's border.
 <br>
 <img src="https://i.imgur.com/WV0HBKg.png">
