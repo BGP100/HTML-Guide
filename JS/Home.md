@@ -1,3 +1,7 @@
+<a href="https://bledy-guides.repl.co">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Introduction.md">Next &gt;</a>
+<hr>
 JavaScript is the world's most popular programming language.
 <br>
 JavaScript is the programming language of the Web.
