@@ -1,3 +1,7 @@
+<a href="/CSS/Borders/Round.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Borders/Tags.md">Next &gt;</a>
+<hr>
 Like you saw in the previous page, there are many properties to consider when dealing with borders.
 <br>
 To shorten the code, it is also possible to specify all the individual border properties in one property.
