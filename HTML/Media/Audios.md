@@ -1,3 +1,7 @@
+<a href="/HTML/Media/Videos.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Media/Plug-ins.md">Next &gt;</a>
+<hr>
 The HTML <b>&lt;audio&gt;</b> element is used to play an audio file on a web page.
 <h1>How it works</h1>
 The controls attribute adds audio controls, like play, pause, and volume.
