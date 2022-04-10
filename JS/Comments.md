@@ -1,6 +1,6 @@
 <a href="/JS/Syntax.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/Variable.md">Next &gt;</a>
+<a href="/JS/Variables.md">Next &gt;</a>
 <hr>
 JavaScript comments can be used to explain JavaScript code, and to make it more readable.
 <br>
