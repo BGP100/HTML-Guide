@@ -1,3 +1,7 @@
+<a href="/CSS/SASS/Functions/List.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/SASS/Functions/Selectors.md">Next &gt;</a>
+<hr>
 In SASS, the map data type represents one or more key/value pairs.
 <br>
 <b>Tip:</b> It is also possible to use the List functions from the previous page, with maps. Then the map will be treated as a list with two elements.
