@@ -1,4 +1,8 @@
-<a href="https://github.com/BGP100/HTML-Guide/tree/main/HTML/Graphics/Canvas/">Click Here</a> for more <i>Canvas</i> info.
+<a href="/HTML/Graphics/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/Components.md">Next &gt;</a>
+<hr>
+<a href="/HTML/Graphics/Canvas/">Click Here</a> for more <i>Canvas</i> info.
 <hr>
 The <b>&lt;canvas&gt;</b> element is perfect for making games in HTML.
 <br>
