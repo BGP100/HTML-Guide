@@ -1,3 +1,7 @@
+<a href="/HTML/Media/Audios.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Media/YouTube.md">Next &gt;</a>
+<hr>
 Plug-ins are computer programs that extend the standard functionality of the browser.
 <hr>
 Plug-ins were designed to be used for many different purposes:
