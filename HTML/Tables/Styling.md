@@ -1,3 +1,7 @@
+<a href="/HTML/Tables/ColspanAndRowsapn.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Tables/Colgroup.md">Next &gt;</a>
+<hr>
 Use CSS to make your tables look better.
 <h1>Zebra Stripes</h1>
 If you add a background color on every other table row, you will get a nice zebra stripes effect.
