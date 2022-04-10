@@ -1,3 +1,7 @@
+<a href="/HTML/Lists/Ordered.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/BlockAndInline.md">Next &gt;</a>
+<hr>
 HTML also supports description lists.
 <br>
 A description list is a list of terms, with a description of each term.
