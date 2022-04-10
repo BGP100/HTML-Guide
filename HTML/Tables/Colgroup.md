@@ -1,8 +1,12 @@
+<a href="/HTML/Tables/Styling.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Lists/Main.md">Next &gt;</a>
+<hr>
 The <b>&lt;colgroup&gt;</b> element is used to style specific columns of a table.
 <br>
 <img src="https://i.imgur.com/7JxbkoB.png">
 <br>
-The <colgroup> element should be used as a container for the column specifications.
+The <b>&lt;colgroup&gt;</b> element should be used as a container for the column specifications.
 <br>
 Each group are specified with a <b>&lt;col&lt;</b> element.
 <br>
