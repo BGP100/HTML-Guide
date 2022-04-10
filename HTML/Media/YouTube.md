@@ -1,3 +1,7 @@
+<a href="/HTML/Media/Plug-ins.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/APIs/Geolocation.md">Next &gt;</a>
+<hr>
 The easiest way to play videos in HTML, is through YouTube.
 <h1>Struggling with Video Formats?</h1>
 Converting videos to different formats can be difficult and time-consuming.
