@@ -1,3 +1,7 @@
+<a href="/JS/Let.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Operators/Main.md">Next &gt;</a>
+<hr>
 The <b>const</b> keyword was introduced in ES6 (2015).
 <br>
 Variables defined with <b>const</b> cannot be Redeclared.
