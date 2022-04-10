@@ -1,3 +1,7 @@
+<a href="/CSS/Grid/Container.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Responsive/Main.md">Next &gt;</a>
+<hr>
 <b>Note:</b> if you cant read text on images below, either you are blind or you have dark mode on.
 <h1>Child Elements</h1>
 A grid container contains grid items.
