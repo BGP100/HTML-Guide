@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Images.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Object-fit.md">Next &gt;</a>
+<hr>
 The <b>box-reflect</b> property is used to create an image reflection.
 <br>
 The value of the <b>box-reflect</b> property can be: <b>below</b>, <b>above</b>, <b>left</b>, or <b>right</b>.
