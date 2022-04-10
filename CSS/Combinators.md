@@ -1,3 +1,7 @@
+<a href="/CSS/Align.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Pseudo-Class.md">Next &gt;</a>
+<hr>
 A CSS selector can contain more than one simple selector. Between the simple selectors, we can include a combinator.
 <br>
 There are four different combinators in CSS:
