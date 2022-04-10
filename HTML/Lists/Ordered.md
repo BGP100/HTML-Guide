@@ -1,3 +1,7 @@
+<a href="/HTML/Lists/Unordered.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Lists/Description.md">Next &gt;</a>
+<hr>
 The HTML ol tag defines an ordered list. An ordered list can be numerical or alphabetical.
 <br>
 An ordered list starts with the ol tag. Each list item starts with the li tag.
