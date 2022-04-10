@@ -1,3 +1,7 @@
+<a href="/HTML/Links/Colors.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Images/Main.md">Next &gt;</a>
+<hr>
 HTML links can be used to create bookmarks, so that readers can jump to specific parts of a web page.
 <br>
 Bookmarks can be useful if a web page is very long.
