@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/GoogleMaps/Controls.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/Game/Main.md">Next &gt;</a>
+<hr>
 The following map types are supported in Google Maps API:
 <ul>
   <li>ROADMAP (normal, default 2D map)</li>
