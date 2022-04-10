@@ -1,3 +1,7 @@
+<a href="/CSS/Tables/Responsive.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Max-width.md">Next &gt;</a>
+<hr>
 The <b>display</b> property is the most important CSS property for controlling layout.
 <hr>
 The <b>display</b> property specifies if/how an element is displayed.
