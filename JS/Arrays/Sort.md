@@ -1,6 +1,6 @@
 <a href="/JS/Arrays/Methods.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/Arrays/Iteration.md">Next &gt;</a>
+<a href="/JS/Arrays/Iterations.md">Next &gt;</a>
 <hr>
 The <b>sort()</b> method sorts an array alphabetically:
 <pre>
