@@ -1,4 +1,4 @@
-<a href="/HTML/Graphics/Game/Movement.md">&lt; Previous</a>
+<a href="/HTML/Graphics/Game/Rotation.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/HTML/Media/Main.md">Next &gt;</a>
 <hr>
