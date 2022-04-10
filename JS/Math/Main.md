@@ -1,3 +1,7 @@
+<a href="/JS/Date/Set-Methods.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Math/Random.md">Next &gt;</a>
+<hr>
 Unlike other objects, the Math object has no constructor.
 <br>
 The Math object is static.
