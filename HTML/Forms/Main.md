@@ -1,3 +1,7 @@
+<a href="/HTML/XHTML.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Forms/Attributes.md">Next &gt;</a>
+<hr>
 An HTML form is used to collect user input. The user input is most often sent to a server for processing.
 <br>
 <img src="https://i.imgur.com/UQpQJET.png">
