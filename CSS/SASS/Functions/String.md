@@ -1,3 +1,7 @@
+<a href="/CSS/SASS/@/extend.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/SASS/Functions/Numeric.md">Next &gt;</a>
+<hr>
 The string functions are used to manipulate and get information about strings.
 <br>
 SASS strings are 1-based. The first character in a string is at index 1, not 0.
