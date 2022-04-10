@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Buttons.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Multiple-Columns.md">Next &gt;</a>
+<hr>
 Learn how to create a responsive pagination using CSS.
 <h1>Simple</h1>
 If you have a website with lots of pages, you may wish to add some sort of pagination to each page:
