@@ -1,3 +1,7 @@
+<a href="/CSS/Counter.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Units.md">Next &gt;</a>
+<hr>
 A website is often divided into headers, menus, content and a footer:
 <br>
 <img src="https://i.imgur.com/cNZ3KpI.jpg" width="80%">
