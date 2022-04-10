@@ -1,3 +1,7 @@
+<a href="/CSS/Tables/Style.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Display.md">Next &gt;</a>
+<hr>
 A responsive table will display a horizontal scroll bar if the screen is too small to display the full content:
 <table class="ws-table-all notranslate">
   <tr>
