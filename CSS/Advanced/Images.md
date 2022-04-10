@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Tooltip.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/ImageReflection.md">Next &gt;</a>
+<hr>
 <h1>Rounded</h1>
 Use the border-radius property to create rounded images:
 <br>
