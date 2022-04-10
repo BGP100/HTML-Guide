@@ -1,3 +1,7 @@
+<a href="/CSS/Overflow.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Float/Clear.md">Next &gt;</a>
+<hr>
 The float property is used for positioning and formatting content e.g. let an image float left to the text in a container.
 <br>
 The float property can have one of the following values:
