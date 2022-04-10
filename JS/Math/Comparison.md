@@ -1,3 +1,7 @@
+<a href="/JS/Math/Booleans.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/If-Else.md">Next &gt;</a>
+<hr>
 Comparison and Logical operators are used to test for <b>true</b> or <b>false</b>.
 <hr>
 Comparison operators are used in logical statements to determine equality or difference between variables or values.
