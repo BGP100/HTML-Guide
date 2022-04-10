@@ -1,3 +1,7 @@
+<a href="/HTML/Tables/Headers.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Tables/ColspanAndRowspan.md">Next &gt;</a>
+<hr>
 HTML tables can adjust the padding inside the cells, and also the space between the cells.
 <br>
 <img src="https://i.imgur.com/EF2WUd3.png">
