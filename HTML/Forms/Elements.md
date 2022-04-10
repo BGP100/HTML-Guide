@@ -1,3 +1,7 @@
+<a href="/HTML/Forms/Attributes.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Forms/InputTypes.md">Next &gt;</a>
+<hr>
 The HTML <b>&lt;form&gt;</b> element can contain one or more of the following form elements:
 <ul>
   <li><a href="#input">&lt;input&gt;</a></li>
