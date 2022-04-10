@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Animations.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Images.md">Next &gt;</a>
+<hr>
 <h1>Basic</h1>
 Create a tooltip that appears when the user moves the mouse over an element:
 <pre>
