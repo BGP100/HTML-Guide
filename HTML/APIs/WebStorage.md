@@ -1,3 +1,7 @@
+<a href="/HTML/APIs/DragAndDrop.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/APIs/WebWorkers.md">Next &gt;</a>
+<hr>
 HTML web storage; better than cookies.
 <hr>
 With web storage, web applications can store data locally within the user's browser.
