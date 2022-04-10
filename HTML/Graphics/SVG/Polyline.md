@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/SVG/Polygon.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/SVG/Path.md">Next &gt;</a>
+<hr>
 <h1>Example 1</h1>
 <img src="https://i.imgur.com/LvpwUAk.png" height="164" width="182">
 <pre>&lt;svg height="200" width="500"&gt;&lt;polyline points="20,20 40,25 60,40 80,120 120,140 200,180" style="fill:none;stroke:black;stroke-width:3" /&gt;&lt;/svg&gt;</pre>
