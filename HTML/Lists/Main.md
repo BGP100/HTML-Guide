@@ -1,3 +1,7 @@
+<a href="/HTML/Tables/Colgroup.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Lists/Unordered.md">Next &gt;</a>
+<hr>
 HTML lists allow web developers to group a set of related items in lists.
 <h1>Example</h1>
 <b>Unordered List</b>
