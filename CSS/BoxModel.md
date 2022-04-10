@@ -1,3 +1,7 @@
+<a href="/CSS/HeightAndWidth.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Outline/Main.md">Next &gt;</a>
+<hr>
 In CSS, the term "box model" is used when talking about design and layout.
 <br>
 The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content. The image below illustrates the box model:
