@@ -1,3 +1,7 @@
+<a href="/HTML/Entities.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Emojis.md">Next &gt;</a>
+<hr>
 Symbols that are not present on your keyboard, but they can also be added by using entities.
 <hr>
 HTML entities were described in the previous chapter.
