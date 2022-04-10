@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/Canvas/Clock/5-Start.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/SVG/IntoHTML.md">Next &gt;</a>
+<hr>
 SVG defines vector-based graphics in XML format.
 <h1>What is it?</h1>
 <ul>
