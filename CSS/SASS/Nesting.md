@@ -1,6 +1,6 @@
 <a href="/CSS/SASS/Variables.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/CSS/SASS/@/.md">Next &gt;</a>
+<a href="/CSS/SASS/@/import.md">Next &gt;</a>
 <hr>
 Sass lets you nest CSS selectors in the same way as HTML.
 <br>
