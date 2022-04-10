@@ -1,3 +1,7 @@
+<a href="/CSS/Text/Alignment.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Text/Transformation.md">Next &gt;</a>
+<hr>
 In this chapter you will learn about the following properties:
 <ul>
   <li><b>text-decoration-line</b></li>
