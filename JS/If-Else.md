@@ -1,3 +1,7 @@
+<a href="/JS/Math/Comparison.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Switch.md">Next &gt;</a>
+<hr>
 Very often when you write code, you want to perform different actions for different decisions.
 <br>
 You can use conditional statements in your code to do this.
