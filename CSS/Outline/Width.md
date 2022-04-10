@@ -1,3 +1,7 @@
+<a href="/CSS/Outline/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Outline/Colors.md">Next &gt;</a>
+<hr>
 The outline-width property specifies the width of the outline, and can have one of the following values:
 <ul>
   <li>thin (typically 1px)</li>
