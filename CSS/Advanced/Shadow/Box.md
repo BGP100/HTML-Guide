@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Shadow/Effects.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/TextEffects.md">Next &gt;</a>
+<hr>
 The CSS box-shadow property is used to apply one or more shadows to an element.
 <h1>Horizontal &amp; Vertical Shadows</h1>
 In its simplest use, you only specify a horizontal and a vertical shadow. The default color of the shadow is the current text-color.
