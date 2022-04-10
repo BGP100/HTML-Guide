@@ -1,3 +1,7 @@
+<a href="/CSS/Introduction.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Selectiors.md">Next &gt;</a>
+<hr>
 A CSS rule consists of a selector and a declaration block.
 <hr>
 <img src="https://i.imgur.com/empPht2.gif">
