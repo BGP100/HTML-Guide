@@ -1,3 +1,7 @@
+<a href="/HTML/Links/Bookmarks.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Images/Maps.md">Next &gt;</a>
+<hr>
 Images can improve the design and the appearance of a web page.
 <br>
 <img src="https://www.w3schools.com/html/pic_trulli.jpg" height="250px">
