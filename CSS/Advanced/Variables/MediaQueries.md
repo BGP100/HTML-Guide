@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Variables/JS.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/BoxSizing.md">Next &gt;</a>
+<hr>
 Now we want to change a variable value inside a media query.
 <br>
 Here, we first declare a new local variable named --fontsize for the .container class. We set its value to 25 pixels. Then we use it in the .container class further down. Then, we create a @media rule that says "When the browser's width is 450px or wider, change the --fontsize variable value of the .container class to 50px."
