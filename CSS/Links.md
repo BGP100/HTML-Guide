@@ -1,3 +1,7 @@
+<a href="/CSS/Icons.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Lists/Main.md">Next &gt;</a>
+<hr>
 With CSS, links can be styled in many different ways.
 <br>
 <a href="#">text link</a>
