@@ -1,3 +1,7 @@
+<a href="/HTML/URL-Encode.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Forms/Main.md">Next &gt;</a>
+<hr>
 XHTML is a stricter, more XML-based version of HTML.
 <h1>What is it?</h1>
 <ul>
