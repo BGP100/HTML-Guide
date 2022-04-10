@@ -1,3 +1,7 @@
+<a href="/JS/Math/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Math/Booleans.md">Next &gt;</a>
+<hr>
 <b>Math.random()</b> returns a random number between 0 (inclusive),  and 1 (exclusive):
 <pre>Math.random(); // Returns a random number:</pre>
 <h1>Integers</h1>
