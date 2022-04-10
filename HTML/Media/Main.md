@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/Game/Movement.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Media/Videos.md">Next &gt;</a>
+<hr>
 Multimedia on the web is sound, music, videos, movies, and animations.
 <h1>What is it?</h1>
 Multimedia comes in many different formats. It can be almost anything you can hear or see, like images, music, sound, videos, records, films, animations, and more.
