@@ -1,3 +1,7 @@
+<a href="/JS/Numbers/Methods.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Arrays/Methods.md">Next &gt;</a>
+<hr>
 An array is a special variable, which can hold more than one value:
 <pre>const cars = ["Saab", "Volvo", "BMW"];</pre>
 <h1>Why Use Them?</h1>
