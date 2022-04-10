@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/MediaQueries.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Flexbox/Container.md">Next &gt;</a>
+<hr>
 <img src="https://i.imgur.com/z1nK93j.png" width="100%">
 <hr>
 Before the Flexbox Layout module, there were four layout modes:
