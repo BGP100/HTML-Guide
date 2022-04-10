@@ -1,3 +1,7 @@
+<a href="/CSS/Float/Examples.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Align.md">Next &gt;</a>
+<hr>
 Compared to <b>display: inline</b>, the major difference is that <b>display: inline-block</b> allows to set a width and height on the element.
 <br>
 Also, with <b>display: inline-block</b>, the top and bottom margins/paddings are respected, but with <b>display: inline</b> they are not.
