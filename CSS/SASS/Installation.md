@@ -1,3 +1,7 @@
+<a href="/CSS/SASS/Introduction.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/SASS/Variables.md">Next &gt;</a>
+<hr>
 <h1>System Requirements for SASS</h1>
 <ul>
   <li><b>Operating system</b> - Sass is platform independent</li>
