@@ -1,3 +1,7 @@
+<a href="/CSS/Float/Clear.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Inline-Block.md">Next &gt;</a>
+<hr>
 This page contains common float examples.
 <hr>
 <img src="https://i.imgur.com/qIn59vB.jpg" width="69%">
