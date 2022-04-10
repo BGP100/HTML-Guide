@@ -1,3 +1,7 @@
+<a href="/JS/Comments.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Let.md">Next &gt;</a>
+<hr>
 4 Ways to Declare a JavaScript Variable:
 <ul>
   <li>Using <b>var</b></li>
