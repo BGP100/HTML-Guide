@@ -1,3 +1,7 @@
+<a href="/HTML/Tables/SpacingsAndPaddings.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Tables/Styling.md">Next &gt;</a>
+<hr>
 HTML tables can have cells that spans over multiple rows and/or columns.
 <br>
 <img src="https://i.imgur.com/rRou4yJ.png">
