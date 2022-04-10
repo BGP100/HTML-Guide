@@ -1,6 +1,6 @@
 <a href="/HTML/Favicon.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/HTML/Borders.md">Next &gt;</a>
+<a href="/HTML/Tables/Borders.md">Next &gt;</a>
 <hr>
 HTML tables allow web developers to arrange data into rows and columns.
 <table class="ws-table-all notranslate">
