@@ -1,3 +1,7 @@
+<a href="/CSS/Pseudo-Class.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Opacity.md">Next &gt;</a>
+<hr>
 A CSS pseudo-element is used to style specified parts of an element.
 <br>
 For example, it can be used to:
