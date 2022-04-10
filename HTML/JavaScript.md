@@ -1,3 +1,7 @@
+<a href="/HTML/Iframe.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/FilePaths.md">Next &gt;</a>
+<hr>
 JavaScript makes HTML pages more dynamic and interactive.
 <br>
 <img src="https://i.imgur.com/JA5GEIC.png">
