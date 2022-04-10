@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/Game/Movement.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Media/Main.md">Next &gt;</a>
+<hr>
 Add a <b>speed</b> property to the <b>component</b> constructor, which represents the current speed of the component.
 <br>
 Also make some changes in the <b>newPos()</b> method, to calculate the position of the component, based on <b>speed</b> and <b>angle</b>.
