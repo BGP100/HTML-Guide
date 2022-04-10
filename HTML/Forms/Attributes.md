@@ -1,3 +1,7 @@
+<a href="/HTML/Forms/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Forms/Elements.md">Next &gt;</a>
+<hr>
 <ul>
   <li><a href="#action">action</a></li>
   <li><a href="#target">target</a></li>
