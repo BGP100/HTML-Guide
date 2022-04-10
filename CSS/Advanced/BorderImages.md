@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/RoundedCorners.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Backgrounds.md">Next &gt;</a>
+<hr>
 With the CSS border-image property, you can set an image to be used as the border around an element.
 <hr>
 The CSS border-image property allows you to specify an image to be used instead of the normal border around an element.
