@@ -1,3 +1,7 @@
+<a href="/JS/Operators/Comaprison.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Operators/Type.md">Next &gt;</a>
+<hr>
 <h1>Short Descriptions</h1>
 <table class="ws-table-all notranslate">
   <tr>
