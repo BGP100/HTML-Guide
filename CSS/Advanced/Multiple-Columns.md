@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Pagination.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/User-Interface.md">Next &gt;</a>
+<hr>
 In this chapter you will learn about the following multi-column properties:
 <ul>
   <li><b>column-count</b></li>
