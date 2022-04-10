@@ -1,6 +1,6 @@
-<a href="/HTML/Graphics/Main.md">&lt; Previous</a>
+<a href="/HTML/Graphics/Game/Main.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/HTML/Graphics/Components.md">Next &gt;</a>
+<a href="/HTML/Graphics/Game/Components.md">Next &gt;</a>
 <hr>
 <a href="/HTML/Graphics/Canvas/">Click Here</a> for more <i>Canvas</i> info.
 <hr>
