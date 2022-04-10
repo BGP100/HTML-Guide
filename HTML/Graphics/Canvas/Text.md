@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/Canvas/Gradients.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/Canvas/Images.md">Next &gt;</a>
+<hr>
 To draw text on a canvas, the most important property and methods are:
 <ul>
   <li><b>font</b> - defines the font properties for the text.</li>
