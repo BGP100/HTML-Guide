@@ -1,3 +1,7 @@
+<a href="/CSS/Forms.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Layout.md">Next &gt;</a>
+<hr>
 <img src="https://i.imgur.com/qhewgGc.jpg" width="69%">
 <br>
 CSS counters are "variables" maintained by CSS whose values can be incremented by CSS rules (to track how many times they are used). Counters let you adjust the appearance of content based on its placement in the document.
