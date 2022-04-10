@@ -1,3 +1,7 @@
+<a href="/HTML/JavaScript.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Head.md">Next &gt;</a>
+<hr>
 A file path describes the location of a file in a web site's folder structure.
 <table class="ws-table-all">
   <tr>
