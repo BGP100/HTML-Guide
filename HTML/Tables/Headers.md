@@ -1,3 +1,7 @@
+<a href="/HTML/Tables/Sizes.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Tables/SpacingsAndPaddings.md">Next &gt;</a>
+<hr>
 HTML tables can have headers for each column or row, or for many columns/rows.
 <br>
 <img src="https://i.imgur.com/IkLo3ac.png">
