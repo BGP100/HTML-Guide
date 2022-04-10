@@ -1,3 +1,7 @@
+<a href="/HTML/Images/Maps.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Images/Picture.md">Next &gt;</a>
+<hr>
 A background image can be specified for almost any HTML element.
 <br>
 To add a background image on an HTML element, use the HTML style attribute and the CSS background-image property:
