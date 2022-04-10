@@ -1,3 +1,7 @@
+<a href="/CSS/Grid/Introduction.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Grid/Item.md">Next &gt;</a>
+<hr>
 <b>Note:</b> if you cant read text on images below, either you are blind or you have dark mode on.
 <hr>
 To make an HTML element behave as a grid container, you have to set the display property to grid or inline-grid.
