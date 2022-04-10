@@ -1,3 +1,7 @@
+<a href="/CSS/Responsive/Grid-View.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Responsive/Images.md">Next &gt;</a>
+<hr>
 Media query is a CSS technique introduced in CSS3.
 <br>
 It uses the <b>@media</b> rule to include a block of CSS properties only if a certain condition is true.
