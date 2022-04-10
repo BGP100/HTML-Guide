@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/Canvas/Text.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/Canvas/Clock/1-Main.md">Next &gt;</a>
+<hr>
 To draw an image on a canvas, use the following method:
 <p></p>
 drawImage(image,x,y)
