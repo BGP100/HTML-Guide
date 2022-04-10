@@ -1,3 +1,7 @@
+<a href="/CSS/Fonts/Size.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Fonts/Pairing.md">Next &gt;</a>
+<hr>
 If you do not want to use any of the standard fonts in HTML, you can use Google Fonts.
 <br>
 Google Fonts are free to use, and have more than 1000 fonts to choose from.
