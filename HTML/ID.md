@@ -1,3 +1,7 @@
+<a href="/HTML/Classes.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Iframe.md">Next &gt;</a>
+<hr>
 The HTML id attribute is used to specify a unique id for an HTML element.
 <br>
 You cannot have more than one element with the same id in an HTML document.
