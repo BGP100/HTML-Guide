@@ -1,3 +1,7 @@
+<a href="/JS/Arrays/Const.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Date/Formats.md">Next &gt;</a>
+<hr>
 JavaScript Date Object lets us work with dates.
 <pre>const d = new Date();</pre>
 <h1>Creating Dates</h1>
