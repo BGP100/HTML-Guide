@@ -1,3 +1,7 @@
+<a href="/HTML/APIs/WebWorkers.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Timer.md">Next &gt;</a>
+<hr>
 Server-Sent Events (SSE) allow a web page to get updates from a server.
 <hr>
 A server-sent event is when a web page automatically gets updates from a server.
