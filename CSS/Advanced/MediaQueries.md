@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/BoxSizing.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Flexbox/Main.md">Next &gt;</a>
+<hr>
 The <b>@media</b> rule, introduced in CSS2, made it possible to define different style rules for different media types.
 <br>
 Examples: You could have one set of style rules for computer screens, one for printers, one for handheld devices, one for television-type devices, and so on.
