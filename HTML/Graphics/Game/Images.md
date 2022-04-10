@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/Game/Scores.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/Game/Sounds.md">Next &gt;</a>
+<hr>
 <h1>How to Use'em?</h1>
 To add images on a canvas, the <b>getContext("2d")</b> object has built-in image properties and methods.
 <br>
