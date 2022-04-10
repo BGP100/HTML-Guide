@@ -1,3 +1,7 @@
+<a href="/HTML/Images/Background.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Favicon.md">Next &gt;</a>
+<hr>
 The HTML &lt;picture&gt; element allows you to display different pictures for different devices or screen sizes.
 <br>
 <img src="https://www.w3schools.com/html/picture_example.jpg">
