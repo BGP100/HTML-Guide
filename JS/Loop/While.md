@@ -1,3 +1,7 @@
+<a href="/JS/Loop/For-Of.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Break.md">Next &gt;</a>
+<hr>
 The <b>while</b> loop loops through a block of code as long as a specified condition is true.
 <br>
 <b>Syntax:</b>
