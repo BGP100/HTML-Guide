@@ -1,3 +1,7 @@
+<a href="/JS/Formats.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Set-Methods.md">Next &gt;</a>
+<hr>
 These methods can be used for getting information from a date object:
 <ul>
   <li><a href="#getTime">getTime()</a></li>
