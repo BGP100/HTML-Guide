@@ -1,3 +1,7 @@
+<a href="/CSS/Text/Shadow.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Fonts/WebSafe.md">Next &gt;</a>
+<hr>
 Choosing the right font for your website is important!
 <h1>Why?</h1>
 Choosing the right font has a huge impact on how the readers experience a website.
