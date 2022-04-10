@@ -1,3 +1,7 @@
+<a href="/CSS/Responsive/Images.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Responsive/Frameworks.md">Next &gt;</a>
+<hr>
 <h1>width</h1>
 If the <b>width</b> property is set to 100%, the video player will be responsive and scale up and down:
 <pre>
