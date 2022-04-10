@@ -1,3 +1,7 @@
+<a href="/CSS/Units.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/!important.md">Next &gt;</a>
+<hr>
 <h1>What is it?</h1>
 If there are two or more CSS rules that point to the same element, the selector with the highest specificity value will "win", and its style declaration will be applied to that HTML element.
 <br>
