@@ -1,3 +1,7 @@
+<a href="/JS/Functions.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Events.md">Next &gt;</a>
+<hr>
 You have already learned that JavaScript variables are containers for data values.
 <br>
 This code assigns a simple value (Fiat) to a variable named car:
