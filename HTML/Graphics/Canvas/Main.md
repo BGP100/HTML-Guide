@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/Canvas/Drawing.md">Next &gt;</a>
+<hr>
 <img src="https://i.imgur.com/Gn9yLP6.jpg" width="25%">
 <br>
 The HTML <b>&lt;canvas&gt;</b> element is used to draw graphics on a web page.
