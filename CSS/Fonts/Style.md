@@ -1,3 +1,7 @@
+<a href="/CSS/Fonts/Fallback.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Fonts/Size.md">Next &gt;</a>
+<hr>
 The <b>font-style</b> property is mostly used to specify italic text.
 <br>
 This property has three values:
