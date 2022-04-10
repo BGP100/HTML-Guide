@@ -1,6 +1,6 @@
 <a href="/CSS/Display.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/CSS/Posistion.md">Next &gt;</a>
+<a href="/CSS/Position.md">Next &gt;</a>
 <hr>
 As mentioned in the <a href="Display.md">previous chapter</a>; a block-level element always takes up the full width available (stretches out to the left and right as far as it can).
 <br>
