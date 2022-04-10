@@ -1,3 +1,7 @@
+<a href="/CSS/Text/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Text/Alignment.md">Next &gt;</a>
+<hr>
 The <b>color</b> property is used to set the color of the text. The color is specified by:
 <ul>
   <li>a color name - like "red"</li>
