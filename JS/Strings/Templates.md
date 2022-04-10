@@ -1,3 +1,7 @@
+<a href="/JS/Strings/Search.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Numbers/Main.md">Next &gt;</a>
+<hr>
 Synonyms:
 <ul>
   <li>Template Literals</li>
