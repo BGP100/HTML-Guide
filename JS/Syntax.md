@@ -1,3 +1,7 @@
+<a href="/JS/Statements.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Comments.md">Next &gt;</a>
+<hr>
 The JavaScript syntax defines two types of values:
 <ul>
   <li>Fixed values</li>
