@@ -1,3 +1,7 @@
+<a href="/CSS/Background/Attachment.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Borders/Width.md">Next &gt;</a>
+<hr>
 The CSS border properties allow you to specify the style, width, and color of an element's border.
 <br>
 <img src="https://i.imgur.com/xJtyHG8.png">
