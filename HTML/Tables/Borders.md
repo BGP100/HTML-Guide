@@ -1,3 +1,7 @@
+<a href="/HTML/Tables/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Tables/Sizes.md">Next &gt;</a>
+<hr>
 HTML tables can have borders of different styles and shapes.
 <h1>Double Borders</h1>
 When you add a border to a table, you also add borders around each table cell:
