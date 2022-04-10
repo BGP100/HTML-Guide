@@ -1,3 +1,7 @@
+<a href="/JS/Loop/For.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Loop/For-Of.md">Next &gt;</a>
+<hr>
 The JavaScript <b>for in</b> statement loops through the properties of an Object:
 <br>
 <b>Syntax:</b>
