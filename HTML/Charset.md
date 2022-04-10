@@ -1,3 +1,7 @@
+<a href="/HTML/Emojis.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/URL-Encode.md">Next &gt;</a>
+<hr>
 To display an HTML page correctly, a web browser must know which character set to use.
 <h1>ASCII to UTF-8</h1>
 ASCII was the first character encoding standard. ASCII defined 128 different characters that could be used on the internet: numbers (0-9), English letters (A-Z), and some special characters like ! $ + - ( ) @ &lt; &gt; .
