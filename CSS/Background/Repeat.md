@@ -1,3 +1,7 @@
+<a href="/CSS/Background/Image.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Background/Attachment.md">Next &gt;</a>
+<hr>
 By default, the <b>background-image</b> property repeats an image both horizontally and vertically.
 <br>
 Some images should be repeated only horizontally or vertically, or they will look strange, like this:
