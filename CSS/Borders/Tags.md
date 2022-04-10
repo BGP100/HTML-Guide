@@ -1,3 +1,7 @@
+<a href="/CSS/Borders/Property.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Margin.md">Next &gt;</a>
+<hr>
 <table class="ws-table-all notranslate">
   <tr>
     <th>Property</th>
