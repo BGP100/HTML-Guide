@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/ColorKeywords.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Gradients/Radial.md">Next &gt;</a>
+<hr>
 <img src="https://i.imgur.com/7DHWHNj.jpg" width="100%">
 <br>
 CSS gradients let you display smooth transitions between two or more specified colors.
