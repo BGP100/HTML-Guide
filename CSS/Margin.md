@@ -1,3 +1,7 @@
+<a href="/CSS/Borders/Tags.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Padding.md">Next &gt;</a>
+<hr>
 Margins are used to create space around elements, outside of any defined borders.
 <br>
 <img src="https://i.imgur.com/ki6HmRJ.png">
