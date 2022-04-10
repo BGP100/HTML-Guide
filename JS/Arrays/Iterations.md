@@ -1,3 +1,7 @@
+<a href="/JS/Arrays/Sort.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Arrays/Const.md">Next &gt;</a>
+<hr>
 <h1>forEach()</h1>
 The <b>forEach()</b> method calls a function (a callback function) once for each array element.
 <pre>
