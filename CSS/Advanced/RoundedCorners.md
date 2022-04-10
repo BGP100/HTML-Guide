@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Home.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/BorderImages.md">Next &gt;</a>
+<hr>
 With the CSS <b>border-radius</b> property, you can give any element "rounded corners".
 <hr>
 The CSS border-radius property defines the radius of an element's corners.
