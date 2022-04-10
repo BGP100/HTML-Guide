@@ -1,3 +1,7 @@
+<a href="/CSS/ImageGallery.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/AttributeSelectors.md">Next &gt;</a>
+<hr>
 An image sprite is a collection of images put into a single image.
 <br>
 A web page with many images can take a long time to load and generates multiple server requests.
