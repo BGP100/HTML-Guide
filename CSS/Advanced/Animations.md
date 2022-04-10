@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Transtions.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Tooltip.md">Next &gt;</a>
+<hr>
 CSS allows animation of HTML elements without using JavaScript or Flash!
 <br>
 <img src="https://i.imgur.com/C4ESWXb.gif" width="80%">
