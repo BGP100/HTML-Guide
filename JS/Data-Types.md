@@ -1,3 +1,7 @@
+<a href="/JS/Operators/Bitwise.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Functions.md">Next &gt;</a>
+<hr>
 In programming, data types is an important concept.
 <br>
 To be able to operate on variables, it is important to know something about the type.
