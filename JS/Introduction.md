@@ -1,3 +1,7 @@
+<a href="/JS/Home.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Where-To.md">Next &gt;</a>
+<hr>
 This chapter contains some examples of what JavaScript can do.
 <h1>It can Change HTML Content</h1>
 One of many JavaScript HTML methods is <b>getElementById()</b>.
