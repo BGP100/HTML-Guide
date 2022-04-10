@@ -1,6 +1,6 @@
-<a href="/CSS/Table/Size.md">&lt; Previous</a>
+<a href="/CSS/Tables/Size.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/CSS/Table/Style.md">Next &gt;</a>
+<a href="/CSS/Tables/Style.md">Next &gt;</a>
 <hr>
 The <b>text-align</b> property sets the horizontal alignment (like left, right, or center) of the content in <b>&lt;th&gt;</b> or <b>&lt;td&gt;</b>.
 <br>
