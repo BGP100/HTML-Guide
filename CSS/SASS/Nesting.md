@@ -1,3 +1,7 @@
+<a href="/CSS/SASS/Variables.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/SASS/@/.md">Next &gt;</a>
+<hr>
 Sass lets you nest CSS selectors in the same way as HTML.
 <br>
 Look at an example of some Sass code for a site's navigation:
