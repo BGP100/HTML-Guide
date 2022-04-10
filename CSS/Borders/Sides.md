@@ -1,3 +1,7 @@
+<a href="/CSS/Borders/Colors.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Borders/Round.md">Next &gt;</a>
+<hr>
 From the examples on the previous pages, you have seen that it is possible to specify a different border for each side.
 <br>
 In CSS, there are also properties for specifying each of the borders (top, right, bottom, and left):
