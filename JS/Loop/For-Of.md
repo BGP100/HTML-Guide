@@ -1,3 +1,7 @@
+<a href="/JS/Loop/For-In.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Loop/While.md">Next &gt;</a>
+<hr>
 The JavaScript <b>for of</b> statement loops through the values of an iterable object.
 <br>
 It lets you loop over iterable data structures such as Arrays, Strings, Maps, NodeLists, and more:
