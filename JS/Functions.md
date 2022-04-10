@@ -1,3 +1,7 @@
+<a href="/JS/Data-Types.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Objects.md">Next &gt;</a>
+<hr>
 A JavaScript function is a block of code designed to perform a particular task.
 <br>
 A JavaScript function is executed when "something" invokes it (calls it).
