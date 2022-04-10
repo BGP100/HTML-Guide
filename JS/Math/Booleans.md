@@ -1,3 +1,7 @@
+<a href="/JS/Math/Random.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Math/Comparison.md">Next &gt;</a>
+<hr>
 A JavaScript Boolean represents one of two values: <b>true</b> or <b>false</b>.
 <br>
 Very often, in programming, you will need a data type that can only have one of two values, like
