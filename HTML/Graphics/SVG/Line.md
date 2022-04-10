@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/SVG/Ellipse.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/SVG/Polygon.md">Next &gt;</a>
+<hr>
 <img src="https://i.imgur.com/BBjlMOV.png" height="200" width="200">
 <pre>&lt;svg height="210" width="500"&gt;&lt;line x1="0" y1="0" x2="200" y2="200" style="stroke:rgb(255,0,0);stroke-width:2" /&gt;&lt;/svg&gt;</pre>
 <b>Explanation:</b></p>
