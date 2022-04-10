@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/SVG/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/SVG/Rectangle.md">Next &gt;</a>
+<hr>
 You can embed SVG elements directly into your HTML pages.
 <hr>
 Here is an example of a simple SVG graphic:
