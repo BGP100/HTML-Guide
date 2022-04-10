@@ -1,3 +1,7 @@
+<a href="/HTML/Colors/HSL.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Links/Main.md">Next &gt;</a>
+<hr>
 CSS stands for Cascading Style Sheets.
 <br>
 CSS saves a lot of work. It can control the layout of multiple web pages all at once.
@@ -25,7 +29,6 @@ An inline CSS uses the style attribute of an HTML element.
 The following example sets the text color of the &lt;h1&gt; element to blue, and the text color of the &lt;p&gt; element to red:
 <pre>
 &lt;h1 style="color:blue;"&gt;A Blue Heading&lt;/h1&gt;
-
 &lt;p style="color:red;"&gt;A red paragraph.&lt;/p&gt;
 </pre>
 <h1>Internal</h1>
