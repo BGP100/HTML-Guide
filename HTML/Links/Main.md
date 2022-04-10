@@ -1,3 +1,7 @@
+<a href="/HTML/CSS.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Links/Colors.md">Next &gt;</a>
+<hr>
 Links are found in nearly all web pages. Links allow users to click their way from page to page.
 <br>
 HTML links are hyperlinks.
