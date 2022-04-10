@@ -120,7 +120,6 @@ An HTML page will validate without the html and body tags:
 &lt;head&gt;
   &lt;title&gt;Page Title&lt;/title&gt;
 &lt;/head&gt;
-
 &lt;h1&gt;This is a heading&lt;/h1&gt;
 &lt;p&gt;This is a paragraph.&lt;/p&gt;
 </pre>
@@ -135,14 +134,12 @@ The HTML head tag can also be omitted.
 Browsers will add all elements before body, to a default head element.
 <pre>
 &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;title&gt;Page Title&lt;/title&gt;
-&lt;body&gt;
-
-&lt;h1&gt;This is a heading&lt;/h1&gt;
-&lt;p&gt;This is a paragraph.&lt;/p&gt;
-
-&lt;/body&gt;
+  &lt;html&gt;
+    &lt;title&gt;Page Title&lt;/title&gt;
+  &lt;body&gt;
+    &lt;h1&gt;This is a heading&lt;/h1&gt;
+    &lt;p&gt;This is a paragraph.&lt;/p&gt;
+  &lt;/body&gt;
 &lt;/html&gt;
 </pre>
 <h1>Close Empty Elements?</h1>
