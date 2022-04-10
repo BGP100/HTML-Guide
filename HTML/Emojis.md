@@ -1,3 +1,7 @@
+<a href="/HTML/Symbols.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Charset.md">Next &gt;</a>
+<hr>
 Emojis are characters from the UTF-8 character set: 😄 😍 💗
 <h1>What are they?</h1>
 Emojis look like images, or icons, but they are not.
