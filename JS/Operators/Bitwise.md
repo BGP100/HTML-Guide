@@ -1,3 +1,7 @@
+<a href="/JS/Operators/Type.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Data-Types.md">Next &gt;</a>
+<hr>
 <h1>Short Descriptions</h1>
 <table class="ws-table-all notranslate">
   <tr>
