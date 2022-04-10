@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/Game/Canvas.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/Game/Controller.md">Next &gt;</a>
+<hr>
 Add a red square onto the game area:
 <br>
 <img src="https://i.imgur.com/uc7pjUB.jpg" width="40%">
