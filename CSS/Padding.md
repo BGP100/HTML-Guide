@@ -1,3 +1,7 @@
+<a href="/CSS/Margin.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/HeightAndWidth.md">Next &gt;</a>
+<hr>
 Padding is used to create space around an element's content, inside of any defined borders.
 <br>
 <img src="https://i.imgur.com/oiDjJRK.png">
