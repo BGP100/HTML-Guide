@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/SVG/Filters/Shadow.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/SVG/Gradient/Linear.md">Next &gt;</a>
+<hr>
 A gradient is a smooth transition from one color to another. In addition, several color transitions can be applied to the same element.
 <br>
 There are two main types of gradients in SVG:
