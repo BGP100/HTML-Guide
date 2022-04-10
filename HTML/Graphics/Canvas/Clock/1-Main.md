@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/Canvas/Images.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/Canvas/Clock/2-Face.md">Next &gt;</a>
+<hr>
 In these chapters I will build an analog clock using HTML canvas.
 <h1>Part I: Create the Canvas</h1>
 <img src="https://i.imgur.com/O8zlGN8.jpg" width="40%">
