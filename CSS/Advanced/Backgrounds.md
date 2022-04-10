@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/BorderImages.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Colors.md">Next &gt;</a>
+<hr>
 In this chapter you will learn how to add multiple background images to one element.
 <br>
 You will also learn about the following properties:
