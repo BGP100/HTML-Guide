@@ -1,3 +1,7 @@
+<a href="/JS/Date/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Date/Get-Methods.md">Next &gt;</a>
+<hr>
 <h1>Output</h1>
 Independent of input format, JavaScript will (by default) output dates in full text string format:
 <p></p>
