@@ -1,3 +1,7 @@
+<a href="/JS/Numbers/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Arrays/Main.md">Next &gt;</a>
+<hr>
 Primitive values (like 3.14 or 2014), cannot have properties and methods (because they are not objects).
 <br>
 But with JavaScript, methods and properties are also available to primitive values, because JavaScript treats primitive values as objects when executing methods and properties.
