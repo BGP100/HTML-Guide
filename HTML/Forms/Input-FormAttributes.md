@@ -1,3 +1,7 @@
+<a href="/HTML/Forms/InputAttributes.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/Main.md">Next &gt;</a>
+<hr>
 Here I describe all the <b><code>form*</code></b> attributes for the <b>&lt;input&gt;</b> element.
 <h1>form</h1>
 The input <b>form</b> attribute specifies the form the <b>&lt;input&gt;</b> element belongs to.
