@@ -1,3 +1,7 @@
+<a href="/JS/Strings/Templates.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Numbers/Methods.md">Next &gt;</a>
+<hr>
 JavaScript has only one type of number. Numbers can be written with or without decimals.
 <hr>
 <pre>
