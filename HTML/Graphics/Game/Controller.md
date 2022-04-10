@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/Game/Components.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/Game/Obstacles.md">Next &gt;</a>
+<hr>
 Push the buttons to move the red square:
 <br>
 <sup>(It's just an image, GitHub does not support these things...)</sup>
