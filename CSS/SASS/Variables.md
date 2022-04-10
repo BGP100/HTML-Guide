@@ -1,3 +1,7 @@
+<a href="/CSS/SASS/Installation.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/SASS/Nesting.md">Next &gt;</a>
+<hr>
 Variables are a way to store information that you can re-use later.
 <br>
 With Sass, you can store information in variables, like:
