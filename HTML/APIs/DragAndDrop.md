@@ -1,3 +1,7 @@
+<a href="/HTML/APIs/Geolocation.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/APIs/WebStorage.md">Next &gt;</a>
+<hr>
 In HTML, any element can be dragged and dropped.
 <br>
 <img src="https://i.imgur.com/N5Flb2v_d.png" draggable="true">
