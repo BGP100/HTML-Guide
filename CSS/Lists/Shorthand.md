@@ -1,3 +1,7 @@
+<a href="/CSS/Lists/RemoveDefault.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Lists/Styling.md">Next &gt;</a>
+<hr>
 The <b>list-style</b> property is a shorthand property. It is used to set all the list properties in one declaration:
 <pre>
 ul {
