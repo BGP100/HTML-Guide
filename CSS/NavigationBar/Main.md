@@ -1,3 +1,7 @@
+<a href="/CSS/Opacity.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/NavigationBar/Vertical.md">Next &gt;</a>
+<hr>
 <a href="https://github.com/BGP100/topnav.html">Click Here</a> to see the code for the <b>Navigation Var</b>.
 <hr>
 <b>Vertical:</b>
