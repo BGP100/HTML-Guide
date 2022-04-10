@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Flexbox/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Flexbox/Items.md">Next &gt;</a>
+<hr>
 Like we specified in the previous chapter, this is a flex container (the blue area) with three flex items:
 <br>
 <img src="https://i.imgur.com/JO6Mtim.png" width="100%">
