@@ -1,3 +1,7 @@
+<a href="/CSS/Home.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Syntax.md">Next &gt;</a>
+<hr>
 CSS is the language we use to style a Web page.
 <h1>What is it?</h1>
 <ul>
