@@ -5,9 +5,9 @@
 With CSS, links can be styled in many different ways.
 <br>
 <a href="#">text link</a>
-<b><i><s><a href="#">text link</a></s></i></b>
+<b><i><s>text link</s></i></b>
 <img src="https://i.imgur.com/bcORF04.jpg" width="15%">
-<img src="https://i.imgur.com/ScIdbHK.jpg" width="15%">
+<img src="https://i.imgur.com/ScIdbHK.jpg" width="15%"></a>
 <h1>Styling</h1>
 Links can be styled with any CSS property (e.g. <b>color</b>, <b>font-family</b>, <b>background</b>, etc.).
 <pre>
