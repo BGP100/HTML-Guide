@@ -44,7 +44,7 @@ if (typeof(Storage) !== "undefined") {
 } else {
   // Sorry! No Web Storage support..
 }
-<pre>
+</pre>
 <h1>localStorage Object</h1>
 The localStorage object stores the data with no expiration date. The data will not be deleted when the browser is closed, and will be available the next day, week, or year.
 <pre>
