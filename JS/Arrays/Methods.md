@@ -1,3 +1,7 @@
+<a href="/JS/Arrays/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Arrays/Sort.md">Next &gt;</a>
+<hr>
 The JavaScript method <b>toString()</b> converts an array to a string of (comma separated) array values.
 <pre>
 const fruits = ["Banana", " Orange", " Apple", " Mango"];
