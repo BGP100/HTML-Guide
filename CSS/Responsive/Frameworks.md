@@ -1,3 +1,7 @@
+<a href="/CSS/Responsive/Videos.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Responsive/Templates.md">Next &gt;</a>
+<hr>
 All popular CSS Frameworks offer responsive design.
 <br>
 They are free, and easy to use.
