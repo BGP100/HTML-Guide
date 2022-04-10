@@ -1,3 +1,7 @@
+<a href="/CSS/Colors/HSL.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Background/Color.md">Next &gt;</a>
+<hr>
 To shorten the code, it is also possible to specify all the background properties in one single property. This is called a shorthand property.
 <br>
 Instead of writing:
