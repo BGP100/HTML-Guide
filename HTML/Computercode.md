@@ -1,3 +1,7 @@
+<a href="/HTML/Responsive.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Semantic.md">Next &gt;</a>
+<hr>
 HTML contains several elements for defining user input and computer code.
 <pre>
 &lt;code&gt;
