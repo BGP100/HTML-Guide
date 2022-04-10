@@ -1,3 +1,7 @@
+<a href="/CSS/AttributeSelectors.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Counters.md">Next &gt;</a>
+<hr>
 The look of an HTML form can be greatly improved with CSS:
 <br>
 <img src="https://i.imgur.com/Pyt38lj.png">
