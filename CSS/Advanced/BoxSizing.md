@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Variables/MediaQueries.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/MediaQueries.md">Next &gt;</a>
+<hr>
 The CSS box-sizing property allows us to include the padding and border in an element's total width and height.
 <h1>WITHOUT the Property</h1>
 By default, the width and height of an element is calculated like this:
