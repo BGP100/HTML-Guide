@@ -1,3 +1,7 @@
+<a href="/CSS/Responsive/MediaQueries.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Responsive/Videos.md">Next &gt;</a>
+<hr>
 <h1>width</h1>
 If the <b>width</b> property is set to a percentage and the <b>height</b> property is set to "auto", the image will be responsive and scale up and down:
 <pre>
