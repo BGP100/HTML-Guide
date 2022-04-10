@@ -1,3 +1,7 @@
+<a href="/JS/Events.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Strings/Methods.md">Next &gt;</a>
+<hr>
 A JavaScript string is zero or more characters written inside quotes.
 <pre>let text = "John Doe";</pre>
 You can use single or double quotes:
