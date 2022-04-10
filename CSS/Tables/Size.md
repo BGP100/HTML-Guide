@@ -1,3 +1,7 @@
+<a href="/CSS/Tables/Borders.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Tables/Alignment.md">Next &gt;</a>
+<hr>
 The width and height of a table are defined by the <b>width</b> and <b>height</b> properties.
 <br>
 The example below sets the width of the table to 100%, and the height of the <b>&lt;th&gt;</b> elements to 70px:
