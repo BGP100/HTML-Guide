@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/Game/Controller.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/Game/Scores.md">Next &gt;</a>
+<hr>
 Now we want to add some obstacles to our game.
 <br>
 Add a new component to the gaming area. Make it green, 10px wide, 200px high, and place it 300px to the right and 120px down.
