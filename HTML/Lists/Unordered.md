@@ -76,11 +76,9 @@ ul {
   overflow: hidden;
   background-color: #333333;
 }
-
 li {
   float: left;
 }
-
 li a {
   display: block;
   color: white;
@@ -88,7 +86,6 @@ li a {
   padding: 16px;
   text-decoration: none;
 }
-
 li a:hover {
   background-color: #111111;
 }
