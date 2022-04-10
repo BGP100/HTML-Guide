@@ -1,3 +1,7 @@
+<a href="/CSS/Borders/Width.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Borders/Sides.md">Next &gt;</a>
+<hr>
 The <b>border-color</b> property is used to set the color of the four borders.
 <br>
 The color can be set by:
