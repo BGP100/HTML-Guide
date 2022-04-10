@@ -1,3 +1,7 @@
+<a href="/CSS/Combinators.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Pseudo-Element.md">Next &gt;</a>
+<hr>
 A pseudo-class is used to define a special state of an element.
 <br>
 For example, it can be used to:
