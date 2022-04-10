@@ -1,3 +1,7 @@
+<a href="/JS/Objects.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Strings/Main.md">Next &gt;</a>
+<hr>
 HTML events are "things" that happen to HTML elements.
 <br>
 When JavaScript is used in HTML pages, JavaScript can "react" on these events.
