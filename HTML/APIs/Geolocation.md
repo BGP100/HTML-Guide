@@ -1,3 +1,7 @@
+<a href="/HTML/Media/YouTube.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/APIs/DragAndDrop.md">Next &gt;</a>
+<hr>
 The HTML Geolocation API is used to locate a user's position.
 <hr>
 The HTML Geolocation API is used to get the geographical position of a user.
