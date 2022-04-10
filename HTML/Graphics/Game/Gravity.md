@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/Game/Sounds.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/Game/Bouncing.md">Next &gt;</a>
+<hr>
 To add this functionality to our component constructor, first add a gravity property, which sets the current gravity. Then add a gravitySpeed property, which increases everytime we update the frame:
 <pre>
 function component(width, height, color, x, y, type) {
