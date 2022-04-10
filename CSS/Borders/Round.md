@@ -1,3 +1,7 @@
+<a href="/CSS/Borders/Sides.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Borders/Property.md">Next &gt;</a>
+<hr>
 The border-radius property is used to add rounded borders to an element:
 <br>
 <img src="https://i.imgur.com/62Zg8uI.png">
