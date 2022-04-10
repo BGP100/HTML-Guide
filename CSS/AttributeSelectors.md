@@ -1,3 +1,7 @@
+<a href="/CSS/ImageSprites.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Forms.md">Next &gt;</a>
+<hr>
 It is possible to style HTML elements that have specific attributes or attribute values.
 <h1>[attribute]</h1>
 The <b>[attribute]</b> selector is used to select elements with a specified attribute.
