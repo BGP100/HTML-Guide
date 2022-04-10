@@ -1,3 +1,7 @@
+<a href="/CSS/Text/Transformation.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Text/Shadow.md">Next &gt;</a>
+<hr>
 <h1>Text Indentation, Letter Spacing, Line Height, Word Spacing, and White Space</h1>
 <h2>Text Indentation</h2>
 The <b>text-indent</b> property is used to specify the indentation of the first line of a text:
