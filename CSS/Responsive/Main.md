@@ -1,3 +1,7 @@
+<a href="/CSS/Grid/Item.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Responsive/Viewport.md">Next &gt;</a>
+<hr>
 <h1>What is it?</h1>
 Responsive web design makes your web page look good on all devices.
 <br>
