@@ -1,3 +1,7 @@
+<a href="/CSS/Selectors.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Comments.md">Next &gt;</a>
+<hr>
 There are three ways of inserting a style sheet:
 <ul>
   <li>External CSS</li>
