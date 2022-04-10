@@ -1,3 +1,7 @@
+<a href="/CSS/Float/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Float/Examples.md">Next &gt;</a>
+<hr>
 When we use the <b>float</b> property, and we want the next element below (not on right or left), we will have to use the <b>clear</b> property.
 <br>
 The <b>clear</b> property specifies what should happen with the element that is next to a floating element.
