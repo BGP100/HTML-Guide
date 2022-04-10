@@ -1,3 +1,7 @@
+<a href="/HTML/Tables/Borders.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Tables/Headers.md">Next &gt;</a>
+<hr>
 HTML tables can have different sizes for each column, row or the entire table.
 <br>
 <img src="https://i.imgur.com/tueJN6M.png">
