@@ -1,3 +1,7 @@
+<a href="/CSS/Padding.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/BoxModel.md">Next &gt;</a>
+<hr>
 The CSS <b>height</b> and <b>width</b> properties are used to set the height and width of an element.
 <br>
 The CSS <b>max-width</b> property is used to set the maximum width of an element.
