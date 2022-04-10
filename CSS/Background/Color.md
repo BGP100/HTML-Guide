@@ -1,3 +1,7 @@
+<a href="/CSS/Background/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Background/Image.md">Next &gt;</a>
+<hr>
 In these chapters, you will learn about the following CSS background properties:
 <ul>
   <li>background-color
