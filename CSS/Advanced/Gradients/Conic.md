@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Gradients/Radial.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Shadow/Effects.md">Next &gt;</a>
+<hr>
 A conic gradient is a gradient with color transitions rotated around a center point.
 <br>
 To create a conic gradient you must define at least two colors.
