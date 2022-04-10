@@ -1,3 +1,7 @@
+<a href="/JS/Strings/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Strings/Search.md">Next &gt;</a>
+<hr>
 String methods help you to work with strings.
 <br>
 Primitive values, like "John Doe", cannot have properties or methods (because they are not objects).
