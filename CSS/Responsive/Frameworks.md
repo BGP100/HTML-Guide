@@ -20,7 +20,7 @@ W3.CSS is designed to be independent of jQuery or any other JavaScript library.
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
-&lt;link rel="stylesheet" href="https://raw.githubusercontent.com/BGP100/HTML-Guide/main/Extras/W3-CSS"&gt;
+&lt;link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"&gt;
 &lt;body&gt;
 &lt;div class="w3-container w3-green"&gt;
   &lt;h1&gt;W3Schools Demo&lt;/h1&gt;
