@@ -1,3 +1,7 @@
+<a href="/CSS/SASS/Functions/Selector.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/SASS/Functions/Color.md">Next &gt;</a>
+<hr>
 The introspection functions are rarely used when building a stylesheet. However, they are valuable if something does not work properly - to figure out what's going on: like debugging functions.
 <br>
 The following table lists all introspection functions in SASS:
