@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Masking.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Pagination.md">Next &gt;</a>
+<hr>
 Learn how to style buttons using CSS.
 <h1>Basic</h1>
 <pre>
