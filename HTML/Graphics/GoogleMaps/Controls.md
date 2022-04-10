@@ -1,10 +1,14 @@
+<a href="/HTML/Graphics/GoogleMaps/Events.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/GoogleMaps/Types.md">Next &gt;</a>
+<hr>
 <h1>Default Controls</h1>
 When showing a standard Google map, it comes with the default control set:
 <ul>
-  <li>Zoom - displays a slider or "+/-" buttons to control the zoom level of the map.</li>
-  <li>Pan - displays a pan control for panning the map.</li>
-  <li>MapType - lets the user toggle between map types (roadmap and satellite).</li>
-  <li>Street View - displays a Pegman icon which can be dragged to the map to enable Street View.</li>
+  <li><b>Zoom</b> - displays a slider or "+/-" buttons to control the zoom level of the map.</li>
+  <li><b>Pan</b> - displays a pan control for panning the map.</li>
+  <li><b>MapType</b> - lets the user toggle between map types (roadmap and satellite).</li>
+  <li><b>Street View</b> - displays a Pegman icon which can be dragged to the map to enable Street View.</li>
 </ul>
 <h1>More Controls</h1>
 In addition to the default controls, Google Maps also has:
