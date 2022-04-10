@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Flexbox/Container.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Flexbox/Responsive.md">Next &gt;</a>
+<hr>
 <h1>Child Elements</h1>
 The direct child elements of a flex container automatically becomes flexible (flex) items.
 <br>
