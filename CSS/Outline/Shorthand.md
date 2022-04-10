@@ -1,3 +1,7 @@
+<a href="/CSS/Outline/Colors.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Outline/Offset.md">Next &gt;</a>
+<hr>
 The outline property is a shorthand property for setting the following individual outline properties:
 <ul>
   <li>outline-width</li>
