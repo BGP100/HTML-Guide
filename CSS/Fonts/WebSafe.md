@@ -1,3 +1,7 @@
+<a href="/CSS/Fonts/Family.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Fonts/Fallback.md">Next &gt;</a>
+<hr>
 Web safe fonts are fonts that are universally installed across all browsers and devices.
 <h1>Fallback</h1>
 However, there are no 100% completely web safe fonts. There is always a chance that a font is not found or is not installed properly.
