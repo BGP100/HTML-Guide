@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/Canvas/Clock/3-Numbers.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/Canvas/Clock/5-Start.md">Next &gt;</a>
+<hr>
 <h1>Part IV - Draw Clock Hands</h1>
 The clock needs hands. Create a JavaScript function to draw clock hands:
 <img src="https://i.imgur.com/NMl4dUL.jpg" width="40%">
