@@ -1,3 +1,7 @@
+<a href="/CSS/Dropdown.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/ImageSprites.md">Next &gt;</a>
+<hr>
 CSS can be used to create an image gallery.
 <br>
 <img src="https://i.imgur.com/pm8imha.png">
