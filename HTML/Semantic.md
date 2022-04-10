@@ -1,3 +1,7 @@
+<a href="/HTML/Computercode.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/BeginnerGuide.md">Next &gt;</a>
+<hr>
 Semantic elements = elements with a meaning.
 <h1>What are they?</h1>
 A semantic element clearly describes its meaning to both the browser and the developer.
