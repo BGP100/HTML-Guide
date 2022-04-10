@@ -1,3 +1,7 @@
+<a href="/CSS/SASS/@/import.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/SASS/@/extend.md">Next &gt;</a>
+<hr>
 The <b>@mixin</b> directive lets you create CSS code that is to be reused throughout the website.
 <br>
 The <b>@include</b> directive is created to let you use (include) the mixin.
