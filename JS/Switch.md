@@ -1,3 +1,7 @@
+<a href="/JS/If-Else.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Loop/For.md">Next &gt;</a>
+<hr>
 The <b>switch</b> statement is used to perform different actions based on different conditions.
 <hr>
 <b>Syntax:</b>
