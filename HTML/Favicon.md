@@ -1,3 +1,7 @@
+<a href="/HTML/Images/Picture.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Tables/Main.md">Next &gt;</a>
+<hr>
 You can use any image you like as your favicon. You can also create your own favicon on sites like https://favicon.cc/
 <br>
 A favicon image is displayed to the left of the page title in the browser tab, like this:
