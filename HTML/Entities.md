@@ -1,3 +1,7 @@
+<a href="/HTML/BeginnerGuide.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Symbols.md">Next &gt;</a>
+<hr>
 Reserved characters in HTML must be replaced with character entities.
 <hr>
 You will see more HTML symbols in the <a href="Symbols.md">symbols chapter.</a>
@@ -10,11 +14,11 @@ Character entities are used to display reserved characters in HTML.
 <br>
 A character entity looks like this:
 <pre>
-&entity_name;
+&amp;entity_name;
 -
 OR
 -
-&#entity_number;
+&amp;#entity_number;
 </pre>
 To display a less than sign (&lt;) we must write: &amp;lt; or &amp;#60;
 <br>
@@ -119,7 +123,7 @@ If you write 10 spaces in your text, the browser will remove 9 of them. To add r
 <h1>Combining Marks</h1>
 A diacritical mark is a "glyph" added to a letter.
 <br>
-Some diacritical marks, like grave (  ̀) and acute (  ́) are called accents.
+Some diacritical marks, like grave (<code> ̀</code>) and acute (<code> ́</code>) are called accents.
 <br>
 Diacritical marks can appear both above and below a letter, inside a letter, and between two letters.
 <br>
