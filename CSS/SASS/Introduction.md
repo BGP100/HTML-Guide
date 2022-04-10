@@ -1,7 +1,11 @@
+<a href="/CSS/SASS/Home.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/SASS/Installation.md">Next &gt;</a>
+<hr>
 Before you continue you should have a basic understanding of the following:
 <ul>
-  <li><a href="/HTML/">HTML</a></li>
-  <li><a href="/CSS/">CSS</a></li>
+  <li><a href="/HTML/Home.md">HTML</a></li>
+  <li><a href="/CSS/Home.md">CSS</a></li>
 </ul>
 <h1>What is it?</h1>
 <ul>
