@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Gradients/Linear.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Gradients/Conic.md">Next &gt;</a>
+<hr>
 <h1>Radial</h1>
 A radial gradient is defined by its center.
 <br>
