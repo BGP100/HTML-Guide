@@ -1,3 +1,7 @@
+<a href="/HTML/Layout.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Computercode.md">Next &gt;</a>
+<hr>
 Responsive web design is about creating web pages that look good on all devices!
 <br>
 A responsive web design will automatically adjust for different screen sizes and viewports.
