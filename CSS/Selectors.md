@@ -1,3 +1,7 @@
+<a href="/CSS/Syntax.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/HowToAdd.md">Next &gt;</a>
+<hr>
 A CSS selector selects the HTML element(s) you want to style.
 <hr>
 CSS selectors are used to "find" (or select) the HTML elements you want to style.
