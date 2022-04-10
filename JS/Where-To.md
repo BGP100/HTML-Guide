@@ -1,3 +1,7 @@
+<a href="/JS/Introduction.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Output.md">Next &gt;</a>
+<hr>
 In HTML, JavaScript code is inserted between <b>&lt;script&gt;</b> and <b>&lt;/script&gt;</b> tags.
 <pre>
 &lt;script&gt;
