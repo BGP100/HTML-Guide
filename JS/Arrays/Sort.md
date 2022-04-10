@@ -1,3 +1,7 @@
+<a href="/JS/Arrays/Methods.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Arrays/Iteration.md">Next &gt;</a>
+<hr>
 The <b>sort()</b> method sorts an array alphabetically:
 <pre>
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
