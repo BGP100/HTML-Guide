@@ -1,3 +1,7 @@
+<a href="/HTML/Graphics/SVG/Line.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Graphics/SVG/Polyline.md">Next &gt;</a>
+<hr>
 The <b>&lt;polygon&gt;</b> element is used to create a graphic that contains at least three sides.
 <br>
 Polygons are made of straight lines, and the shape is "closed" (all the lines connect up).
