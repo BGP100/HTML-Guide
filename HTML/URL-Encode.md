@@ -1,3 +1,7 @@
+<a href="/HTML/Charset.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/XHTML.md">Next &gt;</a>
+<hr>
 A URL is another word for a web address.
 <br>
 A URL can be composed of words (e.g. w3schools.com), or an Internet Protocol (IP) address (e.g. 192.68.20.50).
