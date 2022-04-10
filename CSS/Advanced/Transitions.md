@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/3D-Transforms.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Animations.md">Next &gt;</a>
+<hr>
 CSS transitions allows you to change property values smoothly, over a given duration.
 <br>
 In this chapter you will learn about the following properties:
