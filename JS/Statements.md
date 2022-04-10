@@ -1,3 +1,7 @@
+<a href="/JS/Output.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Syntax.md">Next &gt;</a>
+<hr>
 A computer program is a list of "instructions" to be "executed" by a computer.
 <br>
 In a programming language, these programming instructions are called statements.
