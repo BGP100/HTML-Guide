@@ -1,3 +1,7 @@
+<a href="/HTML/Images/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/Images/Background.md">Next &gt;</a>
+<hr>
 With HTML image maps, you can create clickable areas on an image.
 <br>
 The HTML <b>&lt;map&gt;</b> tag defines an image map. An image map is an image with clickable areas. The areas are defined with one or more <b>&lt;area&gt;</b> tags.
