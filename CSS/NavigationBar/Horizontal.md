@@ -1,3 +1,7 @@
+<a href="/CSS/NavigationBar/Vertical.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Dropdown.md">Next &gt;</a>
+<hr>
 <a href="https://github.com/BGP100/topnav.html">Click Here</a> to see the code for the <b>Navigation Var</b>.
 <hr>
 <img src="https://i.imgur.com/V63iU8V.png">
