@@ -1,3 +1,7 @@
+<a href="/CSS/Fonts/WebSafe.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Fonts/Style.md">Next &gt;</a>
+<hr>
 <h1>Commonly Used Font Fallbacks</h1>
 Below are some commonly used font fallbacks, organized by the 5 generic font families:
 <ul>
