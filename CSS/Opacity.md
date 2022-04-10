@@ -1,3 +1,7 @@
+<a href="/CSS/Pseudo-Element.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/NavigationBar/Main.md">Next &gt;</a>
+<hr>
 The <b>opacity</b> property specifies the opacity/transparency of an element.
 <hr>
 The <b>opacity</b> property can take a value from 0.0 - 1.0. The lower value, the more transparent:
