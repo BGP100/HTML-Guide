@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Variables/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Variables/JS.md">Next &gt;</a>
+<hr>
 From the previous page we have learned that global variables can be accessed/used through the entire document, while local variables can be used only inside the selector where it is declared.
 <br>
 Look at the example from the previous page:
