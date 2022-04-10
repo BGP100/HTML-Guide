@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Object-position.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Buttons.md">Next &gt;</a>
+<hr>
 With CSS masking you create a mask layer to place over an element to partially or fully hide portions of the element.
 <hr>
 The CSS <b>mask-image</b> property specifies a mask layer image.
