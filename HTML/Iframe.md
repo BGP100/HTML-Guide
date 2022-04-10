@@ -1,3 +1,7 @@
+<a href="/HTML/ID.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML/JavaScript.md">Next &gt;</a>
+<hr>
 An HTML iframe is used to display a web page within a web page.
 <br>
 <a href="https://github.com/BGP100/"><img src="https://i.imgur.com/MawZxP8.png" width="100%" height="auto"></a>
@@ -27,6 +31,5 @@ An iframe can be used as the target frame for a link.
 The <b>target</b> attribute of the link must refer to the <b>name</b> attribute of the iframe:
 <pre>
 &lt;iframe src="demo_iframe.html" name="iframe_a" title="Iframe Example"&gt;&lt;/iframe&gt;
-<p></p>
 &lt;p&gt;&lt;a href="https://github.com/BGP100/" target="iframe_a"&gt;Profile&lt;/a&gt;&lt;/p&gt;
 </pre>
