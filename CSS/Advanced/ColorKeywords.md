@@ -1,3 +1,7 @@
+<a href="/CSS/Advanced/Colors.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/CSS/Advanced/Gradients/Linear.md">Next &gt;</a>
+<hr>
 This page will explain the <b>transparent</b>, <b>currentcolor</b>, and <b>inherit</b> keywords.
 <h1>transparent</h1>
 The <b>transparent</b> keyword is used to make a color transparent. This is often used to make a transparent background color for an element.
