@@ -8,10 +8,10 @@ With HTML you can create your own Website.
 <br>
 HTML is easy to learn - You will enjoy it!
 <p></p>
-<h2>Demo:</h2>
+<h1>Demo:</h1>
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
-<h2>Preview:</h2>
+<h1>Preview:</h1>
 <pre>
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
