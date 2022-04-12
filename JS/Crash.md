@@ -1,3 +1,7 @@
+<a href="/JS/Switch.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Loop/For.md">Next &gt;</a>
+<hr>
 To crash your page just enter this code:
 <pre>
 var txt = "a";
