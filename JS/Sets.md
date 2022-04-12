@@ -27,11 +27,11 @@ You can create a JavaScript Set by:
     <td>Adds a new element to the Set</td>
   </tr>
   <tr>
-    <td><a href="/JS/Maps.md#delete">delete()</a></td>
+    <td><a href="Maps.md#delete">delete()</a></td>
     <td>Removes an element from a Set</td>
   </tr>
   <tr>
-    <td><a href="/JS/Maps.md#has">has()</a></td>
+    <td><a href="Maps.md#has">has()</a></td>
     <td>Returns true if a value exists in the Set</td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ You can create a JavaScript Set by:
     <td>Returns an iterator with all the values in a Set</td>
   </tr>
   <tr>
-    <td><a href="#entries">entries()</a></td>
+    <td><a href="Maps.md#entries">entries()</a></td>
     <td>Returns an iterator with all the values in a Set</td>
   </tr>
 </table>
