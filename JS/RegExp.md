@@ -52,9 +52,9 @@ let text = "Visit Microsoft!";
 let result = text.replace("Microsoft", "W3Schools");
 </pre>
 <h1>Use String replace() With a Regular Expression</h1>
-Use a case insensitive regular expression to replace Microsoft with W3Schools in a string:
+Use a case insensitive regular expression to replace Microsoft with BledyGames in a string:
 let text = "Visit Microsoft!";
-let result = text.replace(/microsoft/i, "W3Schools");
+let result = text.replace(/microsoft/i, "BledyGames");
 </pre>
 <h1>Using the RegExp Object</h1>
 In JavaScript, the RegExp object is a regular expression object with predefined properties and methods.
