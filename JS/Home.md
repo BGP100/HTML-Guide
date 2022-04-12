@@ -12,11 +12,15 @@ This tutorial will teach you JavaScript from basic to advanced.
 <br>
 If you didn't know, JS is an abbrebiation of JavaScript
 <p></p>
-<h2>Demo:</h2>
-Sorry, buttons can't be displayed on github, so just go to the preview below.
-<h2>Preview:</h2>
+<h1>Demo:</h1>
+<a href="https://bledy-guides.repl.co">Click me to go to Bledy's Guides.</a>
+<h1>Preview:</h1>
 <pre>
-&lt;button type="button"
-onclick="<b>document.getElementById('demo').innerHTML = Date()</b>"&gt;
-Click me to display Date and Time.&lt;/button&gt;
+&lt;button type="button" id="someLink"&gt;Click me to go to Bledy's Guides.&lt;/button&gt;
+&lt;script&gt;
+const link = document.createElement("a");
+link.id = "someLink'; // Give it an ID!
+link.href = "https://bledy-guides.repl.co"; // URL
+document.getElementById("someLink").click();
+&lt;/script&gt;
 </pre>
