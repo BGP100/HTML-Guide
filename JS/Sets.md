@@ -23,6 +23,22 @@ You can create a JavaScript Set by:
     <td>Creates a new Set</td>
   </tr>
   <tr>
+    <td><a href="#new-Map">new Map()</a></td>
+    <td>Creates a new Map</td>
+  </tr>
+  <tr>
+    <td><a href="Maps.md#get">new Map()</a></td>
+    <td>Gets the value for a key in a Map</td>
+  </tr>
+  <tr>
+    <td><a href="Maps.md#set">new Map()</a></td>
+    <td>Sets the value for a key in a Map</td>
+  </tr>
+  <tr>
+    <td><a href="Maps.md#new-Map">new Map()</a></td>
+    <td>Creates a new Map</td>
+  </tr>
+  <tr>
     <td><a href="#add">add()</a></td>
     <td>Adds a new element to the Set</td>
   </tr>
@@ -44,7 +60,7 @@ You can create a JavaScript Set by:
   </tr>
   <tr>
     <td><a href="Maps.md#entries">entries()</a></td>
-    <td>Returns an iterator with all the values in a Set</td>
+    <td>Returns an iterator with the <code>[key, value]</code> pairs in a Map</td>
   </tr>
 </table>
 <table class="ws-table-all notranslate">
