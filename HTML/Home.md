@@ -17,7 +17,8 @@ HTML is easy to learn - You will enjoy it!
 &lt;html&gt;
   &lt;head&gt;
     &lt;meta charset="UTF-8"&gt;
-    &lt;title&gt;Page Title&lt;/title&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt;
+    &lt;title&gt;HTML-Guide/Home.md at main · BGP100/HTML-Guide&lt;/title&gt;
   &lt;/head&gt;
   &lt;body&gt;
     &lt;h1&gt;This is a Heading&lt;/h1&gt;
