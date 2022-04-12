@@ -42,6 +42,10 @@ You can create a JavaScript Set by:
     <td><a href="#values">values()</a></td>
     <td>Returns an iterator with all the values in a Set</td>
   </tr>
+  <tr>
+    <td><a href="#entries">entries()</a></td>
+    <td>Returns an iterator with all the values in a Set</td>
+  </tr>
 </table>
 <table class="ws-table-all notranslate">
   <tr>
