@@ -27,11 +27,11 @@ You can create a JavaScript Set by:
     <td>Adds a new element to the Set</td>
   </tr>
   <tr>
-    <td><a href="#Others">delete()</a></td>
+    <td><a href="/JS/Maps.md">delete()</a></td>
     <td>Removes an element from a Set</td>
   </tr>
   <tr>
-    <td><a href="#Others">has()</a></td>
+    <td><a href="/JS/Maps.md">has()</a></td>
     <td>Returns true if a value exists in the Set</td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@ You can create a JavaScript Set by:
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="#Others">size</a></td>
+    <td><a href="/JS/Maps.md">size</a></td>
     <td>Returns the number of elements in a Set</td>
   </tr>
 </table>
@@ -119,7 +119,3 @@ for (const x of letters.values()) {
   text += x;
 }
 </pre>
-<h1>Others</h1>
-<a href="/JS/Arrays/Methods.md">Click here</a> to find more about <b>array</b> methods.
-<br>
-<a href="/JS/Strings/Methods.md">Click here</a> to find more about <b>string</b> methods.
