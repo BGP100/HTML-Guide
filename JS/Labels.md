@@ -22,10 +22,10 @@ With a label reference, the break statement can be used to jump out of any code 
 <pre>
 const cars = ["BMW", "Volvo", "Saab", "Ford"];
 list: {
-  text += cars[0] + "<br>";
-  text += cars[1] + "<br>";
+  text += cars[0] + "&lt;br&gt;";
+  text += cars[1] + "&lt;br&gt;";
   break list;
-  text += cars[2] + "<br>";
-  text += cars[3] + "<br>";
+  text += cars[2] + "&lt;br&gt;";
+  text += cars[3] + "&lt;br&gt;";
 }
 </pre>
