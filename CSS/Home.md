@@ -8,9 +8,9 @@ CSS describes how HTML elements should be displayed.
 <br>
 This tutorial will teach you CSS from basic to advanced.
 <p></p>
-<h2>Demo:</h2>
+<h1>Demo:</h1>
 <h2>Hello</h2>
-<h2>Preview:</h2>
+<h1>Preview:</h1>
 <pre>
 &lt;p&gt;Hello&lt;/p&gt;
 &lt;style&gt;
