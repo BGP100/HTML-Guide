@@ -27,16 +27,12 @@ You can create a JavaScript Set by:
     <td>Creates a new Map</td>
   </tr>
   <tr>
-    <td><a href="Maps.md#get">new Map()</a></td>
+    <td><a href="Maps.md#get">get()</a></td>
     <td>Gets the value for a key in a Map</td>
   </tr>
   <tr>
-    <td><a href="Maps.md#set">new Map()</a></td>
+    <td><a href="Maps.md#set">set()</a></td>
     <td>Sets the value for a key in a Map</td>
-  </tr>
-  <tr>
-    <td><a href="Maps.md#new-Map">new Map()</a></td>
-    <td>Creates a new Map</td>
   </tr>
   <tr>
     <td><a href="#add">add()</a></td>
