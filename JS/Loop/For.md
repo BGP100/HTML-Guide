@@ -1,4 +1,4 @@
-<a href="/JS/Switch.md">&lt; Previous</a>
+<a href="/JS/Crash.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/JS/Loop/For-In.md">Next &gt;</a>
 <hr>
