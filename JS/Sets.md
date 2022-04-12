@@ -12,7 +12,7 @@ You can create a JavaScript Set by:
   <li>Create a new Set and use <b>add()</b> to add values</li>
   <li>Create a new Set and use <b>add()</b> to add variables</li>
 </ul>
-<h1>Some Set Methods & </h1>
+<h1>Some Set Methods & Properties</h1>
 <table class="ws-table-all notranslate">
   <tr>
     <th>Method</th>
