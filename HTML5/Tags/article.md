@@ -1,6 +1,6 @@
-<a href="/HTML5/Introduction.md">&lt; Previous</a>
+<a href="/HTML5/Home.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/HTML5/Aside.md">Next &gt;</a>
+<a href="/HTML5/Tags/aside.md">Next &gt;</a>
 <hr>
 The <b>&lt;article&gt;</b> tag specifies independent, self-contained content.
 <br>
