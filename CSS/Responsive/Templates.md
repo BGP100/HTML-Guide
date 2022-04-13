@@ -1,6 +1,6 @@
 <a href="/CSS/Responsive/Frameworks.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://bledy-guides.repl.co">Next &gt;</a>
+<a href="/CSS/Quiz.md">Next &gt;</a>
 <hr>
 I have created some responsive templates with the <a href="Frameworks.md">W3.CSS frameworks</a>.
 <br>
