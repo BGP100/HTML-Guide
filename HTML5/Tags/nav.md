@@ -1,6 +1,6 @@
-<a href="/HTML5/.md">&lt; Previous</a>
+<a href="/HTML5/Tags/main.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/HTML5/.md">Next &gt;</a>
+<a href="/HTML5/Tags/section.md">Next &gt;</a>
 <hr>
 The <b>&lt;nav&gt;</b> tag defines a set of navigation links.
 <br>
