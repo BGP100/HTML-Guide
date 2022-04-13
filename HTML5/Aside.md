@@ -1,3 +1,7 @@
+<a href="/HTML5/Article.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML5/Footer.md">Next &gt;</a>
+<hr>
 The <b>&lt;aside&gt;</b> tag defines some content aside from the content it is placed in.
 <br>
 The aside content should be indirectly related to the surrounding content.
