@@ -1,6 +1,6 @@
-<a href="/HTML5/header.md">&lt; Previous</a>
+<a href="/HTML5/Tags/header.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/HTML5/nav.md">Next &gt;</a>
+<a href="/HTML5/Tags/nav.md">Next &gt;</a>
 <hr>
 The <b>&lt;main&gt;</b> tag specifies the main content of a document.
 <br>
