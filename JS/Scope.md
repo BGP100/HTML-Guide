@@ -1,3 +1,7 @@
+<a href="/JS/Errors.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Hoisting.md">Next &gt;</a>
+<hr>
 Scope determines the accessibility (visibility) of variables.
 <br>
 JavaScript has 3 types of scope:
