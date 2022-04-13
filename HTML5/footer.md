@@ -17,7 +17,7 @@ You can have several <b>&lt;footer&gt;</b> elements in one document.
 <pre>
 &lt;footer&gt;
   &lt;p&gt;Author: Hege Refsnes&lt;/p&gt;
-  &lt;p&gt;&lt;a href="mailto:name@example.com">hege@example.com&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a href="mailto:name@example.com">name@example.com&lt;/a&gt;&lt;/p&gt;
 &lt;/footer&gt;
 </pre>
 <h1>Browser Support</h1>
