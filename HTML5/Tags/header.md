@@ -1,3 +1,7 @@
+<a href="/HTML5/Tags/footer.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML5/Tags/.md">Next &gt;</a>
+<hr>
 The <b>&lt;header&gt;</b> element represents a container for introductory content or a set of navigational links.
 <br>
 A <b>&lt;header&gt;</b> element typically contains:
