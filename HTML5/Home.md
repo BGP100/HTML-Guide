@@ -1,6 +1,6 @@
 <a href="https://bledy-guides.repl.co">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/HTML5/Tags/Main.md">Next &gt;</a>
+<a href="/HTML5/Tags/article.md">Next &gt;</a>
 <hr>
 HTML5 is the same thing as HTML but it has these new things:
 <ol>
