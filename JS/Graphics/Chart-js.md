@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/Plotly-js.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Graphics/Google-Chart.md">Next &gt;</a>
+<hr>
 Chart.js comes with the following built-in chart types:
 <ul>
   <li>Scatter</li>
