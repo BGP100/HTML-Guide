@@ -1,3 +1,7 @@
+<a href="/HTML5/Introduction.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML5/Aside.md">Next &gt;</a>
+<hr>
 The <b>&lt;article&gt;</b> tag specifies independent, self-contained content.
 <br>
 An article should make sense on its own and it should be possible to distribute it independently from the rest of the site.
