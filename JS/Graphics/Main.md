@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/Game/Movement.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Graphics/Plotly-js.md">Next &gt;</a>
+<hr>
 JavaScript libraries to use for both Artificial Intelligence graphs and other charts:
 <ul>
   <li>Plotly.js</li>
