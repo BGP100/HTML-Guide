@@ -1,3 +1,7 @@
+<a href="/HTML5/Aside.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML5/Header.md">Next &gt;</a>
+<hr>
 The <b>&lt;footer&gt;</b> tag defines a footer for a document or section.
 <br>
 A <b>&lt;footer&gt;</b> element typically contains:
