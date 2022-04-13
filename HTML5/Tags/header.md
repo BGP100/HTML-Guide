@@ -1,18 +1,25 @@
 <a href="/HTML5/Tags/footer.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/HTML5/Tags/.md">Next &gt;</a>
+<a href="/HTML5/Tags/main.md">Next &gt;</a>
 <hr>
 The <b>&lt;header&gt;</b> element represents a container for introductory content or a set of navigational links.
 <br>
 A <b>&lt;header&gt;</b> element typically contains:
 <ul>
-  <li>One or more heading elements (&lt;h1&gt; ... &lt;h6&gt;)</li>
+  <li>One or more heading elements (&lt;h1&gt; ••• &lt;h6&gt;)</li>
   <li>Logo or icon</li>
   <li>Authorship information</li>
 </ul>
 <b>Note:</b> You can have several <b>&lt;header&gt;</b> elements in one HTML document. However, <b>&lt;header&gt;</b> cannot be placed within a <b>&lt;footer&gt;</b>, <b>&lt;address&gt;</b> or another <b>&lt;header&gt;</b> element.
 <pre>
-
+&lt;article&gt;
+  &lt;header&gt;
+    &lt;h1&gt;A heading here&lt;/h1&gt;
+    &lt;p&gt;Posted by John Doe&lt;/p&gt;
+    &lt;p&gt;Some additional information here&lt;/p&gt;
+  &lt;/header&gt;
+  &lt;p&gt;Lorem Ipsum dolor set amet....&lt;/p&gt;
+&lt;/article&gt;
 </pre>
 <h1>Browser Support</h1>
 <table class="ws-table-all notranslate">
