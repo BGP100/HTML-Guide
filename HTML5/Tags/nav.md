@@ -1,3 +1,7 @@
+<a href="/HTML5/.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML5/.md">Next &gt;</a>
+<hr>
 The <b>&lt;nav&gt;</b> tag defines a set of navigation links.
 <br>
 Notice that NOT all links of a document should be inside a <b>&lt;nav&gt;</b> element. The <b>&lt;nav&gt;</b> element is intended only for major block of navigation links.
