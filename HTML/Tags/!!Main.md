@@ -1,6 +1,6 @@
 <a href="/HTML/Tags/.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://bledy-guides.repl.co">Next &gt;</a>
+<a href="/HTML/Quiz.md">Next &gt;</a>
 <hr>
 Here is the list of every HTML tag:
 <table class="ws-table-all notranslate">
