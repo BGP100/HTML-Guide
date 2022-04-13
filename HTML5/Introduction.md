@@ -1,3 +1,7 @@
+<a href="/HTML5/Home.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML5/Article.md">Next &gt;</a>
+<hr>
 The <b>&lt;main&gt;</b> tag specifies the main content of a document.
 <br>
 The content inside the <b>&lt;main&gt;</b> element should be unique to the document. It should not contain any content that is repeated across documents such as sidebars, navigation links, copyright information, site logos, and search forms.
