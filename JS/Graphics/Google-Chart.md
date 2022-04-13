@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/Chart-js.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Graphics/D3-js.md">Next &gt;</a>
+<hr>
 From simple line charts to complex hierarchical tree maps, the Google Chart gallery provides a large number of ready-to-use chart types:
 <ul>
   <li>Scatter Chart</li>
