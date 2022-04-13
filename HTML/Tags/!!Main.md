@@ -1,4 +1,4 @@
-<a href="/HTML/Tags/.md">&lt; Previous</a>
+<a href="/HTML/Timer.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/HTML/Quiz.md">Next &gt;</a>
 <hr>
