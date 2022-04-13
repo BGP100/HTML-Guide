@@ -1,3 +1,7 @@
+<a href="/HTML5/Tags/nav.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML5/Code.md">Next &gt;</a>
+<hr>
 The <b>&lt;section&gt;</b> tag defines a section of a document.
 <pre>
 &lt;section&gt;
