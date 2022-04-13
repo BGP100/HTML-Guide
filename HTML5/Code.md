@@ -1,26 +1,26 @@
+<a href="/HTML5/Tags/section.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/HTML5/Quiz.md">Next &gt;</a>
+<hr>
 I don't know what to put here...
 <br>
 Just copy the code:
 <h2>CSS:</h2>
 <pre>
 @charset "UTF-8";
-
 article, aside, footer, header, main, nav, section {
   display: block;
 }
-
 html, body, h1, h2, h3, ul, li, a, p, 
 article, aside, footer, header, main, nav, section {
   padding: 0;
   margin: 0;
 }
-
 .banner {
   background-color: #11233b;
   color: white;
   padding: 10px 20px;
 }
-
 body {
   width: 960px;
   margin-left: auto;
@@ -39,7 +39,6 @@ nav {
 li a {
   color: white;
 }
-
 li {
   display: inline;
   margin-left: 15px;
@@ -48,19 +47,16 @@ li {
   font-variant: small-caps;
   font-weight: bold;
 }
-
 section {
   background-color: #bbbbbb;
   margin-top: 10px;
   padding: 5px;
 }
-
 article {
   background-color: white;
   margin-top: 5px;
   padding: 10px 15px;
 }
-
 main {
   width: 640px;
   float: left;
@@ -74,7 +70,6 @@ aside {
   padding: 20px;
   margin-top: 10px;
 }
-
 footer {
   clear: both;
   background-color: #20416c;
