@@ -1,3 +1,7 @@
+<a href="/JS/Scope.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/UseStrict.md">Next &gt;</a>
+<hr>
 Hoisting is JavaScript's default behavior of moving declarations to the top.
 <h1>Declarations are Hoisted</h1>
 In JavaScript, a variable can be declared after it has been used.
