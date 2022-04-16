@@ -1,3 +1,7 @@
+<a href="/JS/Classes.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/JSON/Main.md">Next &gt;</a>
+<hr>
 JavaScript modules allow you to break up your code into separate files.
 <br>
 This makes it easier to maintain the code-base.
@@ -44,4 +48,4 @@ Named exports are constructed using curly braces. Default exports are not.
 <h1>Note</h1>
 Modules only work with the HTTP(s) protocol.
 <br>
-A web-page opened via the file:// protocol cannot use import / export.
+A web-page opened via the <code>file://</code> protocol cannot use import / export.
