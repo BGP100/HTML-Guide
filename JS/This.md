@@ -1,6 +1,6 @@
 <a href="/JS/UseStrict.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/Arrow.md">Next &gt;</a>
+<a href="/JS/Arrows.md">Next &gt;</a>
 <hr>
 In JavaScript, the this keyword refers to an object.
 <br>
