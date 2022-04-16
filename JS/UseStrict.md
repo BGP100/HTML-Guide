@@ -1,3 +1,7 @@
+<a href="/JS/Hoisting.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/This.md">Next &gt;</a>
+<hr>
 <code>"use strict";</code> Defines that JavaScript code should be executed in "strict mode".
 <hr>
 The <code>"use strict"</code> directive was new in ECMAScript version 5.
