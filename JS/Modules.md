@@ -1,6 +1,6 @@
 <a href="/JS/Classes.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/JSON/Main.md">Next &gt;</a>
+<a href="/JS/Debugging.md">Next &gt;</a>
 <hr>
 JavaScript modules allow you to break up your code into separate files.
 <br>
