@@ -1,6 +1,6 @@
 <a href="https://bledy-guides.repl.co">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/JSON/.md">Next &gt;</a>
+<a href="/JS/JSON/Introduction.md">Next &gt;</a>
 <hr>
 JSON is a format for storing and transporting data.
 <br>
