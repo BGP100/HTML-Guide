@@ -83,14 +83,11 @@ MORE THAN 400 PAGES IN TOTAL
   <li>SVG Shadows</li>
   <li>SVG Linear</li>
   <li>SVG Radial</li>
-  <li>SVG Example</li>
-  <li>SVG References</li>
   <li>Canvas</li>
   <li>Canvas Coordinates</li>
   <li>Canvas Gradient</li>
   <li>Canvas Text</li>
   <li>Canvas Images</li>
-  <li>Canvas References</li>
   <li>Clocks</li>
   <li>Clock Face</li>
   <li>Clock Numbers</li>
@@ -271,7 +268,6 @@ MORE THAN 400 PAGES IN TOTAL
   <li><b>this</b> Keywords</li>
   <li>Arrow Functions</li>
   <li>Classes</li>
-  <li>JSON</li>
   <li>Debugging</li>
   <li>Style Guides</li>
   <li>Best Practices</li>
@@ -348,7 +344,7 @@ MORE THAN 400 PAGES IN TOTAL
   <li>AJAX ASP</li>
   <li>AJAX Database</li>
   <li>AJAX Applications</li>
-  <li>AJAX Examples</li>
+  <li>JSON</li>
   <li>JSON Intro</li>
   <li>JSON Syntax</li>
   <li>JSON XML</li>
