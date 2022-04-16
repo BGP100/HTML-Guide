@@ -1,3 +1,7 @@
+<a href="/JS/Versions/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Versions/ES6.md">Next &gt;</a>
+<hr>
 ECMAScript 2009, also known as ES5, was the first major revision to JavaScript.
 <br>
 This chapter describes the most important features of ES5.
