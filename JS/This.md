@@ -1,3 +1,7 @@
+<a href="/JS/UseStrict.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Arrow.md">Next &gt;</a>
+<hr>
 In JavaScript, the this keyword refers to an object.
 <br>
 Which object depends on how this is being invoked (used or called).
