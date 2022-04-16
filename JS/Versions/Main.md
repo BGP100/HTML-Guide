@@ -1,6 +1,6 @@
 <a href="/JS/Reserved-Words.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/Versions/ES5.md">Next &gt;</a>
+<a href="/JS/Versions/2009.md">Next &gt;</a>
 <hr>
 JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.
 <br>
