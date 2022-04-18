@@ -14,31 +14,31 @@ A Set can hold any value of any data type.
   </tr>
   <tr>
     <td>new Set()</td>
-    <td>Creates a new Set</td>
+    <td>Creates a new Set.</td>
   </tr>
   <tr>
     <td>add()</td>
-    <td>Adds a new element to the Set</td>
+    <td>Adds a new element to the Set.</td>
   </tr>
   <tr>
     <td>delete()</td>
-    <td>Removes an element from a Set</td>
+    <td>Removes an element from a Set.</td>
   </tr>
   <tr>
     <td>has()</td>
-    <td>Returns true if a value exists</td>
+    <td>Returns true if a value exists.</td>
   </tr>
   <tr>
     <td>clear()</td>
-    <td>Removes all elements from a Set</td>
+    <td>Removes all elements from a Set.</td>
   </tr>
   <tr>
     <td>forEach()</td>
-    <td>Invokes a callback for each element</td>
+    <td>Invokes a callback for each element.</td>
   </tr>
   <tr>
     <td>values()</td>
-    <td>Returns an Iterator with all the values in a Set</td>
+    <td>Returns an Iterator with all the values in a Set.</td>
   </tr>
   <tr>
     <td>keys()</td>
@@ -46,7 +46,7 @@ A Set can hold any value of any data type.
   </tr>
   <tr>
     <td>entries()</td>
-    <td>Returns an Iterator with the [value,value] pairs from a Set</td>
+    <td>Returns an Iterator with the <code>[value,value]</code> pairs from a Set.</td>
   </tr>
 </table>
 <table class="ws-table-all">
@@ -56,6 +56,6 @@ A Set can hold any value of any data type.
   </tr>
   <tr>
     <td>size</td>
-    <td>Returns the number elements in a Set</td>
+    <td>Returns the number elements in a Set.</td>
   </tr>
 </table>
