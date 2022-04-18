@@ -1,6 +1,6 @@
-<a href="/JS/Functions.md">&lt; Previous</a>
+<a href="/JS/Versions/History.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/Events.md">Next &gt;</a>
+<a href="/JS/Objects/Definition.md">Next &gt;</a>
 <hr>
 You have already learned that JavaScript variables are containers for data values.
 <br>
