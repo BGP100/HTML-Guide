@@ -1,6 +1,6 @@
 <a href="/JS/Versions/EdgeAndIE.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/Objects/Definition.md">Next &gt;</a>
+<a href="/JS/Objects/Main.md">Next &gt;</a>
 <hr>
 JavaScript was invented by Brendan Eich in 1995.
 <br>
