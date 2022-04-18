@@ -1,4 +1,4 @@
-<a href="/JS/Objects/Accessrs.md">&lt; Previous</a>
+<a href="/JS/Objects/Accessors.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/JS/Objects/Prototypes.md">Next &gt;</a>
 <hr>
