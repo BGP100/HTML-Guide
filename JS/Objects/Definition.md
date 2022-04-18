@@ -1,3 +1,7 @@
+<a href="/JS/Versions/History.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Objects/Properties.md">Next &gt;</a>
+<hr>
 In JavaScript, almost "everything" is an object.
 <ul>
   <li>Booleans can be objects (if defined with the <b>new</b> keyword)</li>
