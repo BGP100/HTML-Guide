@@ -1,4 +1,4 @@
-<a href="/JS/Versions/History.md">&lt; Previous</a>
+<a href="/JS/Objects/Main.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/JS/Objects/Properties.md">Next &gt;</a>
 <hr>
