@@ -13,11 +13,12 @@ for (const x of "BledyGames") {
 }
 </pre>
 <h1>Iterating Over an Array</h1>
-You can use a for..of loop to iterate over the elements of an Array:
+You can use a <b>for..of</b> loop to iterate over the elements of an Array:
 <pre>
 for (const x of [1,2,3,4,5] {
   // code block to be executed
 }
+</pre>
 <h1>Iterators</h1>
 The iterator protocol defines how to produce a sequence of values from an object.
 <br>
@@ -28,7 +29,7 @@ The <b>next()</b> method must return an object with two properties:
   <li>value (the next value)</li>
   <li>done (true or false)</li>
 </ul>
-<h1>Home Made Iterable
+<h1>Home Made Iterable</h1>
 This iterable returns never ending: 10,20,30,40,.... Everytime <b>next()</b> is called:
 <pre>
 // Home Made Iterable
@@ -47,7 +48,7 @@ n.next(); // Returns 10
 n.next(); // Returns 20
 n.next(); // Returns 30
 </pre>
-A JavaScript iterable is an object that has a Symbol.iterator.
+A JavaScript iterable is an object that has a <b>Symbol.iterator</b>.
 <br>
 The <b>Symbol.iterator</b> is a function that returns a next() function.
 <br>
