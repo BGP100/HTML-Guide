@@ -1,6 +1,6 @@
 <a href="/JS/Objects/Sets.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/Objects/Functions/Main.md">Next &gt;</a>
+<a href="/JS/Functions/Main.md">Next &gt;</a>
 <hr>
 A Map holds key-value pairs where the keys can be any datatype.
 <br>
