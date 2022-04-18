@@ -2,9 +2,9 @@
 &nbsp;&nbsp;&nbsp;
 <a href="/JS/Objects.md">Next &gt;</a>
 <hr>
-A JavaScript function is a block of code designed to perform a particular task.
+A JavaScript <b>function</b> is a block of code designed to perform a particular task.
 <br>
-A JavaScript function is executed when "something" invokes it (calls it).
+A JavaScript <b>function</b> is executed when "something" invokes it (calls it).
 <pre>
 function myFunction(p1, p2) {
   return p1 * p2; // The function returns the product of p1 and p2
@@ -51,7 +51,7 @@ function myFunction(a, b) {
 }
 </pre>
 The result in x will be: <code>12</code>
-<h1>Why 'Function'?</h1>
+<h1>Why 'function'?</h1>
 You can reuse code: Define the code once, and use it many times.
 <br>
 You can use the same code many times with different arguments, to produce different results.
