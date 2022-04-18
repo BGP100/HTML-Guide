@@ -12,7 +12,7 @@ This code assigns many values (Fiat, 500, white) to a variable named car:
 <pre>const car = {type:"Fiat", model:"500", color:"white"};</pre>
 The values are written as name:value pairs (name and value separated by a colon).
 <h1>Properties</h1>
-The <b>name:values</b> pairs in JavaScript objects are called properties:
+The <code>name:values</code> pairs in JavaScript objects are called properties:
 <table class="ws-table-all notranslate">
   <tr>
     <th>Property</th>
