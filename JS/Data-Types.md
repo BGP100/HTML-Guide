@@ -1,6 +1,6 @@
 <a href="/JS/Operators/Bitwise.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/Functions.md">Next &gt;</a>
+<a href="/JS/Events.md">Next &gt;</a>
 <hr>
 In programming, data types is an important concept.
 <br>
