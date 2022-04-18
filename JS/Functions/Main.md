@@ -1,6 +1,6 @@
-<a href="/JS/Data-Types.md">&lt; Previous</a>
+<a href="/JS/Objects/Maps.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/Objects.md">Next &gt;</a>
+<a href="/JS/Functions/Definitions.md">Next &gt;</a>
 <hr>
 A JavaScript <b>function</b> is a block of code designed to perform a particular task.
 <br>
