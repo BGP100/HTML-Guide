@@ -1,3 +1,7 @@
+<a href="/JS/Objects/Constructors.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Objects/Iterables.md">Next &gt;</a>
+<hr>
 All JavaScript objects inherit properties and methods from a prototype.
 <br>
 In the previous chapter we learned how to use an object constructor:
