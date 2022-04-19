@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/Canvas/Clock/4-Hands.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Graphics/SVG/Main.md">Next &gt;</a>
+<hr>
 <h1>Part V - Start the Clock</h1>
 To start the clock, call the drawClock function at intervals:
 <img src="https://i.imgur.com/s3fYuMy.gif" width="40%">
