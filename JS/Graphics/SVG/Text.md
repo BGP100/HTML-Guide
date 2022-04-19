@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/SVG/Path.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Graphics/SVG/Stroking.md">Next &gt;</a>
+<hr>
 <h1>Example 1</h1>
 <img src="https://i.imgur.com/VV2aSGv.png" width="90" height="18">
 <pre>&lt;svg height="30" width="200"&gt;&lt;text x="0" y="15" fill="red"&gt;I love SVG!&lt;/text&gt;&lt;/svg&gt;</pre>
