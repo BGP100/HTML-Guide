@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/Canvas/Clock/1-Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Graphics/Canvas/Clock/3-Numbers.md">Next &gt;</a>
+<hr>
 <h1>Part II - Draw a Clock Face</h1>
 The clock needs a clock face. Create a JavaScript function to draw a clock face:
 <img src="https://i.imgur.com/DLxokQJ.jpg" width="40%">
