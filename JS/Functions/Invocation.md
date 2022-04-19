@@ -36,9 +36,9 @@ window.myFunction(10, 2); // Will also return 20
 <h1>What is the this Keyword?</h1>
 In JavaScript, the <b>this</b> keyword refers to an object.
 <br>
-  Which object depends on how <b>this</b> is being invoked (used or called).
+Which object depends on how <b>this</b> is being invoked (used or called).
 <br>
-  The <b>this</b> keyword refers to different objects depending on how it is used:
+The <b>this</b> keyword refers to different objects depending on how it is used:
 <ul>
   <li>In an object method, <b>this</b> refers to the object.</li>
   <li>Alone, <b>this</b> refers to the global object.</li>
