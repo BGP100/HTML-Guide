@@ -1,4 +1,4 @@
-<a href="/JS/Graphics/Game/Movement.md">&lt; Previous</a>
+<a href="/JS/APIs/Geolocation.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/JS/Graphics/Plotly-js.md">Next &gt;</a>
 <hr>
