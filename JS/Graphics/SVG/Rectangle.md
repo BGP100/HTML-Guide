@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/SVG/IntoHTML.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Graphics/SVG/Circle.md">Next &gt;</a>
+<hr>
 SVG has some predefined shape elements that can be used by developers:
 <ul>
   <li>Rectangle &lt;rect&gt;</li>
