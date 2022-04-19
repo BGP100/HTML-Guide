@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/Canvas/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Graphics/Canvas/Coords.md">Next &gt;</a>
+<hr>
 All drawing on the HTML canvas must be done with JavaScript:
 <pre>
 var canvas = document.getElementById("myCanvas");
