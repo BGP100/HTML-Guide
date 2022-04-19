@@ -1,4 +1,4 @@
-<a href="/JS/Classes.md">&lt; Previous</a>
+<a href="/JS/Arrows.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/JS/Debugging.md">Next &gt;</a>
 <hr>
