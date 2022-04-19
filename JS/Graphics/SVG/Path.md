@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/SVG/Polyline.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Graphics/SVG/Text.md">Next &gt;</a>
+<hr>
 The &lt;path&gt; element is used to define a path.
 <br>
 The following commands are available for path data:
