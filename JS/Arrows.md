@@ -1,6 +1,6 @@
 <a href="/JS/This.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/Classes.md">Next &gt;</a>
+<a href="/JS/Classes/Main.md">Next &gt;</a>
 <hr>
 Arrow functions were introduced in ES6.
 <br>
