@@ -19,67 +19,67 @@ function myFunction() {
 </pre>
 <h1>Constraint Validation DOM Properties</h1>
 <table class="ws-table-all notranslate">
-<tr>
+  <tr>
 <th>Property</th>
-<th>Description</th>
-</tr>
-<tr>
-<td>validity</td>
-<td>Contains boolean properties related to the validity of an input element.</td>
-</tr>
-<tr>
-<td>validationMessage</td>
-<td>Contains the message a browser will display when the validity is false.</td>
-</tr>
-<tr>
-<td>willValidate</td>
-<td>Indicates if an input element will be validated.</td>
-</tr>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>validity</td>
+    <td>Contains boolean properties related to the validity of an input element.</td>
+  </tr>
+  <tr>
+    <td>validationMessage</td>
+    <td>Contains the message a browser will display when the validity is false.</td>
+  </tr>
+  <tr>
+    <td>willValidate</td>
+    <td>Indicates if an input element will be validated.</td>
+  </tr>
 </table>
-<h1>Validity Properties</h1>
+    <h1>Validity Properties</h1>
 The <b>validity property</b> of an input element contains a number 
 of properties related to the validity of data:
 <table class="ws-table-all notranslate">
-<tr>
+  <tr>
 <th>Property</th>
-<th>Description</th>
-</tr>
-<tr>
-<td>customError</td>
-<td>Set to true, if a custom validity message is set.</td>
-</tr>
-<tr>
-<td>patternMismatch</td>
-<td>Set to true, if an element's value does not match its pattern attribute.</td>
-</tr>
-<tr>
-<td>rangeOverflow</td>
-<td>Set to true, if an element's value is greater than its max attribute.</td>
-</tr>
-<tr>
-<td>rangeUnderflow</td>
-<td>Set to true, if an element's value is less than its min attribute.</td>
-</tr>
-<tr>
-<td>stepMismatch</td>
-<td>Set to true, if an element's value is invalid per its step attribute.</td>
-</tr>
-<tr>
-<td>tooLong</td>
-<td>Set to true, if an element's value exceeds its maxLength attribute.</td>
-</tr>
-<tr>
-<td>typeMismatch</td>
-<td>Set to true, if an element's value is invalid per its type attribute.</td>
-</tr>
-<tr>
-<td>valueMissing</td>
-<td>Set to true, if an element (with a required attribute) has no value.</td>
-</tr>
-<tr>
-<td>valid</td>
-<td>Set to true, if an element's value is valid.</td>
-</tr>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>customError</td>
+    <td>Set to true, if a custom validity message is set.</td>
+  </tr>
+  <tr>
+    <td>patternMismatch</td>
+    <td>Set to true, if an element's value does not match its pattern attribute.</td>
+  </tr>
+  <tr>
+    <td>rangeOverflow</td>
+    <td>Set to true, if an element's value is greater than its max attribute.</td>
+  </tr>
+  <tr>
+    <td>rangeUnderflow</td>
+    <td>Set to true, if an element's value is less than its min attribute.</td>
+  </tr>
+  <tr>
+    <td>stepMismatch</td>
+    <td>Set to true, if an element's value is invalid per its step attribute.</td>
+  </tr>
+  <tr>
+    <td>tooLong</td>
+    <td>Set to true, if an element's value exceeds its maxLength attribute.</td>
+  </tr>
+  <tr>
+    <td>typeMismatch</td>
+    <td>Set to true, if an element's value is invalid per its type attribute.</td>
+  </tr>
+  <tr>
+    <td>valueMissing</td>
+    <td>Set to true, if an element (with a required attribute) has no value.</td>
+  </tr>
+  <tr>
+    <td>valid</td>
+    <td>Set to true, if an element's value is valid.</td>
+  </tr>
 </table>
 <h1>Examples</h1>
 If the number in an input field is greater than 100 (the input's <b>max</b> attribute), display a message:
