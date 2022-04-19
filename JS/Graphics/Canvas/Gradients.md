@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/Canvas/Coords.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Graphics/Canvas/Text.md">Next &gt;</a>
+<hr>
 Gradients can be used to fill rectangles, circles, lines, text, etc. Shapes on the canvas are not limited to solid colors.
 <br>
 There are two different types of gradients:
