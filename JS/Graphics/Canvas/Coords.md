@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/Canvas/Drawing.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Graphics/Canvas/Gradients.md">Next &gt;</a>
+<hr>
 The HTML canvas is a two-dimensional grid.
 <br>
 The upper-left corner of the canvas has the coordinates (0,0)
