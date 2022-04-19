@@ -1,6 +1,6 @@
-<a href="/JS/Arrows.md">&lt; Previous</a>
+<a href="/JS/Functions/Closures.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/Modules.md">Next &gt;</a>
+<a href="/JS/Classes/Introduction.md">Next &gt;</a>
 <hr>
 ECMAScript 2015, also known as ES6, introduced JavaScript Classes.
 <br>
