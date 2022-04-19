@@ -29,13 +29,11 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 15px;
 }
-
 nav {
   background-color: #20416c;
   padding: 5px;
   margin-top: 1px;
 }
-
 li a {
   color: white;
 }
@@ -62,7 +60,6 @@ main {
   float: left;
   margin-bottom: 10px;
 }
-
 aside {
   background-color: #bbbbbb;
   width: 270px;
