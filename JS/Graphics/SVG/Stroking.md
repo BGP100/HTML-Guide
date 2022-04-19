@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/SVG/Text.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Graphics/SVG/Filters/Main.md">Next &gt;</a>
+<hr>
 SVG offers a wide range of stroke properties. In this chapter we will look at the following:
 <ul>
   <li>stroke</li>
