@@ -1,6 +1,6 @@
 <a href="/JS/Functions/Parameter.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/Functions/Calls.md">Next &gt;</a>
+<a href="/JS/Functions/Method/Call.md">Next &gt;</a>
 <hr>
 The code inside a JavaScript function will execute when "something" invokes it.
 <h1>Invoking a JavaScript Function</h1>
