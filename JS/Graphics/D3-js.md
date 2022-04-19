@@ -1,6 +1,6 @@
 <a href="/JS/Graphics/Google-Chart.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/Quiz.md">Next &gt;</a>
+<a href="/JS/Canvas/Main.md">Next &gt;</a>
 <hr>
 D3.js is a JavaScript library for manipulating HTML data.
 <br>
