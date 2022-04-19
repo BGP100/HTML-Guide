@@ -94,7 +94,7 @@ Below is a copy of mycar.html:
 <br>
 <code>mycar.html</code>:
 <pre>
-&lt;img src="img_car.jpg" alt="Nice car" style="width:100%"&gt;
+&lt;img src="img_car.jpg" alt="Nice car" style="width:100%;height:auto;"&gt;
 &lt;p&gt;A car is a wheeled, self-powered motor vehicle used for transportation.
 &lt;br&gt;
 Most definitions of the term specify that cars are designed to run primarily on roads, to have seating for one to eight people, to typically have four wheels.&lt;/p&gt;
