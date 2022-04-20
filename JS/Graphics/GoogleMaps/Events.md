@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/GoogleMaps/Overlays.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Graphics/GoogleMaps/Controls.md">Next &gt;</a>
+<hr>
 <h1>Click to Zoom</h1>
 We still use the map from the previous page: a map centered on London, England.
 <br>
