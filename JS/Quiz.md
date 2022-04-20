@@ -1,4 +1,4 @@
-<a href="/JS/Graphics/D3-js.md">&lt; Previous</a>
+<a href="/JS/Graphics/Game/Movement.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://bledy-guides.repl.co">Next &gt;</a>
 <hr>
