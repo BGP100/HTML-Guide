@@ -1,3 +1,7 @@
+<a href="/JS/JSON/Objects.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/JSON/Server.md">Next &gt;</a>
+<hr>
 This is a JSON string:
 <pre>'["Ford", "BMW", "Fiat"]'</pre>
 Inside the JSON string there is a JSON array literal:
