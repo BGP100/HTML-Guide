@@ -1,6 +1,6 @@
 <a href="/JS/Graphics/SVG/Gradient/Linear.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/Graphics/SVG/GoogleMaps/Main.md">Next &gt;</a>
+<a href="/JS/Graphics/GoogleMaps/Main.md">Next &gt;</a>
 <hr>
 A gradient is a smooth transition from one color to another. In addition, several color transitions can be applied to the same element.
 <br>
