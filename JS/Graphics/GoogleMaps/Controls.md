@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/GoogleMaps/Events.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Graphics/GoogleMaps/Types.md">Next &gt;</a>
+<hr>
 <h1>Default Controls</h1>
 When showing a standard Google map, it comes with the default control set:
 <ul>
