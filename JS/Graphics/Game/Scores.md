@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/Game/Obstacles.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Graphics/Game/Images.md">Next &gt;</a>
+<hr>
 There are many ways to keep the score in a game, we will show you how to write a score onto the canvas.
 <br>
 First make a score component:
