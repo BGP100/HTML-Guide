@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/Game/Rotation.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Quiz.md">Next &gt;</a>
+<hr>
 Add a <b>speed</b> property to the <b>component</b> constructor, which represents the current speed of the component.
 <br>
 Also make some changes in the <b>newPos()</b> method, to calculate the position of the component, based on <b>speed</b> and <b>angle</b>.
