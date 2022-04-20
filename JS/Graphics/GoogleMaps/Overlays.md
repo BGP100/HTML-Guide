@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/GoogleMaps/Basic.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Graphics/GoogleMaps/Events.md">Next &gt;</a>
+<hr>
 Overlays are objects on the map that are bound to latitude/longitude coordinates.
 <br>
 Google Maps has several types of overlays:
