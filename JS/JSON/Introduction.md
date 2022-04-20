@@ -1,3 +1,7 @@
+<a href="/JS/JSON/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/JSON/Syntax.md">Next &gt;</a>
+<hr>
 JSON stands for <b>J</b>ava<b>S</b>cript <b>O</b>bject <b>N</b>otation
 <br>
 JSON is a text format for storing and transporting data
