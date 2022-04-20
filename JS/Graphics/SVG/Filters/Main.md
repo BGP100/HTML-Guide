@@ -1,6 +1,6 @@
 <a href="/JS/Graphics/SVG/Stroking.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/Graphics/SVG/Filters/Shadow.md">Next &gt;</a>
+<a href="/JS/Graphics/SVG/Filters/Blur.md">Next &gt;</a>
 <hr>
 SVG Filters are used to add special effects to SVG graphics.
 <h1>Browser Support</h1>
