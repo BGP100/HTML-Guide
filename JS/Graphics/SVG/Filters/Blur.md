@@ -1,3 +1,7 @@
+<a href="/JS/Graphics/SVG/Filters/Main.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/Graphics/SVG/Filters/Shadow.md">Next &gt;</a>
+<hr>
 <h1>&lt;defs&gt; and &lt;filter&gt;</h1>
 All internet SVG filters are defined within a <b>&lt;defs&gt;</b> element. The <b>&lt;defs&gt;</b> element is short for definitions and contains definition of special elements (such as filters).
 <br>
