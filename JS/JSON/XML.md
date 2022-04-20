@@ -1,3 +1,7 @@
+<a href="/JS/JSON/Syntax.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/JSON/Data-Types.md">Next &gt;</a>
+<hr>
 Both JSON and XML can be used to receive data from a web server.
 <br>
 The following JSON and XML examples both define an employees object, with an array of 3 employees:
