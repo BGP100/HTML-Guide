@@ -7,7 +7,7 @@ AJAX is not a programming language.
 AJAX is a technique for accessing web servers from a web page.
 <br>
 AJAX stands for Asynchronous JavaScript And XML.
-<hr>
+<br>
 AJAX is a developer's dream, because you can:
 <ul>
   <li>Read data from a web server - after the page has loaded</li>
