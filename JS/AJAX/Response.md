@@ -1,6 +1,6 @@
 <a href="/JS/AJAX/Request.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/AJAX/XML-Files.md">Next &gt;</a>
+<a href="/JS/AJAX/XML.md">Next &gt;</a>
 <hr>
 <h1>Properties</h1>
 <table class="ws-table-all notranslate"> 
