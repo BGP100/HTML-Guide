@@ -1,6 +1,6 @@
-<a href="/JS/AJAX/XML.md">&lt; Previous</a>
+<a href="/JS/AJAX/PHP.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/AJAX/ASP.md">Next &gt;</a>
+<a href="/JS/AJAX/Database.md">Next &gt;</a>
 <hr>
 <h1>Example</h1>
 The following example demonstrates how a web page can communicate with a web server while a user type characters in an input field:
