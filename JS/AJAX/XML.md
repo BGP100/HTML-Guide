@@ -13,6 +13,8 @@ The <b>loadDoc()</b> function creates an <b>XMLHttpRequest</b> object, adds the 
 <br>
 When the server response is ready, an HTML table is built, nodes (elements) are extracted from the XML file, and it finally updates the element "demo" with the HTML table filled with XML data:
 <pre>
+&lt;button onclick="loadDoc('cd_catalog.xml')"&gt;Get CD info&lt;/button&gt;
+&lt;script&gt;
 function loadDoc() {
   const xhttp = new XMLHttpRequest();
   xhttp.onload = function() {myFunction(this);}
