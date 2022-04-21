@@ -1,6 +1,6 @@
 <a href="https://bledy-guides.repl.com">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/DOM/PHP.md">Next &gt;</a>
+<a href="/JS/DOM/Methods.md">Next &gt;</a>
 <hr>
 With the HTML DOM, JavaScript can access and change all the elements of an HTML document.
 <hr>
