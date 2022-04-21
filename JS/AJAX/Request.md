@@ -11,7 +11,7 @@ xhttp.send();
 </pre>
 <table class="ws-table-all notranslate"> 
   <tr>
-    <th style="width:30%">Method</th>
+    <th>Method</th>
     <th>Description</th>
   </tr>  
   <tr>
@@ -88,7 +88,7 @@ xhttp.send("fname=Henry&lname=Ford");
 </pre>
 <table class="ws-table-all notranslate"> 
   <tr>
-    <th style="width:40%">Method</th>
+    <th>Method</th>
     <th>Description</th>
   </tr>  
   <tr>
