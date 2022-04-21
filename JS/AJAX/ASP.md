@@ -46,7 +46,7 @@ However, if the input field is not empty, do the following:
   <li>The str variable holds the content of the input field</li>
 </ul>
 <h1>"gethint.asp"</h1>
-The PHP file checks an array of names, and returns the corresponding name(s) to the browser:
+The ASP file checks an array of names, and returns the corresponding name(s) to the browser:
 <pre>
 &lt;%
 response.expires = -1
