@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="/HTML/Graphics/Canvas/Clock/4-Hands.md">Next &gt;</a>
 <hr>
-<h1>Part III - Draw Clock Numbers</h1>
+<h1>Part III - Draw Numbers to the Clock</h1>
 The clock needs numbers. Create a JavaScript function to draw clock numbers:
 <img src="https://i.imgur.com/kNyWl4Z.jpg" width="40%">
 <h1>Code</h1>
