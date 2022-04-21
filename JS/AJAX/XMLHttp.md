@@ -1,6 +1,6 @@
 <a href="/JS/AJAX/Introduction.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/AJAX/Request.md">Next &gt;</a>
+<a href="/JS/AJAX/Status.md">Next &gt;</a>
 <hr>
 The keystone of AJAX is the XMLHttpRequest object.
 <ul>
@@ -119,7 +119,7 @@ If you want to use the example above on one of your own web pages, the XML files
   </tr>
   <tr>
     <td>status</td>
-    <td>Returns the status-number of a request<br>200: "OK"<br>403: "Forbidden"<br>404: "Not Found"<br></td>
+    <td>Returns the status-number of a request<br>200: "OK"<br>403: "Forbidden"<br>404: "Not Found"<br><a href="Status.md">Click here to find all the stasus'.</a></td>
   </tr>
   <tr>
     <td>statusText</td>
