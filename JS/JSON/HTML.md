@@ -1,6 +1,8 @@
 <a href="/JS/JSON/PHP.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/JS/JSON/JSONP.md">Next &gt;</a>
+<p></p>
+<a href="/HTML/Home.md">HTML Guide.</a>
 <hr>
 JSON can very easily be translated into JavaScript.
 <br>
