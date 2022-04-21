@@ -1,3 +1,7 @@
+<a href="/JS/DOM/Introduction.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/DOM/Document.md">Next &gt;</a>
+<hr>
 HTML DOM methods are actions you can perform (on HTML Elements).
 <br>
 HTML DOM properties are values (of HTML Elements) that you can set or change.
