@@ -57,7 +57,7 @@ $conn = new mysqli("myServer", "myUser", "myPassword", "Northwind");
 $result = $conn-&gt;query("SELECT name FROM ".$obj-&gt;$table." LIMIT ".$obj-&gt;$limit);
 $outp = array();
 $outp = $result-&gt;fetch_all(MYSQLI_ASSOC);
-echo "myFunc('.json_encode($outp).')";
+echo "myFunc(".json_encode($outp).")";
 ?&gt;
 </pre>
 <b>Explained:</b>
