@@ -1,6 +1,6 @@
-<a href="/JS/DOM/Methods.md">&lt; Previous</a>
+<a href="/JS/DOM/Elements.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/DOM/Elements.md">Next &gt;</a>
+<a href="/JS/DOM/Forms.md">Next &gt;</a>
 <hr>
 The HTML DOM allows JavaScript to change the content of HTML elements.
 <h1>Changing HTML Content</h1>
