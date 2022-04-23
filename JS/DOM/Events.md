@@ -100,7 +100,7 @@ In bubbling the inner most element's event is handled first and then the outer: 
 <br>
 In capturing the outer most element's event is handled first and then the inner: the <b>&lt;div&gt;</b> element's click event will be handled first, then the <b>&lt;p&gt;</b> element's click event.
 <br>
-With the addEventListener() method you can specify the propagation type by using the "useCapture" parameter:
+With the <b>addEventListener()</b> method you can specify the propagation type by using the "useCapture" parameter:
 <pre>addEventListener(event, function, useCapture);</pre>
 The default value is false, which will use the bubbling propagation, when the value is set to true, the event uses the capturing propagation.
 <pre>
