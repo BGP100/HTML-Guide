@@ -73,25 +73,25 @@ This table illustrates how the BOM character is represented as a byte sequence i
     <td><code>ï»¿</code></td>
   </tr>
   <tr>
-    <td>UTF-16 [BE]</td>
+    <td>UTF-16 <b>[BE]</b></td>
     <td><code>FE FF</code></td>
     <td><code>254 255</code></td>
     <td><code>þÿ</code></td>
   </tr>
   <tr>
-    <td>UTF-16 [LE]</td>
+    <td>UTF-16 <b>[LE]</b></td>
     <td><code>FF FE</code></td>
     <td><code>255 254</code></td>
     <td><code>ÿþ</code></td>
   </tr>
   <tr>
-    <td>UTF-32 [BE]</td>
+    <td>UTF-32 <b>[BE]</b></td>
     <td><code>00 00 FE FF</code></td>
     <td><code>0 0 254 255</code></td>
     <td><code>^@^@þÿ</code> (<code>^@</code> is the <b>null character</b>)</td>
   </tr>
   <tr>
-    <td>UTF-32 [LE]</td>
+    <td>UTF-32 <b>[LE]</b></td>
     <td><code>FF FE 00 00</code></td>
     <td><code>255 254 0 0</code></td>
     <td><code>ÿþ^@^@</code> (<code>^@</code> is the <b>null character</b>)</td>
