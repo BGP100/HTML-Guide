@@ -67,69 +67,70 @@ This table illustrates how the BOM character is represented as a byte sequence i
     <th>Bytes as CP1252 characters</th>
   </tr>
   <tr>
-    <td>UTF-8</td>
+    <td>UTF-8 <code>*</code></td>
     <td><code>EF BB BF</code></td>
     <td><code>239 187 191</code></td>
     <td><code>ï»¿</code></td>
   </tr>
   <tr>
-    <td>UTF-16</td>
+    <td>UTF-16 [BE]</td>
     <td><code>FE FF</code></td>
     <td><code>254 255</code></td>
     <td><code>þÿ</code></td>
   </tr>
   <tr>
-    <td>UTF-16</td>
+    <td>UTF-16 [LE]</td>
     <td><code>FF FE</code></td>
     <td><code>255 254</code></td>
     <td><code>ÿþ</code></td>
   </tr>
   <tr>
-    <td>UTF-32</td>
+    <td>UTF-32 [BE]</td>
     <td><code>00 00 FE FF</code></td>
     <td><code>0 0 254 255</code></td>
     <td><code>^@^@þÿ</code> (<code>^@</code> is the <b>null character</b>)</td>
   </tr>
   <tr>
-    <td>UTF-32</td>
+    <td>UTF-32 [LE]</td>
     <td><code>FF FE 00 00</code></td>
     <td><code>255 254 0 0</code></td>
     <td><code>ÿþ^@^@</code> (<code>^@</code> is the <b>null character</b>)</td>
   </tr>
   <tr>
-    <td>UTF-7</td>
-    <td><code>2B 2F 76</code></td>
+    <td>UTF-7 <code>*</code></td>
+    <td><code>2B 2F 76</code> <code>*</code></td>
     <td><code>43 47 118</code></td>
     <td><code>+/v</code></td>
   </tr>
   <tr>
-    <td>UTF-1</td>
+    <td>UTF-1 <code>*</code></td>
     <td><code>F7 64 4C</code></td>
     <td><code>247 100 76</code></td>
     <td><code>÷dL</code></td>
   </tr>
   <tr>
-    <td>UTF-EBCDIC</td>
+    <td>UTF-EBCDIC <code>*</code></td>
     <td><code>DD 73 66 73</code></td>
     <td><code>221 115 102 115</code></td>
     <td><code>Ýsfs</code></td>
   </tr>
   <tr>
-    <td>SCSU</td>
-    <td><code>0E FE FF</code></td>
+    <td>SCSU <code>*</code></td>
+    <td><code>0E FE FF</code> <code>*</code></td>
     <td><code>14 254 255</code></td>
-    <td><code>^Nþÿ</code> (<code>^N</code> is the "<b>shift out</b>" character)</td>
+    <td><code>^Nþÿ</code> (<code>^N</code> is the <b>"shift out" character</b>)</td>
   </tr>
   <tr>
-    <td>BOCU-1</td>
+    <td>BOCU-1 <code>*</code></td>
     <td><code>FB EE 28</code></td>
     <td><code>251 238 40</code></td>
     <td><code>ûî(</code></td>
   </tr>
   <tr>
-    <td>GB-18030</td>
+    <td>GB-18030 <code>*</code></td>
     <td><code>84 31 95 33</code></td>
     <td><code>132 49 149 51</code></td>
     <td><code>„1•3</code></td>
   </tr>
 </table>
+<code>*</code> This is not literally a "byte order" mark, since a code unit in these encodings is one byte and therefore cannot have bytes in a "wrong" order. Nevertheless, the BOM can be used to indicate the encoding of the text that follows it.
