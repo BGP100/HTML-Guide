@@ -1,6 +1,6 @@
-<a href="/JS/BOM/Window.md">&lt; Previous</a>
+<a href="/JS/BOM/Location.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/BOM/Location.md">Next &gt;</a>
+<a href="/JS/BOM/Navigator.md">Next &gt;</a>
 <hr>
 The <b>window.history</b> object contains the browsers history.
 <hr>
