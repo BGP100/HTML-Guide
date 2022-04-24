@@ -1,4 +1,4 @@
-<a href="https://bledy-guides.repl.com">&lt; Previous</a>
+<a href="/JS/BOM/Main.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/JS/BOM/Screen.md">Next &gt;</a>
 <hr>
