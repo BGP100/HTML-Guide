@@ -20,9 +20,9 @@ Get the inner text of an HTML element:
 Set the HTML content of an element:
 <br>
 <b>jQuery:</b>
-<pre>myElement.html("<p>Hello World</p>");</pre>
+<pre>myElement.html("&lt;p&gt;Hello World&lt;/p&gt;");</pre>
 <b>JavaScript:</b>
-<pre>myElement.innerHTML = "<p>Hello World</p>";</pre>
+<pre>myElement.innerHTML = "&lt;p&gt;Hello World&lt;/p&gt;";</pre>
 <h1>Get HTML Content</h1>
 Get the HTML content of an element:
 <br>
