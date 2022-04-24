@@ -56,4 +56,4 @@ A NodeList may look like an array, but it is not.
 <br>
 You can loop through a NodeList and refer to its nodes by index.
 <br>
-But, you cannot use Array methods like push(), pop(), or join() on a NodeList.
+But, you cannot use Array methods like <b>push()</b>, <b>pop()</b>, or <b>join()</b> on a NodeList.
