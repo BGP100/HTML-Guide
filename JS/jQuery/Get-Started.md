@@ -1,3 +1,7 @@
+<a href="/JS/jQuery/Introduction.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/jQuery/Syntax.md">Next &gt;</a>
+<hr>
 <h1>Adding jQuery to Your Web Pages</h1>
 There are several ways to start using jQuery on your web site. You can:
 <ul>
