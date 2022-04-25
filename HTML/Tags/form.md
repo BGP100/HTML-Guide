@@ -14,16 +14,18 @@ The <b>&lt;form&gt;</b> element can contain one or more of the following form el
 </ul>
 <pre>
 &lt;form action="/action_page.php"&gt;
-  &lt;legend&gt;Personalia:&lt;/legend&gt;
-  &lt;label for="fname"&gt;First name:&lt;/label&gt;
-  &lt;input type="text" id="fname" name="fname"&gt;&lt;br&gt;&lt;br&gt;
-  &lt;label for="lname"&gt;Last name:&lt;/label&gt;
-  &lt;input type="text" id="lname" name="lname"&gt;&lt;br&gt;&lt;br&gt;
-  &lt;label for="email"&gt;Email:&lt;/label&gt;
-  &lt;input type="email" id="email" name="email"&gt;&lt;br&gt;&lt;br&gt;
-  &lt;label for="birthday"&gt;Birthday:&lt;/label&gt;
-  &lt;input type="date" id="birthday" name="birthday"&gt;&lt;br&gt;&lt;br&gt;
-  &lt;input type="submit" value="Submit"&gt;
+  &lt;fieldset&gt;
+    &lt;legend&gt;Personalia:&lt;/legend&gt;
+    &lt;label for="fname"&gt;First name:&lt;/label&gt;
+    &lt;input type="text" id="fname" name="fname"&gt;&lt;br&gt;&lt;br&gt;
+    &lt;label for="lname"&gt;Last name:&lt;/label&gt;
+    &lt;input type="text" id="lname" name="lname"&gt;&lt;br&gt;&lt;br&gt;
+    &lt;label for="email"&gt;Email:&lt;/label&gt;
+    &lt;input type="email" id="email" name="email"&gt;&lt;br&gt;&lt;br&gt;
+    &lt;label for="birthday"&gt;Birthday:&lt;/label&gt;
+    &lt;input type="date" id="birthday" name="birthday"&gt;&lt;br&gt;&lt;br&gt;
+    &lt;input type="submit" value="Submit"&gt;
+  &lt;/fieldset&gt;
 &lt;/form&gt;
 </pre>
 <h1>Browser Support</h1>
