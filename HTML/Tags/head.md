@@ -50,9 +50,9 @@ The following elements can go inside the <b>&lt;head&gt;</b> element:
   </tr>
 </table>
 <h1>Event</h1>
-The <b>&lt;dd&gt;</b> tag supports the event attributes.
+The <b>&lt;head&gt;</b> tag supports the event attributes.
 <h1>Default CSS</h1>
-Most browsers will display the <b>&lt;dd&gt;</b> element with the following default values:
+Most browsers will display the <b>&lt;head&gt;</b> element with the following default values:
 <pre>
 head {
   display: none;
