@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="/HTML/Charset.md">Next &gt;</a>
 <hr>
-Emojis are characters from the UTF-8 character set: 😄 😍 💗
+Emojis are characters from the UTF-8 character set: &#128516; &#128525; &#128151;
 <h1>What are they?</h1>
 Emojis look like images, or icons, but they are not.
 <br>
@@ -39,9 +39,9 @@ To let the browser understand that you are displaying a character, you must star
 <h1>Emoji Characters</h1>
 Emojis are also characters from the UTF-8 alphabet:
 <ul>
-  <li>😄 is 128516</li>
-  <li>😍 is 128525</li>
-  <li>💗 is 128151</li>
+  <li>&#128516; is 128516</li>
+  <li>&#128525; is 128525</li>
+  <li>&#128151; is 128151</li>
 </ul>
 <pre>
 &lt;h1&gt;My First Emoji&lt;/h1&gt;
@@ -52,7 +52,7 @@ Since Emojis are characters, they can be copied, displayed, and sized just like 
 &lt;h1&gt;Sized Emojis&lt;/h1&gt;
 &lt;p style="font-size:48px"&gt;&amp;#128512; &amp;#128516; &amp;#128525; &amp;#128151;&lt;/p&gt;
 </pre>
-<h1>Some Emojis</h1>
+<h1>Some Examples</h1>
 <table class="ws-table-all">
   <tr>
     <th>Emoji</th>
