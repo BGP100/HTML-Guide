@@ -1,6 +1,6 @@
-<a href="/JS/jQuery/Traversing/Main.md">&lt; Previous</a>
+<a href="/JS/jQuery/Traversing/Siblings.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/jQuery/Traversing/Descendants.md">Next &gt;</a>
+<a href="/JS/jQuery/AJAX.md">Next &gt;</a>
 <hr>
 The most basic filtering methods are <b>first()</b>, <b>last()</b> and <b>eq()</b>, which allow you to select a specific element based on its position in a group of elements.
 <br>
