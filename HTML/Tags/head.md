@@ -14,6 +14,22 @@ The following elements can go inside the <b>&lt;head&gt;</b> element:
   <li><a href="script.md">&lt;script&gt;</a></li>
   <li><a href="noscript.md">&lt;noscript&gt;</a></li>
 </ul>
+<pre>
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+  &lt;meta charset="utf-8"&gt;
+  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+  &lt;title&gt;Title of the document&lt;/title&gt;
+  &lt;link rel="stylesheet" href="style.css" /&gt;
+  &lt;script src="script.js"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;h1 class="hdr"&gt;This is a heading&lt;/h1&gt;
+  &lt;p class="txt"&gt;This is a paragraph.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</pre>
 <h1>Browser Support</h1>
 <table class="ws-table-all notranslate">
   <tr>
