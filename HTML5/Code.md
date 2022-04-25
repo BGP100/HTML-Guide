@@ -1,6 +1,6 @@
 <a href="/HTML5/Tags/section.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/HTML5/Quiz.md">Next &gt;</a>
+<a href="/HTML5/ChangeLog.md">Next &gt;</a>
 <hr>
 I don't know what to put here...
 <br>
