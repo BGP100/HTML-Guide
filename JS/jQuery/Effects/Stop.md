@@ -1,6 +1,7 @@
 <a href="/JS/jQuery/Effects/Animate.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/JS/jQuery/Effects/Callback.md">Next &gt;</a>
+<hr>
 The jQuery <b>stop()</b> method is used to stop animations or effects before it is finished.
 <h1>The stop() Method</h1>
 The jQuery <b>stop()</b> method is used to stop an animation or effect before it is finished.
