@@ -51,6 +51,6 @@ fieldset {
   padding-bottom: 0.625em;
   padding-left: 0.75em;
   padding-right: 0.75em;
-  border: 2px groove (internal value);
+  border: 2px groove (<i>internal value</i>);
 }
 </pre>
