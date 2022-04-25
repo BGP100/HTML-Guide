@@ -1,6 +1,6 @@
-<a href="/JS/jQuery/Effects/Chaining.md">&lt; Previous</a>
+<a href="/JS/jQuery/Traversing/Main.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/jQuery/Traversing/Ancestors.md">Next &gt;</a>
+<a href="/JS/jQuery/Traversing/Descendants.md">Next &gt;</a>
 <hr>
 <h1>Traversing Up the DOM Tree</h1>
 Three useful jQuery methods for traversing up the DOM tree are:
