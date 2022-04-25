@@ -37,3 +37,10 @@ The <b>&lt;datalist&gt;</b> element's id attribute must be equal to the <b>&lt;i
 The <b>&lt;data&gt;</b> tag supports the standard attributes.
 <h1>Event</h1>
 The <b>&lt;data&gt;</b> tag supports the event attributes.
+<h1>Default CSS</h1>
+Most browsers will display the <b>&lt;datalist&gt;</b> element with the following default values:
+<pre>
+datalist {
+  display: none;
+}
+</pre>
