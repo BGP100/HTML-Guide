@@ -1,6 +1,6 @@
-<a href="/JS/jQuery/Effects/.md">&lt; Previous</a>
+<a href="/JS/jQuery/Effects/HideAndShow.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/JS/jQuery/Effects/.md">Next &gt;</a>
+<a href="/JS/jQuery/Effects/Slide.md">Next &gt;</a>
 <hr>
 <h1>Fade In</h1>
 The jQuery <b>fadeIn()</b> method is used to fade in a hidden element:
