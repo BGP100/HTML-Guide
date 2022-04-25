@@ -141,48 +141,48 @@ Here are some examples:
     <td>&#768;</td>
     <td>a</td>
     <td>a&amp;#768;</td>
-    <td>à</td>
+    <td>a&#768;</td>
   </tr>
   <tr>
     <td>&#769;</td>
     <td>a</td>
     <td>a&amp;#769;</td>
-    <td>á</td>
+    <td>a&#769;</td>
   </tr>
   <tr>
     <td>&#770;</td>
     <td>a</td>
     <td>a&amp;#770;</td>
-    <td>â</td>
+    <td>a&#770;</td>
   </tr>
   <tr>
     <td>&#771;</td>
     <td>a</td>
     <td>a&amp;#771;</td>
-    <td>ã</td>
+    <td>a&#771;</td>
   </tr>
   <tr>
     <td>&#768;</td>
     <td>O</td>
     <td>O&amp;#768;</td>
-    <td>Ò</td>
+    <td>O&#768;</td>
   </tr>
   <tr>
     <td>&#769;</td>
     <td>O</td>
     <td>O&amp;#769;</td>
-    <td>Ó</td>
+    <td>O&#769;</td>
   </tr>
   <tr>
     <td>&#770;</td>
     <td>O</td>
     <td>O&amp;#770;</td>
-    <td>Ô</td>
+    <td>O&#770;</td>
   </tr>
   <tr>
     <td>&#771;</td>
     <td>O</td>
     <td>O&amp;#771;</td>
-    <td>Õ</td>
+    <td>O&#771;</td>
   </tr>
 </table>
