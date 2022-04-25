@@ -1,4 +1,4 @@
-<a href="/JS/jQuery/Traversing/Main.md">&lt; Previous</a>
+<a href="/JS/jQuery/Traversing/Ancestors.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/JS/jQuery/Traversing/Siblings.md">Next &gt;</a>
 <hr>
