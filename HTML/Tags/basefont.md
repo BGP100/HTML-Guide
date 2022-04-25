@@ -4,7 +4,7 @@ By this, I mean that this tag is not supported in the current version.
 <h1>What to do?</h1>
 Specify a default text-color for a page (with CSS):
 <pre>
-body {
+basefont {
   color: red;
 }
 </pre>
