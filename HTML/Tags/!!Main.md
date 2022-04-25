@@ -205,10 +205,6 @@ Here is the list of every HTML tag:
     <td>Defines a set of frames. <code>***</code></td>
   </tr>
   <tr>
-    <td><a href="g.md">&lt;g&gt;</a></td>
-    <td>Defines the code for an &lt;svg&gt;.</td>
-  </tr>
-  <tr>
     <td><a href="h1.md">&lt;h1&gt;</a></td>
     <td>Defines HTML heading 1 (biggest).</td>
   </tr>
