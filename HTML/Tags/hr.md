@@ -29,11 +29,11 @@ The <b>&lt;hr&gt;</b> element is most often displayed as a horizontal rule that 
   </tr>
 </table>
 <h1>Standard</h1>
-The <b>&lt;dd&gt;</b> tag supports the standard attributes.
+The <b>&lt;hr&gt;</b> tag supports the standard attributes.
 <h1>Event</h1>
-The <b>&lt;dd&gt;</b> tag supports the event attributes.
+The <b>&lt;hr&gt;</b> tag supports the event attributes.
 <h1>Default CSS</h1>
-Most browsers will display the <b>&lt;dd&gt;</b> element with the following default values:
+Most browsers will display the <b>&lt;hr&gt;</b> element with the following default values:
 <pre>
 hr {
   display: block;
