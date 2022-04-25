@@ -345,10 +345,6 @@ Here is the list of every HTML tag:
     <td>Defines a parameter for an object.</td>
   </tr>
   <tr>
-    <td><a href="path.md">&lt;path&gt;</a></td>
-    <td>Defines the code for an SVG.</td>
-  </tr>
-  <tr>
     <td><a href="picture.md">&lt;picture&gt;</a></td>
     <td>Defines a container for multiple image resources.</td>
   </tr>
