@@ -13,6 +13,10 @@ Use the <b>&lt;i&gt;</b> element only when there is not a more appropriate seman
   <li><a href="ins.md">&lt;ins&gt;</a> (underlined text)</li>
   <li><a href="del.md">&lt;del&gt;</a> (line-through text)</li>
 </ul>
+<pre>
+&lt;p&gt;&lt;i&gt;Lorem ipsum&lt;/i&gt; is the most popular filler text in history.&lt;/p&gt;
+&lt;p&gt;The &lt;i&gt;RMS Titanic&lt;/i&gt;, a luxury steamship, sank on April 15, 1912 after striking an iceberg.&lt;/p&gt;
+</pre>
 <h1>Browser Support</h1>
 <table class="ws-table-all notranslate">
   <tr>
