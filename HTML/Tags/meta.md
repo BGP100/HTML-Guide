@@ -36,6 +36,6 @@ There is a method to let web designers take control over the viewport (the user'
   </tr>
 </table>
 <h1>Event</h1>
-The <b>&lt;dd&gt;</b> tag supports the event attributes.
+The <b>&lt;meta&gt;</b> tag supports the event attributes.
 <h1>Default CSS</h1>
 None.
