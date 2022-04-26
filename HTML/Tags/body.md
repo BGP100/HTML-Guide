@@ -4,13 +4,18 @@ The <b>&lt;body&gt;</b> element contains all the contents of an HTML document, s
 <br>
 <b><i>Note:</i></b> There can only be one <b>&lt;body&gt;</b> element in an HTML document.
 <pre>
+&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
+  &lt;meta charset="utf-8"&gt;
+  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
   &lt;title&gt;Title of the document&lt;/title&gt;
+  &lt;link rel="stylesheet" href="style.css" /&gt;
 &lt;/head&gt;
 &lt;body&gt;
-  &lt;h1&gt;This is a heading&lt;/h1&gt;
-  &lt;p&gt;This is a paragraph.&lt;/p&gt;
+  &lt;h1 class="hdr"&gt;This is a heading&lt;/h1&gt;
+  &lt;p class="txt"&gt;This is a paragraph.&lt;/p&gt;
+  &lt;script src="script.js"&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </pre>
