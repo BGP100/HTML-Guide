@@ -9,6 +9,10 @@ Also look at:
   <li><a href="var.md">&lt;var&gt;</a></li>
   <li><a href="pre.md">&lt;pre&gt;</a></li>
 </ul>
+<pre>
+&lt;p&gt;Press &lt;kbd&gt;Ctrl&lt;/kbd&gt; + &lt;kbd&gt;C&lt;/kbd&gt; to copy text (Windows).&lt;/p&gt;
+&lt;p&gt;Press &lt;kbd&gt;Cmd&lt;/kbd&gt; + &lt;kbd&gt;C&lt;/kbd&gt; to copy text (Mac OS).&lt;/p&gt;
+</pre>
 <h1>Browser Support</h1>
 <table class="ws-table-all notranslate">
   <tr>
