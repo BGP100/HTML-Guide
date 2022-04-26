@@ -22,11 +22,11 @@ The following elements can go inside the <b>&lt;head&gt;</b> element:
   &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
   &lt;title&gt;Title of the document&lt;/title&gt;
   &lt;link rel="stylesheet" href="style.css" /&gt;
-  &lt;script src="script.js"&gt;&lt;/script&gt;
 &lt;/head&gt;
 &lt;body&gt;
   &lt;h1 class="hdr"&gt;This is a heading&lt;/h1&gt;
   &lt;p class="txt"&gt;This is a paragraph.&lt;/p&gt;
+  &lt;script src="script.js"&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </pre>
