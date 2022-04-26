@@ -1,6 +1,7 @@
 The <b>&lt;p&gt;</b> tag defines a paragraph.
 <br>
 Browsers automatically add a single blank line before and after each <b>&lt;p&gt;</b> element.
+<pre>&lt;p&gt;This is some text in a paragraph.&lt;/p&gt;</pre>
 <h1>Browser Support</h1>
 <table class="ws-table-all notranslate">
   <tr>
