@@ -1,6 +1,6 @@
 The <b>&lt;rp&gt;</b> tag can be used to provide parentheses around a ruby text, to be shown by browsers that do not support ruby annotations.
 <br>
-Use <b>&lt;rp&gt;</b> together with <b>&lt;ruby&gt;</b> and <b>&lt;rt&gt;</b>: The <b>&lt;ruby&gt;</b> element consists of one or more characters that needs an explanation/pronunciation, and an <b>&lt;rt&gt;</b> element that gives that information, and an optional <b>&lt;rp&gt;</b> element that defines what to show for browsers that not support ruby annotations.
+Use <b>&lt;rp&gt;</b> together with <a href="ruby.md">&lt;ruby&gt;</a> and <a href="rt.md">&lt;rt&gt;</a>: The <a href="ruby.md">&lt;ruby&gt;</a> element consists of one or more characters that needs an explanation/pronunciation, and an <a href="rt.md">&lt;rt&gt;</a> element that gives that information, and an optional <b>&lt;rp&gt;</b> element that defines what to show for browsers that not support ruby annotations.
 <pre>
 &lt;ruby&gt;
 漢 &lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ㄏㄢˋ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;
