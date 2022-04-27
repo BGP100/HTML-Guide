@@ -24,11 +24,11 @@ Browsers normally insert quotation marks around the quotation.
   </tr>
 </table>
 <h1>Standard</h1>
-The <b>&lt;dd&gt;</b> tag supports the standard attributes.
+The <b>&lt;q&gt;</b> tag supports the standard attributes.
 <h1>Event</h1>
-The <b>&lt;dd&gt;</b> tag supports the event attributes.
+The <b>&lt;q&gt;</b> tag supports the event attributes.
 <h1>Default CSS</h1>
-Most browsers will display the <b>&lt;dd&gt;</b> element with the following default values:
+Most browsers will display the <b>&lt;q&gt;</b> element with the following default values:
 <pre>
 q {
   display: inline;
