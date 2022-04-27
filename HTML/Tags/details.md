@@ -5,8 +5,9 @@ The <b>&lt;details&gt;</b> tag is often used to create an interactive widget tha
 Any sort of content can be put inside the <b>&lt;details&gt;</b> tag.
 <pre>
 &lt;details&gt;
-  &lt;summary&gt;Epcot Center&lt;/summary&gt;
-  &lt;p&gt;Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.&lt;/p&gt;
+  &lt;summary&gt;Click Here&lt;/summary&gt;
+  You just got RickRolled!&lt;br&gt;
+  &lt;img src="https://i.imgur.com/Oc9Mi5F.gif"&gt;
 &lt;/details&gt;
 </pre>
 <h1>Browser Support</h1>
