@@ -1,6 +1,6 @@
 The <b>&lt;video&gt;</b> tag is used to embed video content in a document, such as a movie clip or other video streams.
 <br>
-The <b>&lt;video&gt;</b> tag contains one or more <a href="source.md">&lt;source&gt;</b> tags with different video sources. The browser will choose the first source it supports.
+The <b>&lt;video&gt;</b> tag contains one or more <a href="source.md">&lt;source&gt;</a> tags with different video sources. The browser will choose the first source it supports.
 <br>
 The text between the <b>&lt;video&gt;</b> and <b>&lt;/video&gt;</b> tags will only be displayed in browsers that do not support the <b>&lt;video&gt;</b> element.
 <br>
