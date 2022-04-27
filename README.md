@@ -17,12 +17,30 @@ MORE THAN 400 PAGES IN TOTAL
   <li>Quotations</li>
   <li>Comments</li>
   <li>Colors</li>
+  <li>RGB Colors</li>
+  <li>HEX Colors</li>
+  <li>HSL Colors</li>
   <li>What's CSS</li>
   <li>Links</li>
+  <li>Link Colors</li>
+  <li>Link Bookmarks</li>
   <li>Images</li>
+  <li>Image Map</li>
+  <li>Background Images</li>
+  <li>Picture</li>
   <li>Favicon</li>
   <li>Tables</li>
+  <li>Table Borders</li>
+  <li>Table Sizes</li>
+  <li>Table Headers</li>
+  <li>Table Padding &amp; Spacing</li>
+  <li>Table Colspan &amp; Rowspan</li>
+  <li>Table Style</li>
+  <li>Table Colgroup</li>
   <li>Lists</li>
+  <li>Unordered Lists</li>
+  <li>Ordered Lists</li>
+  <li>Description Lists</li>
   <li>Block &amp; Inline</li>
   <li>Classes</li>
   <li>ID</li>
@@ -54,6 +72,7 @@ MORE THAN 400 PAGES IN TOTAL
   <li>Audio</li>
   <li>Plug-ins</li>
   <li>Adding YouTube</li>
+  <li>APIs</li>
   <li>Geolocation</li>
   <li>Drag/Drop</li>
   <li>Web Storage</li>
@@ -106,6 +125,7 @@ MORE THAN 400 PAGES IN TOTAL
   <li>Game Rotation</li>
   <li>Game Movement</li>
   <li>Timer</li>
+  <li>HTML Quiz</li>
 </ol>
 <h2>List of CSS</h2>
 <ol>
@@ -116,31 +136,77 @@ MORE THAN 400 PAGES IN TOTAL
   <li>How to</li>
   <li>Comments</li>
   <li>Colors</li>
+  <li>RGB Colors</li>
+  <li>HEX Colors</li>
+  <li>HSL Colors</li>
   <li>Background</li>
+  <li>Background Color</li>
+  <li>Background Image</li>
+  <li>Background Repeat</li>
+  <li>Background Attachments</li>
+  <li>Background Shorthand</li>
   <li>Borders</li>
+  <li>Border Width</li>
+  <li>Border Color</li>
+  <li>Border Sides</li>
+  <li>Border Shorthand</li>
+  <li>Rounded Borders</li>
   <li>Margins</li>
+  <li>Margin Collapse</li>
   <li>Paddings</li>
-  <li>Height/Width</li>
+  <li>Height &amp; Width</li>
   <li>Box Model</li>
   <li>Outline</li>
+  <li>Outline Width</li>
+  <li>Outline Color</li>
+  <li>Outline Shorthand</li>
+  <li>Outline Offset</li>
   <li>Text</li>
-  <li>Fonts</li>
+  <li>Text Color</li>
+  <li>Text Alignment</li>
+  <li>Text Decoration</li>
+  <li>Text Transformation</li>
+  <li>Text Spacing</li>
+  <li>Text Shadow</li>
+  <li>Font Family</li>
+  <li>Web Safe Fonts</li>
+  <li>Font Fallback</li>
+  <li>Font Style</li>
+  <li>Font Size</li>
+  <li>Google Fonts</li>
+  <li>Font Pairing</li>
+  <li>Font Shorthand</li>
   <li>Icons</li>
   <li>Links</li>
   <li>Lists</li>
+  <li>List Markers</li>
+  <li>List Images</li>
+  <li>List Position</li>
+  <li>List Remove Default</li>
+  <li>List Shorthand</li>
+  <li>List Styling</li>
   <li>Tables</li>
+  <li>Table Borders</li>
+  <li>Table Size</li>
+  <li>Table Alignment</li>
+  <li>Table Style</li>
+  <li>Responsive Tables</li>
   <li>Display</li>
   <li>Max-width</li>
   <li>Position</li>
   <li>Z-index</li>
   <li>Overflow</li>
   <li>Float</li>
+  <li>Clear Float</li>
+  <li>Float Examples</li>
   <li>Inline-block</li>
   <li>Align</li>
   <li>Pseudo-class</li>
   <li>Pseudo-element</li>
   <li>Opacity</li>
-  <li>Navigation</li>
+  <li>Navigation Bar (NavBar)</li>
+  <li>Vertical NavBar</li>
+  <li>Horizontal NavBar</li>
   <li>Dropdowns</li>
   <li>Image Gallery</li>
   <li>Image Sprites</li>
@@ -152,13 +218,19 @@ MORE THAN 400 PAGES IN TOTAL
   <li>Specificity</li>
   <li>!important</li>
   <li>Math Functions</li>
+  <li><b>Advanced CSS (CSS3)</b></li>
   <li>Rounded Corners</li>
   <li>Border Images</li>
   <li>Advanced Backgrounds</li>
   <li>Advanced Colors</li>
   <li>Color Keywords</li>
   <li>Gradients</li>
+  <li>Linear Gradients</li>
+  <li>Radial Gradients</li>
+  <li>Conic Gradients</li>
   <li>Shadows</li>
+  <li>Shadow Effects</li>
+  <li>Shadow Box</li>
   <li>Text Effects</li>
   <li>Web Fonts</li>
   <li>2D Transforms</li>
@@ -175,17 +247,23 @@ MORE THAN 400 PAGES IN TOTAL
   <li>Multiple Columns</li>
   <li>User Interface</li>
   <li>Variables</li>
+  <li>Variable Override</li>
+  <li>Variables and JS</li>
+  <li>Variables and MQ</li>
   <li>Box Sizing</li>
   <li>Media Queries</li>
   <li>Flexbox</li>
-  <li>RWD Intro</li>
-  <li>RWD Viewport</li>
-  <li>RWD View Grid</li>
-  <li>RWD Queries</li>
-  <li>RWD Images</li>
-  <li>RWD Videos</li>
-  <li>RWD Frameworks</li>
-  <li>RWD Templates</li>
+  <li>Flexbox Container</li>
+  <li>Flexbox Items</li>
+  <li>Responsive Flexbox</li>
+  <li>Responsive Intro</li>
+  <li>Responsive Viewport</li>
+  <li>Responsive View Grid</li>
+  <li>Responsive Queries</li>
+  <li>Responsive Images</li>
+  <li>Responsive Videos</li>
+  <li>Responsive Frameworks</li>
+  <li>Responsive Templates</li>
   <li>Grid Intro</li>
   <li>Grid Container</li>
   <li>Grid Item</li>
