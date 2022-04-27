@@ -45,11 +45,11 @@ There are three supported audio formats in HTML: MP3, WAV, and OGG.
 </table>
 <code>*</code> From Edge 79
 <pre>
-&lt;audio controls&lt;
-  &lt;source src="horse.mp3" type="audio/mpeg"&lt;
-  &lt;source src="horse.ogg" type="audio/ogg"&lt;
+&lt;audio controls&gt;
+  &lt;source src="horse.mp3" type="audio/mpeg"&gt;
+  &lt;source src="horse.ogg" type="audio/ogg"&gt;
   Your browser does not support the audio tag.
-&lt;/audio&lt;
+&lt;/audio&gt;
 </pre>
 <h1>Browser Support</h1>
 <table class="ws-table-all notranslate">
