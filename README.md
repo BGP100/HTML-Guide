@@ -1,7 +1,7 @@
 <h1>HTML-Guide</h1>
 The ultimate HTML, CSS, and JS guide on github. (I think so)
 <p></p>
-MORE THAN 400 PAGES IN TOTAL
+788 PAGES IN TOTAL!!!
 <h2>List of HTML</h2>
 <ol>
   <li>Home</li>
@@ -805,10 +805,10 @@ HTML5 is the same thing as HTML but it has these new things:
 See more info about HTML5 go to <a href="/HTML5/ChangeLog.md">The Change Log</a> chapter.
 <h2>Quizzes</h2>
 <ol>
-  <li><a href="/HTML/Quiz.md">HTML Quiz</li>
-  <li><a href="/CSS/Quiz.md">CSS Quiz</li>
-  <li><a href="/JS/Quiz.md">JavaScript Quiz</li>
-  <li><a href="/HTML5/Quiz.md">HTML5 Quiz</li>
+  <li><a href="/HTML/Quiz.md">HTML Quiz</a></li>
+  <li><a href="/CSS/Quiz.md">CSS Quiz</a></li>
+  <li><a href="/JS/Quiz.md">JavaScript Quiz</a></li>
+  <li><a href="/HTML5/Quiz.md">HTML5 Quiz</a></li>
 </ol>
 <br>
 Hope you enjoy and learn :)
