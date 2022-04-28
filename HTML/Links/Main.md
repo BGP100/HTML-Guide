@@ -63,8 +63,8 @@ A local link (a link to a page within the same website) is specified with a rela
 <h1>URL Images</h1>
 To use an image as a link, just put the <b>&lt;img&gt;</b> tag inside the <b>&lt;a&gt;</b> tag:
 <pre>
-&lt;a href="/BGP/HTML-Guide/"&gt;
-  &lt;img src="//www.w3schools.com/html/smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"&gt;&lt;/a&gt;
+&lt;a href="/BGP100/HTML-Guide/"&gt;
+&lt;img src="//www.w3schools.com/html/smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"&gt;&lt;/a&gt;
 </pre>
 <h1>eMail URLs</h1>
 Use <b>mailto:</b> inside the href attribute to create a link that opens the user's email program (to let them send a new email):
