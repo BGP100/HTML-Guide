@@ -1,6 +1,6 @@
 <a href="/JS/JSON/HTML.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://bledy-guides.repl.co">Next &gt;</a>
+<a href="https://bledy-guides.repl.co/#json">Next &gt;</a>
 <hr>
 JSONP is a method for sending JSON data without worrying about cross-domain issues.
 <br>
