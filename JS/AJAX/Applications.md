@@ -4,7 +4,7 @@
 <hr>
 This chapter demonstrates some HTML applications using XML, HTTP, DOM, and JavaScript.
 <h1>The XML Document Used</h1>
-In this chapter we will use the XML file called <a href="https://codepen.io/BGP100/pen/GRyePxw">"cd_catalog.xml"</a>.
+In this chapter we will use the XML file called <a href="https://codepen.io/BGP100/pen/GRyePxw?editors=1000">"cd_catalog.xml"</a>.
 <h1>Display XML Data in an HTML Table</h1>
 This example loops through each &lt;CD&gt; element, and displays the values of the &lt;ARTIST&gt; and the &lt;TITLE&gt; elements in an HTML table:
 <pre>
