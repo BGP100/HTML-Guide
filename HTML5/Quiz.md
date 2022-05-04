@@ -1,6 +1,6 @@
 <a href="/HTML5/ChangeLog.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://bledy-guides.repl.co">Next &gt;</a>
+<a href="https://bledy-guides.repl.co/#html5">Next &gt;</a>
 <hr>
 Info is on <a href="https://github.com/BGP100/QuizTime">QuizTime</a>.
 <p></p>
