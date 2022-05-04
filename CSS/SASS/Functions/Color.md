@@ -1,6 +1,6 @@
 <a href="/CSS/SASS/Function/Introspetion.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://bledy-guides.repl.co">Next &gt;</a>
+<a href="https://bledy-guides.repl.co/#sass">Next &gt;</a>
 <hr>
 We have divided the color functions in SASS into three parts: Set color functions, Get color functions, and Manipulate color functions:
 1. Set Color Functions
