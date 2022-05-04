@@ -1,4 +1,4 @@
-<a href="https://bledy-guides.repl.co">&lt; Previous</a>
+<a href="https://bledy-guides.repl.co/#dom">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/JS/DOM/Methods.md">Next &gt;</a>
 <hr>
