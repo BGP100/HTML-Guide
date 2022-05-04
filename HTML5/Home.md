@@ -1,4 +1,4 @@
-<a href="https://bledy-guides.repl.co">&lt; Previous</a>
+<a href="https://bledy-guides.repl.co/#html5">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/HTML5/Tags/article.md">Next &gt;</a>
 <hr>
