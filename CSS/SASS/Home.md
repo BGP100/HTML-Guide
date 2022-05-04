@@ -1,4 +1,4 @@
-<a href="https://bledy-guides.repl.co">&lt; Previous</a>
+<a href="https://bledy-guides.repl.co/#sass">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/CSS/SASS/Introduction.md">Next &gt;</a>
 <hr>
