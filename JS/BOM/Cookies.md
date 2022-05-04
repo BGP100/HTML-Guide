@@ -1,6 +1,6 @@
 <a href="/JS/BOM/Timing.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://bledy-guides.repl.co">Next &gt;</a>
+<a href="https://bledy-guides.repl.co/#bom">Next &gt;</a>
 <hr>
 Cookies let you store user information in web pages.
 <h1>What are Them?</h1>
