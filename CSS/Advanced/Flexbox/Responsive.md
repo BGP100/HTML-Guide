@@ -1,6 +1,6 @@
 <a href="/CSS/Advanced/Flexbox/Items.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://bledy-guides.repl.co">Next &gt;</a>
+<a href="https://bledy-guides.repl.co/#css3">Next &gt;</a>
 <hr>
 You learned from the CSS <a href="https://github.com/BGP100/HTML-Guide/blob/main/CSS/Advanced/MediaQueries.md">Media Queries</a> chapter that you can use media queries to create different layouts for different screen sizes and devices.
 <br>
