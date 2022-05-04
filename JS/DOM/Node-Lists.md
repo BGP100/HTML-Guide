@@ -1,6 +1,6 @@
 <a href="/JS/DOM/Collections.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://bledy-guides.repl.co">Next &gt;</a>
+<a href="https://bledy-guides.repl.co/#dom">Next &gt;</a>
 <hr>
 <h1>The HTML DOM NodeList Object</h1>
 A NodeList object is a list (collection) of nodes extracted from a document.
