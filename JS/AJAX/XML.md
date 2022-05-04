@@ -34,4 +34,4 @@ function myFunction(xml) {
 &lt;/script&gt;
 </pre>
 <h1>The XML File</h1>
-The XML file used in the example above looks like this: <a href="https://codepen.io/BGP100/pen/GRyePxw">"cd_catalog.xml"</a>.
+The XML file used in the example above looks like this: <a href="https://codepen.io/BGP100/pen/GRyePxw?editors=1000">"cd_catalog.xml"</a>.
