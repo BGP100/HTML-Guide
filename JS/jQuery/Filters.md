@@ -6,6 +6,19 @@ Use jQuery to filter/search for specific elements.
 <h1>Filter Tables</h1>
 Perform a case-insensitive search for items in a table:
 <pre>
+&lt;head&gt;
+&lt;script&gt;
+$(document).ready(function(){
+  $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#myTable tr").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) &gt; -1)
+    });
+  });
+});
+&lt;/script&gt;
+&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"&gt;&lt;/script&gt;
+&lt;/head&gt;
 &lt;style&gt;
 table {
   font-family: arial, sans-serif;
@@ -38,9 +51,9 @@ tr:nth-child(even) {
     &lt;td&gt;john@example.com&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td>Mary&lt;/td&gt;
-    &lt;td>Moe&lt;/td&gt;
-    &lt;td>mary@mail.com&lt;/td&gt;
+    &lt;td&gt;Mary&lt;/td&gt;
+    &lt;td&gt;Moe&lt;/td&gt;
+    &lt;td&gt;mary@mail.com&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;July&lt;/td&gt;
@@ -54,6 +67,14 @@ tr:nth-child(even) {
   &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+</pre>
+<b>Explained:</b>
+<br>
+We use jQuery to loop through each table rows to check if there are any text values that matches the value of the input field. The <b>toggle()</b> method hides the row (<b>display:none</b>) that does not match the search. We use the <b>toLowerCase()</b> DOM method to convert the text to lower case, which makes the search case insensitive (allows "john", "John", and even "JOHN" on search).
+<h1>Filter Lists</h1>
+Perform a case-insensitive search for items in a list:
+<pre>
+&lt;head&gt;
 &lt;script&gt;
 $(document).ready(function(){
   $("#myInput").on("keyup", function() {
@@ -65,13 +86,7 @@ $(document).ready(function(){
 });
 &lt;/script&gt;
 &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"&gt;&lt;/script&gt;
-</pre>
-<b>Explained:</b>
-<br>
-We use jQuery to loop through each table rows to check if there are any text values that matches the value of the input field. The <b>toggle()</b> method hides the row (<b>display:none</b>) that does not match the search. We use the <b>toLowerCase()</b> DOM method to convert the text to lower case, which makes the search case insensitive (allows "john", "John", and even "JOHN" on search).
-<h1>Filter Lists</h1>
-Perform a case-insensitive search for items in a list:
-<pre>
+&lt;/head&gt;
 &lt;input id="myInput" type="text" placeholder="Search.."&gt;
 &lt;br&gt;
 &lt;ul id="myList"&gt;
@@ -80,21 +95,23 @@ Perform a case-insensitive search for items in a list:
   &lt;li&gt;Third item&lt;/li&gt;
   &lt;li&gt;Fourth&lt;/li&gt;
 &lt;/ul&gt;
+</pre>
+<h1>Filter Anything</h1>
+Perform a case-insensitive search for text inside a div element:
+<pre>
+&lt;head&gt;
 &lt;script&gt;
 $(document).ready(function(){
   $("#myInput").on("keyup", function() {
     var value = $(this).val().toLowerCase();
-    $("#myList li").filter(function() {
+    $("#myTable tr").filter(function() {
       $(this).toggle($(this).text().toLowerCase().indexOf(value) &gt; -1)
     });
   });
 });
 &lt;/script&gt;
 &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"&gt;&lt;/script&gt;
-</pre>
-<h1>Filter Anything</h1>
-Perform a case-insensitive search for text inside a div element:
-<pre>
+&lt;/head&gt;
 &lt;input id="myInput" type="text" placeholder="Search.."&gt;
 &lt;div id="myDIV"&gt;
   &lt;p&gt;I am a paragraph.&lt;/p&gt;
@@ -104,15 +121,4 @@ Perform a case-insensitive search for text inside a div element:
   &lt;button&gt;Another button&lt;/button&gt;
   &lt;p&gt;Another paragraph.&lt;/p&gt;
 &lt;/div&gt;
-&lt;script&gt;
-$(document).ready(function(){
-  $("#myInput").on("keyup", function() {
-    var value = $(this).val().toLowerCase();
-    $("#myDIV *").filter(function() {
-      $(this).toggle($(this).text().toLowerCase().indexOf(value) &gt; -1)
-    });
-  });
-});
-&lt;/script&gt;
-&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"&gt;&lt;/script&gt;
 </pre>
