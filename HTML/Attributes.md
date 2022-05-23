@@ -23,8 +23,8 @@ Note: External images might be under copyright. If you do not get permission to 
 <b>2.</b> Relative URL - Links to an image that is hosted within the website. Here, the URL does not include the domain name. If the URL begins without a slash, it will be relative to the current page. Example: src="/favicon.png". If the URL begins with a slash, it will be relative to the domain. Example: src="/favicon.png".
 <br>
 Tip: It is almost always best to use relative URLs. They will not break if you change domain.
-<h1>width & height</h1>
-The <img> tag should also contain the width and height attributes, which specifies the width and height of the image (in pixels):
+<h1>width &amp; height</h1>
+The &lt;img&gt; tag should also contain the width and height attributes, which specifies the width and height of the image (in pixels):
 <pre>&lt;img src="//preview.bledygamesweb.repl.co/favicon.png" width="500" height="600"&gt;</pre>
 <h1>alt</h1>
 The required alt attribute for the &lt;img&gt; tag specifies an alternate text for an image, if the image for some reason cannot be displayed. This can be due to slow connection, or an error in the src attribute, or if the user uses a screen reader.
