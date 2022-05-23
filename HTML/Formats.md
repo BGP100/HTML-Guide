@@ -21,6 +21,7 @@ Formatting elements were designed to display special types of text:
   <li>&lt;ins&gt; - Inserted text</li>
   <li>&lt;sub&gt; - Subscript text</li>
   <li>&lt;sup&gt; - Superscript text</li>
+  <li>&lt;u&gt; - Underlined text</li>
 </ul>
 <h1>How its done in a Table</h1>
 <table class="ws-table-all notranslate">
@@ -67,5 +68,9 @@ Formatting elements were designed to display special types of text:
 <tr>
 <td>&lt;mark&gt;</td>
 <td>Defines marked/highlighted text</td>
+</tr>
+<tr>
+<td>&lt;u&gt;</td>
+<td>Defines underline text</td>
 </tr>
 </table>
