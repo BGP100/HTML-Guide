@@ -38,13 +38,13 @@ The CSS <b>color</b> property defines the text color for an HTML element:
 &lt;p style="color: red;"&gt;This is a paragraph.&lt;/p&gt;
 </pre>
 <h1>font-family</h1>
-The CSS <b>font-family</b> property defines the text size for an HTML element:
+The CSS <b>font-family</b> property defines the text font for an HTML element:
 <pre>
 &lt;h1 style="font-family: verdana;"&gt;This is a heading&lt;/h1&gt;
 &lt;p style="font-family: courier;"&gt;This is a paragraph.&lt;/p&gt;
 </pre>
 <h1>font-size</h1>
-The CSS <b>font-size</b> property defines the text color for an HTML element:
+The CSS <b>font-size</b> property defines the text size for an HTML element:
 <pre>
 &lt;h1 style="font-size: 300%;"&gt;This is a heading&lt;/h1&gt;
 &lt;p style="font-size: 160%;"&gt;This is a paragraph.&lt;/p&gt;
