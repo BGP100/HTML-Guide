@@ -74,7 +74,7 @@ To use an HTML button as a link, you have to add some <b>&lt;a&gt;</b> code.
 <br>
 <b>&lt;a&gt;</b> allows you to specify what happens at certain events, such as a click of a button:
 <pre>
-&lt;a href="https://replit.com/@BledyGames"&gt;&lt;button"&gt;Visit My Replit Profile!&lt;/button&gt;&lt;/a&gt;
+&lt;a href="https://replit.com/@BledyGames"&gt;&lt;button&gt;Visit My Replit Profile!&lt;/button&gt;&lt;/a&gt;
 </pre>
 <h1>title</h1>
 The <b>title</b> attribute specifies extra information about an element. The information is most often shown as a tooltip text when the mouse moves over the element.
