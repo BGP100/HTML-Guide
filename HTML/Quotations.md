@@ -40,7 +40,7 @@ The HTML <b>&lt;q&gt;</b> tag defines a short quotation.
 <br>
 Browsers normally insert quotation marks around the quotation.
 <h2>Preview:</h2>
-<p>WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>
+<p>WWF's goal is to: &lt;q&gt;Build a future where people live in harmony with nature.</q></p>
 <h2>Demo:</h2>
 <pre>&lt;p&gt;WWF's goal is to: <q>Build a future where people live in harmony with nature.&lt;/q&gt;&lt;/p&gt;</pre>
 <h1>&lt;abbr&gt;</h1>
