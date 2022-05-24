@@ -58,7 +58,7 @@ A local link (a link to a page within the same website) is specified with a rela
 <p></p>
 &lt;h2>Relative URLs&lt;/h2>
 &lt;p&gt;&lt;a href="html_images.asp"&gt;HTML Images&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="/BGP100/HTML-Guide/"&gt;CSS Tutorial&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="/BGP100/HTML-Guide/tree/main/CSS"&gt;CSS Tutorial&lt;/a&gt;&lt;/p&gt;
 </pre>
 <h1>URL Images</h1>
 To use an image as a link, just put the <b>&lt;img&gt;</b> tag inside the <b>&lt;a&gt;</b> tag:
