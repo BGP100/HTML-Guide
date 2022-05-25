@@ -4,7 +4,7 @@
 <hr>
 The HTML &lt;picture&gt; element allows you to display different pictures for different devices or screen sizes.
 <br>
-<img src="https://www.w3schools.com/html/picture_example.jpg">
+<img src="https://i.imgur.com/XnKnmlo.jpg">
 <br>
 The HTML <b>&lt;picture&gt;</b> element gives web developers more flexibility in specifying image resources.
 <br>
