@@ -27,7 +27,7 @@ Then under "Open and Save", check the box that says "Display HTML files as HTML 
 Then open a new document to place the code.
 <h1>Write some code</h1>
 Write HTML code into Notepad like in the image:
-<img src="https://www.w3schools.com/html/img_notepad.png">
+<img src="https://i.imgur.com/CPKAK3c.png">
 <h1>Save the HTML</h1>
 Save the file on your computer. Select File > Save as in the Notepad menu.
 <br>
@@ -36,4 +36,4 @@ Name the file "index.htm" and set the encoding to UTF-8. (which is the preferred
 Open the saved HTML file in your favorite browser. (double click on the file, or right-click - and choose "Open with")
 <br>
 The result will look much like this:
-<img src="https://www.w3schools.com/html/img_chrome.png">
+<img src="https://i.imgur.com/kNWdqAH.png">
