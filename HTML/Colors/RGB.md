@@ -24,7 +24,7 @@ To display white, set all color parameters to 255, like this: rgb(255, 255, 255)
 <br>
 Experiment by watching the RGB values below:
 <br>
-<img src="https://i.stack.imgur.com/poux8.gif">
+<img src="https://i.imgur.com/DmZuNJI.gif">
 <h1>RGBA</h1>
 RGBA color values are an extension of RGB color values with an Alpha channel - which specifies the opacity for a color.
 <br>
