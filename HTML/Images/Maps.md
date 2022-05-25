@@ -8,9 +8,9 @@ The HTML <b>&lt;map&gt;</b> tag defines an image map. An image map is an image w
 <br>
 Try to click on the computer, phone, or the cup of coffee in the image below:
 <br>
-<img src="https://www.w3schools.com/html/workplace.jpg">
+<img src="https://i.imgur.com/Y0NBeiR.jpg">
 <pre>
-&lt;img src="//www.w3schools.com/html/workplace.jpg" alt="Workplace" usemap="#workmap"&gt;
+&lt;img src="//i.imgur.com/Y0NBeiR.jpg" alt="Workplace" usemap="#workmap"&gt;
 &lt;map name="workmap"&gt;
   &lt;area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm"&gt;
   &lt;area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm"&gt;
@@ -68,13 +68,13 @@ This can be used to create any shape.
 Like maybe a croissant shape!
 <br>
 How can we make the croissant in the image below become a clickable link?
-<img src="https://www.w3schools.com/html/frenchfood.jpg">
+<img src="https://i.imgur.com/Tc0gsM8.jpg">
 We have to find the x and y coordinates for all edges of the croissant:
-<img src="https://www.w3schools.com/html/frenchfood4.jpg">
+<img src="https://i.imgur.com/HaSiTw4.jpg">
 The coordinates come in pairs, one for the x-axis and one for the y-axis:
 <pre>&lt;area shape="poly" coords="140,121,181,116,204,160,204,222,191,270,140,329,85,355,58,352,37,322,40,259,103,161,128,147" href="croissant.htm"&gt;</pre>
 This is the area that becomes clickable and will send the user to the page "croissant.htm":
-<img src="https://www.w3schools.com/html/frenchfood3.jpg">
+<img src="https://i.imgur.com/TY7JJiy.jpg">
 <h1>Map with JavaScript</h1>
 A clickable area can also trigger a JavaScript function.
 <br>
