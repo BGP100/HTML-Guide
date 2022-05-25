@@ -4,9 +4,9 @@
 <hr>
 Images can improve the design and the appearance of a web page.
 <br>
-<img src="https://www.w3schools.com/html/pic_trulli.jpg" height="250px">
-<img src="https://www.w3schools.com/html/img_girl.jpg" height="250px">
-<img src="https://www.w3schools.com/html/img_chania.jpg" height="250px">
+<img src="https://i.imgur.com/Dye2ssc.jpg" height="250px">
+<img src="https://i.imgur.com/rUdy1Or.jpg" height="250px">
+<img src="https://i.imgur.com/O9ioBM7.jpg" height="250px">
 <h1>Syntax</h1>
 The HTML <b>&lt;img&gt;</b> tag is used to embed an image in a web page.
 <br>
@@ -24,12 +24,12 @@ The <b>&lt;img&gt;</b> tag has two required attributes:
 The required <b>src</b> attribute specifies the path (URL) to the image.
 <p></p>
 <b>Note:</b> When a web page loads, it is the browser, at that moment, that gets the image from a web server and inserts it into the page. Therefore, make sure that the image actually stays in the same spot in relation to the web page, otherwise your visitors will get a broken link icon. The broken link icon and the alt text are shown if the browser cannot find the image.
-<pre>&lt;img src="//www.w3schools.com/html/img_chania.jpg" alt="Flowers in Chania"&gt;</pre>
+<pre>&lt;img src="//i.imgur.com/O9ioBM7.jpg" alt="Flowers in Chania"&gt;</pre>
 <h1>alt</h1>
 The required alt attribute provides an alternate text for an image, if the user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
 <br>
 The value of the alt attribute should describe the image:
-<pre>&lt;img src="//www.w3schools.com/html/img_chania.jpg" alt="Flowers in Chania"&gt;</pre>
+<pre>&lt;img src="//i.imgur.com/O9ioBM7.jpg" alt="Flowers in Chania"&gt;</pre>
 If a browser cannot find an image, it will display the value of the alt attribute:
 <img src="wrongname.gif" alt="Flowers in Chania">
 <pre>&lt;img src="wrongname.gif" alt="Flowers in Chania"&gt;</pre>
@@ -63,12 +63,12 @@ To point to an image on another server, you must specify an absolute (full) URL 
 <b>Notes on external images:</b> External images might be under copyright. If you do not get permission to use it, you may be in violation of copyright laws. In addition, you cannot control external images; it can suddenly be removed or changed.
 <h1>GIFs</h1>
 HTML allows animated Images:
-<pre>&lt;img src="//www.w3schools.com/html/programming.gif" alt="Computer Man" style="width:48px;height:48px;"&gt;</pre>
+<pre>&lt;img src="//i.imgur.com/gJInvyH.gif" alt="Computer Man" style="width:48px;height:48px;"&gt;</pre>
 <h1>Image as Link</h1>
 To use an image as a link, put the <b>&lt;img&gt;</b> tag inside the <b>&lt;a&gt;</b> tag:
 <pre>
 &lt;a href="//github.com/BGP100/HTML-Guide/"&gt;
-  &lt;img src="//www.w3schools.com/html/smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"&gt;&lt;/a&gt;
+  &lt;img src="//i.imgur.com/ixnaQfO.gif" alt="HTML tutorial" style="width:42px;height:42px;"&gt;&lt;/a&gt;
 </pre>
 <h1>Floating Images</h1>
 Use the CSS <b>float</b> property to let the image float to the right or to the left of a text:
