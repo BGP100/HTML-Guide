@@ -4,19 +4,19 @@
 <hr>
 HTML colors are specified with predefined color names, or with RGB, HEX, HSL, RGBA, or HSLA values.
 <br>
-<img src="https://via.placeholder.com/15/ff6347/000000?text=+"> Tomato
+<img src="https://i.imgur.com/hCQcYI3.png"> Tomato
 <br>
-<img src="https://via.placeholder.com/15/ffa500/000000?text=+"> Orange
+<img src="https://i.imgur.com/QU8bILo.png"> Orange
 <br>
-<img src="https://via.placeholder.com/15/0000ff/000000?text=+"> Blue
+<img src="https://i.imgur.com/GUleGvt.png"> Blue
 <br>
-<img src="https://via.placeholder.com/15/2e8b57/000000?text=+"> Sea Green
+<img src="https://i.imgur.com/Bc1oFZd.png"> Sea Green
 <br>
-<img src="https://via.placeholder.com/15/808080/000000?text=+"> Gray
+<img src="https://i.imgur.com/3faS3hh.png"> Gray
 <br>
-<img src="https://via.placeholder.com/15/8a2be2/000000?text=+"> Violet
+<img src="https://i.imgur.com/gYoNPDO.png"> Violet
 <br>
-<img src="https://via.placeholder.com/15/ffffff/000000?text=+"> White
+<img src="https://i.imgur.com/xf7Hb8D.png"> White
 <h1>Background Color</h1>
 You can set the background color for HTML elements.
 <h2>Preview:</h2>
