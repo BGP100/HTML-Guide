@@ -20,4 +20,4 @@ To display white, set all color parameters to ff, like this: #ffffff.
 <br>
 Experiment by watching the HEX values below:
 <br>
-<img src="https://i.stack.imgur.com/poux8.gif">
+<img src="https://i.imgur.com/DmZuNJI.gif">
