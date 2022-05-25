@@ -23,4 +23,4 @@ HTML headings are defined with the &lt;h1&gt; to &lt;h6&gt; tags.
 <h6>Heading 6</h6>
 <h1>Go Bigger</h1>
 Each HTML heading has a default size. However, you can specify the size for any heading with the <b>style</b> attribute, using the CSS </b>font-size</b> property:
-<pre>&lt;h1 style="font-size: 60px;"&gt;Heading 1&lt;/h1&gt;</pre>
+<pre>&lt;h1 style="font-size:69px;"&gt;Heading 1&lt;/h1&gt;</pre>
