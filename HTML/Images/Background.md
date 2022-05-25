@@ -51,7 +51,7 @@ body {
 </pre>
 <h1>Stretch</h1>
 If you want the background image to stretch to fit the entire element, you can set the background-size property to 100% 100%:
-<img src="https://www.w3schools.com/html/img_girl.jpg" width="100%" height="300px">
+<img src="https://i.imgur.com/rUdy1Or.jpg" width="100%" height="300px">
 <pre>
 &lt;style&gt;
 body {
