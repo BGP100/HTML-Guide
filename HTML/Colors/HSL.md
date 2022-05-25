@@ -18,7 +18,7 @@ Lightness is also a percentage value, 0% is black, and 100% is white.
 <br>
 Experiment by watching the HSL values below:
 <br>
-<img src="https://i.stack.imgur.com/poux8.gif">
+<img src="https://i.imgur.com/DmZuNJI.gif">
 <h1>Saturation</h1>
 Saturation can be described as the intensity of a color.
 <br>
