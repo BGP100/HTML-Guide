@@ -20,7 +20,7 @@ Each <b>&lt;source&gt;</b> element has a media attribute that defines when the i
 </pre>
 <b>Note:</b> Always specify an img element as the last child element of the picture element. The img element is used by browsers that do not support the picture element, or if none of the source tags match.
 <h1>When to use it?</h1>
-There are two main purposes for the <b>&lt;picture</b>&gt; element:
+There are two main purposes for the <b>&lt;picture&gt;</b> element:
 <p></p>
 <b>1. Bandwidth</b>
 If you have a small screen or device, it is not necessary to load a large image file. The browser will use the first source element with matching attribute values, and ignore any of the following elements.
