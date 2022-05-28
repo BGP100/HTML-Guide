@@ -15,7 +15,7 @@ The span attribute specifies how many columns that gets the style.
 The style attribute specifies the style to give the columns.
 <pre>
 &lt;table style="width:60%;"&gt;
-&lt;colgroup&gt;
+  &lt;colgroup&gt;
     &lt;col span="2" style="background-color:rgba(150, 212, 212,0.4)"&gt;
   &lt;/colgroup&gt;
   &lt;tr&gt;
