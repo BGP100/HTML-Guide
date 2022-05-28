@@ -32,7 +32,7 @@ To set the width of a table, add the style attribute to the <b>&lt;table&gt;</b>
 </pre>
 <b>Demo:</b>
 <br>
-<table class="ws-table-all notranslate" style="width:100%">
+<table class="ws-table-all notranslate" width="100%">
   <tr>
     <th>Firstname</th>
     <th>Lastname</th>
