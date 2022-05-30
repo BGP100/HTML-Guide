@@ -16,9 +16,9 @@ Open the Start Screen (the window symbol at the bottom left on your screen). Typ
 <p></p>
 <b>Windows 7 or earlier:</b>
 <br>
-Open Start > Programs > Accessories > Notepad
+Open Start &gt; Programs &gt; Accessories &gt; Notepad
 <h1>TextEdit</h1>
-Open Finder > Applications > TextEdit
+Open Finder &gt; Applications &gt; TextEdit
 <br>
 Also change some preferences to get the application to save files correctly. In Preferences > Format > choose "Plain Text"
 <br>
@@ -29,7 +29,7 @@ Then open a new document to place the code.
 Write HTML code into Notepad like in the image:
 <img src="https://i.imgur.com/CPKAK3c.png">
 <h1>Save the HTML</h1>
-Save the file on your computer. Select File > Save as in the Notepad menu.
+Save the file on your computer. Select File &gt; Save as in the Notepad menu.
 <br>
 Name the file "index.htm" and set the encoding to UTF-8. (which is the preferred encoding for HTML files)
 <h1>View on browser</h1>
