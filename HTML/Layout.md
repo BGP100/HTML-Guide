@@ -27,9 +27,9 @@ There are four different techniques to create multicolumn layouts. Each techniqu
   <li>CSS Grid.</li>
 </ul>
 <h2>Framework</h2>
-If you want to create your layout fast, you can use a CSS framework.
+If you want to create your layout fast, you can use a <a href="/CSS/Responsive/Frameworks.md">CSS framework.
 <h2>Float</h2>
-It is common to do entire web layouts using the CSS float property. Float is easy to learn - you just need to remember how the float and clear properties work. <b>Disadvantages:</b> Floating elements are tied to the document flow, which may harm the flexibility.
+It is common to do entire web layouts using the CSS float property. Float is easy to learn - you just need to remember how the float and clear properties work.<br><b>Disadvantages:</b> Floating elements are tied to the document flow, which may harm the flexibility.
 <img src="https://i.imgur.com/68JBU5N.png">
 <h2>Flexbox</h2>
 Use of flexbox ensures that elements behave predictably when the page layout must accommodate different screen sizes and different display devices.
