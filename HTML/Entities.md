@@ -170,7 +170,7 @@ Here are some examples:
   <tr>
     <td>&#769;</td>
     <td>O</td>
-    <td>O&amp;#769;</code></td>
+    <td><code>O&amp;#769;</code></td>
     <td>O&#769;</td>
   </tr>
   <tr>
