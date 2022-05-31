@@ -122,7 +122,7 @@ The base tag must have either an href or a target attribute present, or both.
 There can only be one single base element in a document!
 <pre>
 &lt;head&gt;
-&lt;base href="https://www.w3schools.com/" target="_blank"&gt;
+&lt;base href="https://bledy-guides.repl.co/" target="_blank"&gt;
 &lt;/head&gt;
 <p></p>
 &lt;body&gt;
