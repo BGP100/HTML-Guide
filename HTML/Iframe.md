@@ -25,11 +25,13 @@ To remove the border, add the style attribute and use the CSS border property:
 <pre>&lt;iframe src="demo_iframe.html" style="border:none;width:300px;height:200px;" title="Iframe Example"&gt;&lt;/iframe&gt;</pre>
 With CSS, you can also change the size, style and color of the iframe's border:
 <pre>&lt;iframe src="demo_iframe.html" style="border:2px solid red;width:300px;height:200px;" title="Iframe Example"&gt;&lt;/iframe&gt;</pre>
+Or use the &lt;embed&gt; tag:
+<pre>&lt;embed src="demo_iframe.html" title="Iframe Example"&gt;&lt;/embed&gt;</pre>
 <h1>Target Link</h1>
 An iframe can be used as the target frame for a link.
 <br>
 The <b>target</b> attribute of the link must refer to the <b>name</b> attribute of the iframe:
 <pre>
 &lt;iframe src="demo_iframe.html" name="iframe_a" title="Iframe Example"&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://github.com/BGP100/" target="iframe_a"&gt;Profile&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/BGP100" target="iframe_a"&gt;Profile&lt;/a&gt;&lt;/p&gt;
 </pre>
