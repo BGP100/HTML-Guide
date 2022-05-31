@@ -140,49 +140,49 @@ Here are some examples:
   <tr>
     <td>&#768;</td>
     <td>a</td>
-    <td>a&amp;#768;</td>
+    <td><code>a&amp;#768;</code></td>
     <td>a&#768;</td>
   </tr>
   <tr>
     <td>&#769;</td>
     <td>a</td>
-    <td>a&amp;#769;</td>
+    <td><code>a&amp;#769;</code></td>
     <td>a&#769;</td>
   </tr>
   <tr>
     <td>&#770;</td>
     <td>a</td>
-    <td>a&amp;#770;</td>
+    <td><code>a&amp;#770;</code></td>
     <td>a&#770;</td>
   </tr>
   <tr>
     <td>&#771;</td>
     <td>a</td>
-    <td>a&amp;#771;</td>
+    <td><code>a&amp;#771;</code></td>
     <td>a&#771;</td>
   </tr>
   <tr>
     <td>&#768;</td>
     <td>O</td>
-    <td>O&amp;#768;</td>
+    <td><code>O&amp;#768;</code></td>
     <td>O&#768;</td>
   </tr>
   <tr>
     <td>&#769;</td>
     <td>O</td>
-    <td>O&amp;#769;</td>
+    <td>O&amp;#769;</code></td>
     <td>O&#769;</td>
   </tr>
   <tr>
     <td>&#770;</td>
     <td>O</td>
-    <td>O&amp;#770;</td>
+    <td><code>O&amp;#770;</code></td>
     <td>O&#770;</td>
   </tr>
   <tr>
     <td>&#771;</td>
     <td>O</td>
-    <td>O&amp;#771;</td>
+    <td><code>O&amp;#771;</code></td>
     <td>O&#771;</td>
   </tr>
 </table>
