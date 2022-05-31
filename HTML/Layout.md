@@ -16,7 +16,7 @@ HTML has several semantic elements that define the different parts of a web page
   <li>&lt;footer&gt; - Defines a footer for a document or a section.</li>
   <li>&lt;details&gt; - Defines additional details that the user can open and close on demand.</li>
   <li>&lt;summary&gt; - Defines a heading for the &lt;details&gt; element.</li>
-  <li>&lt;details&gt; - Defines a content for the &lt;summary&gt; element.</li>
+  <li>&lt;details&gt; - Defines the content for the &lt;summary&gt; element.</li>
 </ul>
 <img src="https://i.imgur.com/bxGv0go.png">
 <h1>Techniques</h1>
