@@ -35,7 +35,7 @@ File paths are used when linking to external files, like:
 </ul>
 <h1>Absolutes</h1>
 An absolute file path is the full URL to a file:
-<pre>&lt;img src="//www.w3schools.com/images/picture.jpg"&gt;</pre>
+<pre>&lt;img src="//i.imgur.com/4Wy6lNA_d.jpg"&gt;</pre>
 <h1>Relatives</h1>
 A relative file path points to a file relative to the current page.
 <br>
