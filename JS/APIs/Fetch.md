@@ -1,3 +1,6 @@
+<a href="/JS/APIs/WebWorkers.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/JS/APIs/Geolocation.md">Next &gt;</a>
 The Fetch API interface allows web browser to make HTTP requests to web servers.
 <br>
 😃 No need for XMLHttpRequest anymore.
