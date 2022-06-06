@@ -3,7 +3,7 @@ The ultimate HTML, CSS, and JS guide on github. (I think so)
 <p></p>
 788 PAGES IN TOTAL!!!
 <p></p>
-If you find any errors, please send a screenshot to <a href="mailto:contactbledygames@gmail.com?&Subject=I%20found%20an%20error&Body=In%20HTML/Home.md%20it%20says%20'someting'%20instead%20of%20'something'">contactbledygames@gmail.com</a>
+If you find any errors, please send a screenshot to <a href="mailto:business.bledy@gmail.com?&Subject=I%20found%20an%20error&Body=In%20HTML/Home.md%20it%20says%20'someting'%20instead%20of%20'something'">business.bledy@gmail.com</a>
 <h2>List of HTML</h2>
 <ol>
   <li>Home</li>
