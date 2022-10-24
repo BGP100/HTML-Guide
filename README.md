@@ -11,7 +11,7 @@ If you find any errors, please send a screenshot to <a href="mailto:business.ble
   <li>Editor</li>
   <li>Basic</li>
   <li>Elements</li>
-  <li>Atributes</li>
+  <li>Attributes</li>
   <li>Headings</li>
   <li>Paragraphs</li>
   <li>Styles</li>
@@ -19,30 +19,40 @@ If you find any errors, please send a screenshot to <a href="mailto:business.ble
   <li>Quotations</li>
   <li>Comments</li>
   <li>Colors</li>
-  <li>RGB Colors</li>
-  <li>HEX Colors</li>
-  <li>HSL Colors</li>
+  <ul>
+    <li>RGB Colors</li>
+    <li>HEX Colors</li>
+    <li>HSL Colors</li>
+  </ul>
   <li>What's CSS</li>
   <li>Links</li>
-  <li>Link Colors</li>
-  <li>Link Bookmarks</li>
+  <ul>
+    <li>Link Colors</li>
+    <li>Link Bookmarks</li>
+  </ul>
   <li>Images</li>
-  <li>Image Map</li>
-  <li>Background Images</li>
+  <ul>
+    <li>Image Map</li>
+    <li>Background Images</li>
+  </ul>
   <li>Picture</li>
   <li>Favicon</li>
   <li>Tables</li>
-  <li>Table Borders</li>
-  <li>Table Sizes</li>
-  <li>Table Headers</li>
-  <li>Table Padding &amp; Spacing</li>
-  <li>Table Colspan &amp; Rowspan</li>
-  <li>Table Style</li>
-  <li>Table Colgroup</li>
+  <ul>
+    <li>Table Borders</li>
+    <li>Table Sizes</li>
+    <li>Table Headers</li>
+    <li>Table Padding &amp; Spacing</li>
+    <li>Table Colspan &amp; Rowspan</li>
+    <li>Table Style</li>
+    <li>Table Colgroup</li>
+  </ul>
   <li>Lists</li>
-  <li>Unordered Lists</li>
-  <li>Ordered Lists</li>
-  <li>Description Lists</li>
+  <ul>
+    <li>Unordered Lists</li>
+    <li>Ordered Lists</li>
+    <li>Description Lists</li>
+  </ul>
   <li>Block &amp; Inline</li>
   <li>Classes</li>
   <li>ID</li>
@@ -62,11 +72,13 @@ If you find any errors, please send a screenshot to <a href="mailto:business.ble
   <li>URL Encode</li>
   <li>XHTML</li>
   <li>Forms</li>
-  <li>Form Atributes</li>
-  <li>Form Elements</li>
-  <li>Input Types</li>
-  <li>Input Atributes</li>
-  <li>Input Form Atributes</li>
+  <ul>
+    <li>Form Atributes</li>
+    <li>Form Elements</li>
+    <li>Input Types</li>
+    <li>Input Atributes</li>
+    <li>Input Form Atributes</li>
+  </ul>
   <li>Canvas</li>
   <li>SVG</li>
   <li>Media</li>
@@ -81,51 +93,61 @@ If you find any errors, please send a screenshot to <a href="mailto:business.ble
   <li>Web Workers</li>
   <li>SSE</li>
   <li>Graphics</li>
-  <li>Map Intro</li>
-  <li>Map Basic</li>
-  <li>Map Overlays</li>
-  <li>Map Events</li>
-  <li>Map Controls</li>
-  <li>Map Types</li>
-  <li>Map References</li>
-  <li>SVG Intro</li>
-  <li>SVG HTML</li>
-  <li>SVG Rectangle</li>
-  <li>SVG Circle</li>
-  <li>SVG Ellipse</li>
-  <li>SVG Line</li>
-  <li>SVG Polygon</li>
-  <li>SVG Polyling</li>
-  <li>SVG Path</li>
-  <li>SVG Text</li>
-  <li>SVG Stroking</li>
-  <li>SVG Filters</li>
-  <li>SVG Blur</li>
-  <li>SVG Shadows</li>
-  <li>SVG Linear</li>
-  <li>SVG Radial</li>
-  <li>Canvas</li>
-  <li>Canvas Coordinates</li>
-  <li>Canvas Gradient</li>
-  <li>Canvas Text</li>
-  <li>Canvas Images</li>
-  <li>Clocks</li>
-  <li>Clock Face</li>
-  <li>Clock Numbers</li>
-  <li>Clock Hands</li>
-  <li>Clock Start</li>
-  <li>Game Intro</li>
-  <li>Game Canvas</li>
-  <li>Game Components</li>
-  <li>Game Controllers</li>
-  <li>Game Obstacles</li>
-  <li>Game Score</li>
-  <li>Game Images</li>
-  <li>Game Sound</li>
-  <li>Game Gravity</li>
-  <li>Game Bouncing</li>
-  <li>Game Rotation</li>
-  <li>Game Movement</li>
+  <ul>
+    <li>Maps</li>
+    <ul>
+      <li>Map Intro</li>
+      <li>Map Basic</li>
+      <li>Map Overlays</li>
+      <li>Map Events</li>
+      <li>Map Controls</li>
+      <li>Map Types</li>
+      <li>Map References</li>
+    </ul>
+    <li>SVGs</li>
+    <ul>
+      <li>SVG Intro</li>
+      <li>SVG HTML</li>
+      <li>SVG Rectangle</li>
+      <li>SVG Circle</li>
+      <li>SVG Ellipse</li>
+      <li>SVG Line</li>
+      <li>SVG Polygon</li>
+      <li>SVG Polyling</li>
+      <li>SVG Path</li>
+      <li>SVG Text</li>
+      <li>SVG Stroking</li>
+      <li>SVG Filters</li>
+      <li>SVG Blur</li>
+      <li>SVG Shadows</li>
+      <li>SVG Linear</li>
+      <li>SVG Radial</li>
+    </ul>
+    <li>Canvas</li>
+    <ul>
+      <li>Canvas Coordinates</li>
+      <li>Canvas Gradient</li>
+      <li>Canvas Text</li>
+      <li>Canvas Images</li>
+      <li>Clocks</li>
+      <li>Clock Face</li>
+      <li>Clock Numbers</li>
+      <li>Clock Hands</li>
+      <li>Clock Start</li>
+      <li>Game Intro</li>
+      <li>Game Canvas</li>
+      <li>Game Components</li>
+      <li>Game Controllers</li>
+      <li>Game Obstacles</li>
+      <li>Game Score</li>
+      <li>Game Images</li>
+      <li>Game Sound</li>
+      <li>Game Gravity</li>
+      <li>Game Bouncing</li>
+      <li>Game Rotation</li>
+      <li>Game Movement</li>
+    </ul>
+  </ul>
   <li>Timer</li>
   <li>Tags</li>
   <li>HTML Quiz</li>
@@ -266,39 +288,50 @@ If you find any errors, please send a screenshot to <a href="mailto:business.ble
   <li>How to</li>
   <li>Comments</li>
   <li>Colors</li>
-  <li>RGB Colors</li>
-  <li>HEX Colors</li>
-  <li>HSL Colors</li>
+  <ul>
+    <li>RGB Colors</li>
+    <li>HEX Colors</li>
+    <li>HSL Colors</li>
+  </ul>
   <li>Background</li>
-  <li>Background Color</li>
-  <li>Background Image</li>
-  <li>Background Repeat</li>
-  <li>Background Attachments</li>
-  <li>Background Shorthand</li>
+  <ul>
+    <li>Background Color</li>
+    <li>Background Image</li>
+    <li>Background Repeat</li>
+    <li>Background Attachments</li>
+    <li>Background Shorthand</li>
+  </ul>
   <li>Borders</li>
-  <li>Border Width</li>
-  <li>Border Color</li>
-  <li>Border Sides</li>
-  <li>Border Shorthand</li>
-  <li>Rounded Borders</li>
+  <ul>
+    <li>Border Width</li>
+    <li>Border Color</li>
+    <li>Border Sides</li>
+    <li>Border Shorthand</li>
+    <li>Rounded Borders</li>
+  </ul>
   <li>Margins</li>
   <li>Margin Collapse</li>
   <li>Paddings</li>
   <li>Height &amp; Width</li>
   <li>Box Model</li>
   <li>Outline</li>
-  <li>Outline Width</li>
-  <li>Outline Color</li>
-  <li>Outline Shorthand</li>
-  <li>Outline Offset</li>
+  <ul>
+    <li>Outline Width</li>
+    <li>Outline Color</li>
+    <li>Outline Shorthand</li>
+    <li>Outline Offset</li>
+  </ul>
   <li>Text</li>
-  <li>Text Color</li>
-  <li>Text Alignment</li>
-  <li>Text Decoration</li>
-  <li>Text Transformation</li>
-  <li>Text Spacing</li>
-  <li>Text Shadow</li>
+  <ul>
+    <li>Text Color</li>
+    <li>Text Alignment</li>
+    <li>Text Decoration</li>
+    <li>Text Transformation</li>
+    <li>Text Spacing</li>
+    <li>Text Shadow</li>
+  </ul>
   <li>Font Family</li>
+  <ul>
   <li>Web Safe Fonts</li>
   <li>Font Fallback</li>
   <li>Font Style</li>
@@ -306,37 +339,46 @@ If you find any errors, please send a screenshot to <a href="mailto:business.ble
   <li>Google Fonts</li>
   <li>Font Pairing</li>
   <li>Font Shorthand</li>
+  </ul>
   <li>Icons</li>
   <li>Links</li>
   <li>Lists</li>
-  <li>List Markers</li>
-  <li>List Images</li>
-  <li>List Position</li>
-  <li>List Remove Default</li>
-  <li>List Shorthand</li>
-  <li>List Styling</li>
+  <ul>
+    <li>List Markers</li>
+    <li>List Images</li>
+    <li>List Position</li>
+    <li>List Remove Default</li>
+    <li>List Shorthand</li>
+    <li>List Styling</li>
+  </ul>
   <li>Tables</li>
-  <li>Table Borders</li>
-  <li>Table Size</li>
-  <li>Table Alignment</li>
-  <li>Table Style</li>
-  <li>Responsive Tables</li>
+  <ul>
+    <li>Table Borders</li>
+    <li>Table Size</li>
+    <li>Table Alignment</li>
+    <li>Table Style</li>
+    <li>Responsive Tables</li>
+  </ul>
   <li>Display</li>
   <li>Max-width</li>
   <li>Position</li>
   <li>Z-index</li>
   <li>Overflow</li>
   <li>Float</li>
-  <li>Clear Float</li>
-  <li>Float Examples</li>
+  <ul>
+    <li>Clear Float</li>
+    <li>Float Examples</li>
+  </ul>
   <li>Inline-block</li>
   <li>Align</li>
   <li>Pseudo-class</li>
   <li>Pseudo-element</li>
   <li>Opacity</li>
   <li>Navigation Bar (NavBar)</li>
-  <li>Vertical NavBar</li>
-  <li>Horizontal NavBar</li>
+  <ul>
+    <li>Vertical NavBar</li>
+    <li>Horizontal NavBar</li>
+  </ul>
   <li>Dropdowns</li>
   <li>Image Gallery</li>
   <li>Image Sprites</li>
@@ -349,69 +391,80 @@ If you find any errors, please send a screenshot to <a href="mailto:business.ble
   <li>!important</li>
   <li>Math Functions</li>
   <li><b>Advanced CSS (CSS3)</b></li>
-  <li>Rounded Corners</li>
-  <li>Border Images</li>
-  <li>Advanced Backgrounds</li>
-  <li>Advanced Colors</li>
-  <li>Color Keywords</li>
-  <li>Gradients</li>
-  <li>Linear Gradients</li>
-  <li>Radial Gradients</li>
-  <li>Conic Gradients</li>
-  <li>Shadows</li>
-  <li>Shadow Effects</li>
-  <li>Shadow Box</li>
-  <li>Text Effects</li>
-  <li>Web Fonts</li>
-  <li>2D Transforms</li>
-  <li>3D Transforms</li>
-  <li>Transitions</li>
-  <li>Animations</li>
-  <li>ToolTips</li>
-  <li>Style Images</li>
-  <li>Image Reflection</li>
-  <li>Object-fit</li>
-  <li>Object-position</li>
-  <li>Masking</li>
-  <li>Buttons Pagination</li>
-  <li>Multiple Columns</li>
-  <li>User Interface</li>
-  <li>Variables</li>
-  <li>Variable Override</li>
-  <li>Variables and JS</li>
-  <li>Variables and MQ</li>
-  <li>Box Sizing</li>
-  <li>Media Queries</li>
-  <li>Flexbox</li>
-  <li>Flexbox Container</li>
-  <li>Flexbox Items</li>
-  <li>Responsive Flexbox</li>
-  <li>Responsive Intro</li>
-  <li>Responsive Viewport</li>
-  <li>Responsive View Grid</li>
-  <li>Responsive Queries</li>
-  <li>Responsive Images</li>
-  <li>Responsive Videos</li>
-  <li>Responsive Frameworks</li>
-  <li>Responsive Templates</li>
-  <li>Grid Intro</li>
-  <li>Grid Container</li>
-  <li>Grid Item</li>
+  <ul>
+    <li>Rounded Corners</li>
+    <li>Border Images</li>
+    <li>Advanced Backgrounds</li>
+    <li>Advanced Colors</li>
+    <li>Color Keywords</li>
+    <li>Gradients</li>
+    <li>Linear Gradients</li>
+    <li>Radial Gradients</li>
+    <li>Conic Gradients</li>
+    <li>Shadows</li>
+    <li>Shadow Effects</li>
+    <li>Shadow Box</li>
+    <li>Text Effects</li>
+    <li>Web Fonts</li>
+    <li>2D Transforms</li>
+    <li>3D Transforms</li>
+    <li>Transitions</li>
+    <li>Animations</li>
+    <li>ToolTips</li>
+    <li>Style Images</li>
+    <li>Image Reflection</li>
+    <li>Object-fit</li>
+    <li>Object-position</li>
+    <li>Masking</li>
+    <li>Buttons Pagination</li>
+    <li>Multiple Columns</li>
+    <li>User Interface</li>
+    <li>Variables</li>
+    <li>Variable Override</li>
+    <li>Variables and JS</li>
+    <li>Variables and MQ</li>
+    <li>Box Sizing</li>
+    <li>Media Queries</li>
+    <li>Flexbox</li>
+    <li>Flexbox Container</li>
+    <li>Flexbox Items</li>
+  </ul>
+  <li>Responsive</li>
+  <ul>
+    <li>Responsive Flexbox</li>
+    <li>Responsive Intro</li>
+    <li>Responsive Viewport</li>
+    <li>Responsive View Grid</li>
+    <li>Responsive Queries</li>
+    <li>Responsive Images</li>
+    <li>Responsive Videos</li>
+    <li>Responsive Frameworks</li>
+    <li>Responsive Templates</li>
+  </ul>
+  <li>Grid</li>
+  <ul>
+    <li>Grid Intro</li>
+    <li>Grid Container</li>
+    <li>Grid Item</li>
+  </ul>
   <li>SSAS</li>
-  <li>SASS Introduction</li>
-  <li>SASS Installation</li>
-  <li>SASS Variables</li>
-  <li>SASS Nesting</li>
-  <li>SASS @import</li>
-  <li>SASS @mixin</li>
-  <li>SASS @extend</li>
-  <li>SASS String Function</li>
-  <li>SASS Numeric Function</li>
-  <li>SASS List Function</li>
-  <li>SASS Map Function</li>
-  <li>SASS Selector Function</li>
-  <li>SASS Introspection Function</li>
-  <li>SASS Color Function</li>
+  <ul>
+    <li>SASS Introduction</li>
+    <li>SASS Installation</li>
+    <li>SASS Variables</li>
+    <li>SASS Nesting</li>
+    <li>SASS @import</li>
+    <li>SASS @mixin</li>
+    <li>SASS @extend</li>
+    <li>SASS String Function</li>
+    <li>SASS Numeric Function</li>
+    <li>SASS List Function</li>
+    <li>SASS Map Function</li>
+    <li>SASS Selector Function</li>
+    <li>SASS Introspection Function</li>
+    <li>SASS Color Function</li>
+  </ul>
+  <li>CSS Quiz</li>
 </ol>
 <h3>Every Color</h3>
 <ol>
@@ -582,41 +635,52 @@ If you find any errors, please send a screenshot to <a href="mailto:business.ble
   <li>Let</li>
   <li>Const</li>
   <li>Operators</li>
-  <li>Arithmetic Operators</li>
-  <li>Assigment Operators</li>
-  <li>Comparison Operators</li>
-  <li>Logical Operators</li>
-  <li>Type Operators</li>
-  <li>Bitwise Operators</li>
+  <ul>
+    <li>Arithmetic Operators</li>
+    <li>Assigment Operators</li>
+    <li>Comparison Operators</li>
+    <li>Logical Operators</li>
+    <li>Type Operators</li>
+    <li>Bitwise Operators</li>
+  </ul>
   <li>Data Types</li>
   <li>Functions</li>
   <li>Objects</li>
   <li>Events</li>
   <li>Strings</li>
-  <li>String Methods</li>
-  <li>String Search</li>
-  <li>String Templates</li>
+  <ul>
+    <li>String Methods</li>
+    <li>String Search</li>
+    <li>String Templates</li>
+  </ul>
   <li>Numbers</li>
   <li>Number Methods</li>
   <li>Arrays</li>
-  <li>Array Methods</li>
-  <li>Array Sorts</li>
-  <li>Array Iteration</li>
-  <li>Array Const</li>
+  <ul>
+    <li>Array Methods</li>
+    <li>Array Sorts</li>
+    <li>Array Iteration</li>
+    <li>Array Const</li>
+  </ul>
   <li>Dates</li>
-  <li>Date Formats</li>
-  <li>Date Get Methods</li>
-  <li>Date Set Methods</li>
+  <ul>
+    <li>Date Formats</li>
+    <li>Date Get Methods</li>
+    <li>Date Set Methods</li>
+  </ul>
   <li>Math</li>
   <li>Random</li>
   <li>Booleans</li>
   <li>Comparisons</li>
   <li>Conditions</li>
   <li>Switch</li>
-  <li>Loop For</li>
-  <li>Loop For In</li>
-  <li>Loop For Of</li>
-  <li>Loop While</li>
+  <li>Loops</li>
+  <ul>
+    <li>Loop For</li>
+    <li>Loop For In</li>
+    <li>Loop For Of</li>
+    <li>Loop While</li>
+  </ul>
   <li>Break</li>
   <li>Iterables</li>
   <li>Sets</li>
@@ -639,13 +703,15 @@ If you find any errors, please send a screenshot to <a href="mailto:business.ble
   <li>Performance</li>
   <li>Reserved Words</li>
   <li>Versions</li>
-  <li>Version 2009</li>
-  <li>Version 2015</li>
-  <li>Version 2016</li>
-  <li>Version 2017</li>
-  <li>Version 2018</li>
-  <li>Version Edge/IE</li>
-  <li>Version History</li>
+  <ul>
+    <li>Version 2009</li>
+    <li>Version 2015</li>
+    <li>Version 2016</li>
+    <li>Version 2017</li>
+    <li>Version 2018</li>
+    <li>Version Edge/IE</li>
+    <li>Version History</li>
+  </ul>
   <li>Definitions</li>
   <li>Properties</li>
   <li>Methods</li>
@@ -653,37 +719,49 @@ If you find any errors, please send a screenshot to <a href="mailto:business.ble
   <li>Accessors</li>
   <li>Constructors</li>
   <li>Prototypes</li>
-  <li>Object Iterables</li>
-  <li>Object Sets</li>
-  <li>Object Maps</li>
-  <li>Object References</li>
-  <li>Function Definition</li>
-  <li>Function Parameters</li>
-  <li>Function Invocation</li>
-  <li>Function Call</li>
-  <li>Function Apply</li>
-  <li>Function Closures</li>
-  <li>Class Intro</li>
-  <li>Class Inheritance</li>
-  <li>Class Static</li>
+  <li>Objects</li>
+  <ul>
+    <li>Object Iterables</li>
+    <li>Object Sets</li>
+    <li>Object Maps</li>
+    <li>Object References</li>
+  </ul>
+  <li>Functions</li>
+  <ul>
+    <li>Function Definition</li>
+    <li>Function Parameters</li>
+    <li>Function Invocation</li>
+    <li>Function Call</li>
+    <li>Function Apply</li>
+    <li>Function Closures</li>
+  </ul>
+  <li>Classes</li>
+  <ul>
+    <li>Class Intro</li>
+    <li>Class Inheritance</li>
+    <li>Class Static</li>
+  </ul>
   <li>Callbacks</li>
   <li>Asynchronous</li>
   <li>Promises</li>
   <li>Async/Await</li>
-  <li>DOM Intro</li>
-  <li>DOM Methods</li>
-  <li>DOM Document</li>
-  <li>DOM Elements</li>
-  <li>DOM HTML</li>
-  <li>DOM Forms</li>
-  <li>DOM CSS</li>
-  <li>DOM Animations</li>
-  <li>DOM Events</li>
-  <li>DOM Event Listener</li>
-  <li>DOM Navigation</li>
-  <li>DOM Nodes</li>
-  <li>DOM Node Lists</li>
-  <li>DOM Collections</li>
+  <li>DOM</li>
+  <ul>
+    <li>DOM Intro</li>
+    <li>DOM Methods</li>
+    <li>DOM Document</li>
+    <li>DOM Elements</li>
+    <li>DOM HTML</li>
+    <li>DOM Forms</li>
+    <li>DOM CSS</li>
+    <li>DOM Animations</li>
+    <li>DOM Events</li>
+    <li>DOM Event Listener</li>
+    <li>DOM Navigation</li>
+    <li>DOM Nodes</li>
+    <li>DOM Node Lists</li>
+    <li>DOM Collections</li>
+  </ul>
   <li>Window</li>
   <li>Screen</li>
   <li>Location</li>
@@ -692,106 +770,127 @@ If you find any errors, please send a screenshot to <a href="mailto:business.ble
   <li>Popup Alert</li>
   <li>Timing</li>
   <li>Cookies</li>
-  <li>API Intro</li>
-  <li>API Forms</li>
-  <li>API History</li>
-  <li>API Storage</li>
-  <li>API Worker</li>
-  <li>API Fetch</li>
-  <li>API Geolocation</li>
-  <li>AJAX Intro</li>
-  <li>AJAX XMLHTTP</li>
-  <li>AJAX Request</li>
-  <li>AJAX Response</li>
-  <li>AJAX XML File</li>
-  <li>AJAX PHP</li>
-  <li>AJAX ASP</li>
-  <li>AJAX Database</li>
-  <li>AJAX Applications</li>
+  <li>API</li>
+  <ul>
+    <li>API Intro</li>
+    <li>API Forms</li>
+    <li>API History</li>
+    <li>API Storage</li>
+    <li>API Worker</li>
+    <li>API Fetch</li>
+    <li>API Geolocation</li>
+  </ul>
+  <li>AJAX</li>
+  <ul>
+    <li>AJAX Intro</li>
+    <li>AJAX XMLHTTP</li>
+    <li>AJAX Request</li>
+    <li>AJAX Response</li>
+    <li>AJAX XML File</li>
+    <li>AJAX PHP</li>
+    <li>AJAX ASP</li>
+    <li>AJAX Database</li>
+    <li>AJAX Applications</li>
+  </ul>
   <li>JSON</li>
-  <li>JSON Intro</li>
-  <li>JSON Syntax</li>
-  <li>JSON XML</li>
-  <li>JSON Data Types</li>
-  <li>JSON Parse</li>
-  <li>JSON Stringify</li>
-  <li>JSON Objects</li>
-  <li>JSON Array</li>
-  <li>JSON Server</li>
-  <li>JSON PHP</li>
-  <li>JSON HTML</li>
-  <li>JSON JSONP</li>
-  <li>jQuery Selectors</li>
-  <li>jQuery HTML</li>
-  <li>jQuery CSS</li>
-  <li>jQuery DOM</li>
-  <li>jQuery Intro</li>
-  <li>jQuery Get Started</li>
-  <li>jQuery Syntax</li>
-  <li>jQuery Events</li>
-  <li>jQuery Hide And Show Effect</li>
-  <li>jQuery Fade Effect</li>
-  <li>jQuery Slide Effect</li>
-  <li>jQuery Animate Effect</li>
-  <li>jQuery Stop Effect</li>
-  <li>jQuery Callback Effect</li>
-  <li>jQuery Chain Effect</li>
-  <li>jQuery Traversing</li>
-  <li>jQuery Traversing Ancestors</li>
-  <li>jQuery Traversing Descendants</li>
-  <li>jQuery Traversing Siblings</li>
-  <li>jQuery Traversing Filtering</li>
-  <li>jQuery AJAX</li>
-  <li>jQuery noConflict() Method</li>
-  <li>jQuery Filters</li>
-  <li>Map Controls</li>
-  <li>Map Types</li>
-  <li>Map References</li>
-  <li>SVG Intro</li>
-  <li>SVG HTML</li>
-  <li>SVG Rectangle</li>
-  <li>SVG Circle</li>
-  <li>SVG Ellipse</li>
-  <li>SVG Line</li>
-  <li>SVG Polygon</li>
-  <li>SVG Polyling</li>
-  <li>SVG Path</li>
-  <li>SVG Text</li>
-  <li>SVG Stroking</li>
-  <li>SVG Filters</li>
-  <li>SVG Blur</li>
-  <li>SVG Shadows</li>
-  <li>SVG Linear</li>
-  <li>SVG Radial</li>
+  <ul>
+    <li>JSON Intro</li>
+    <li>JSON Syntax</li>
+    <li>JSON XML</li>
+    <li>JSON Data Types</li>
+    <li>JSON Parse</li>
+    <li>JSON Stringify</li>
+    <li>JSON Objects</li>
+    <li>JSON Array</li>
+    <li>JSON Server</li>
+    <li>JSON PHP</li>
+    <li>JSON HTML</li>
+    <li>JSON JSONP</li>
+  </ul>
+  <li>jQuery</li>
+  <ul>
+    <li>jQuery Selectors</li>
+    <li>jQuery HTML</li>
+    <li>jQuery CSS</li>
+    <li>jQuery DOM</li>
+    <li>jQuery Intro</li>
+    <li>jQuery Get Started</li>
+    <li>jQuery Syntax</li>
+    <li>jQuery Events</li>
+    <li>jQuery Hide And Show Effect</li>
+    <li>jQuery Fade Effect</li>
+    <li>jQuery Slide Effect</li>
+    <li>jQuery Animate Effect</li>
+    <li>jQuery Stop Effect</li>
+    <li>jQuery Callback Effect</li>
+    <li>jQuery Chain Effect</li>
+    <li>jQuery Traversing</li>
+    <li>jQuery Traversing Ancestors</li>
+    <li>jQuery Traversing Descendants</li>
+    <li>jQuery Traversing Siblings</li>
+    <li>jQuery Traversing Filtering</li>
+    <li>jQuery AJAX</li>
+    <li>jQuery noConflict() Method</li>
+    <li>jQuery Filters</li>
+  </ul>
+  <li>Maps</li>
+  <ul>
+    <li>Map Controls</li>
+    <li>Map Types</li>
+    <li>Map References</li>
+    <li>SVG Intro</li>
+    <li>SVG HTML</li>
+    <li>SVG Rectangle</li>
+    <li>SVG Circle</li>
+    <li>SVG Ellipse</li>
+    <li>SVG Line</li>
+    <li>SVG Polygon</li>
+    <li>SVG Polyling</li>
+    <li>SVG Path</li>
+    <li>SVG Text</li>
+    <li>SVG Stroking</li>
+    <li>SVG Filters</li>
+    <li>SVG Blur</li>
+    <li>SVG Shadows</li>
+    <li>SVG Linear</li>
+    <li>SVG Radial</li>
+  </ul>
   <li>Canvas</li>
-  <li>Canvas Coordinates</li>
-  <li>Canvas Gradient</li>
-  <li>Canvas Text</li>
-  <li>Canvas Images</li>
-  <li>Clocks</li>
-  <li>Clock Face</li>
-  <li>Clock Numbers</li>
-  <li>Clock Hands</li>
-  <li>Clock Start</li>
-  <li>Game Intro</li>
-  <li>Game Canvas</li>
-  <li>Game Components</li>
-  <li>Game Controllers</li>
-  <li>Game Obstacles</li>
-  <li>Game Score</li>
-  <li>Game Images</li>
-  <li>Game Sound</li>
-  <li>Game Gravity</li>
-  <li>Game Bouncing</li>
-  <li>Game Rotation</li>
-  <li>Game Movement</l
-  <li>Map Controls</li>
-  <li>Map Types</li>
-  <li>Map References</li>
-  <li>Ploty</li>
-  <li>Chart.js</li>
-  <li>Google Chart</li>
-  <li>D3.js</li>
+    <ul>
+      <li>Canvas Coordinates</li>
+      <li>Canvas Gradient</li>
+      <li>Canvas Text</li>
+      <li>Canvas Images</li>
+      <li>Clocks</li>
+      <li>Clock Face</li>
+      <li>Clock Numbers</li>
+      <li>Clock Hands</li>
+      <li>Clock Start</li>
+      <li>Game Intro</li>
+      <li>Game Canvas</li>
+      <li>Game Components</li>
+      <li>Game Controllers</li>
+      <li>Game Obstacles</li>
+      <li>Game Score</li>
+      <li>Game Images</li>
+      <li>Game Sound</li>
+      <li>Game Gravity</li>
+      <li>Game Bouncing</li>
+      <li>Game Rotation</li>
+      <li>Game Movement</li>
+    </ul>
+    <li>Maps</li>
+    <ul>
+      <li>Map Controls</li>
+      <li>Map Types</li>
+      <li>Map References</li>
+      <li>Ploty</li>
+      <li>Chart.js</li>
+      <li>Google Chart</li>
+      <li>D3.js</li>
+    </ul>
+  </ul>
+  <li>JS Quiz</li>
 </ol>
 <h2>List of HTML5</h2>
 HTML5 is the same thing as HTML but it has these new things:
