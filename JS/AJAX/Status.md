@@ -126,6 +126,10 @@ The server SHOULD generate a Location header field in the response containing a 
 The <b>4XX (Client Error)</b> class of status code indicates that the client seems to have erred. Except when responding to a HEAD request, the server SHOULD send a representation containing an explanation of the error situation, and whether it is a temporary or permanent condition. These status codes are applicable to any request method. User agents SHOULD display any included representation to the user.
 <h2>400</h2>
 The <b>400 (Bad Request)</b> status code indicates that the server cannot or will not process the request due to something that is perceived to be a client error (e.g., malformed request syntax, invalid request message framing, or deceptive request routing).
+<h2>401</h2>
+The <b>401 (Unauthorized)</b> status code indicates that the request has not been applied because it lacks valid authentication credentials for the target resource. The server generating a 401 response MUST send a WWW-Authenticate header field containing at least one challenge applicable to the target resource.
+<br><br>
+If the request included authentication credentials, then the 401 response indicates that authorization has been refused for those credentials. The user agent MAY repeat the request with a new or replaced Authorization header field. If the 401 response contains the same challenge as the prior response, and the user agent has already attempted authentication at least once, then the user agent SHOULD present the enclosed representation to the user, since it usually contains relevant diagnostic information.
 <h2>402</h2>
 The <b>402 (Payment Required)</b> status code is reserved for future use.
 <h2>403</h2>
