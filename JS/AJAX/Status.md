@@ -150,6 +150,8 @@ A 405 response is cacheable by default; i.e., unless otherwise indicated by the 
 The <b>406 (Not Acceptable)</b> status code indicates that the target resource does not have a current representation that would be acceptable to the user agent, according to the proactive negotiation header fields received in the request, and the server is unwilling to supply a default representation.
 <br><br>
 The server SHOULD generate a payload containing a list of available representation characteristics and corresponding resource identifiers from which the user or user agent can choose the one most appropriate. A user agent MAY automatically select the most appropriate choice from that list. However, this specification does not define any standard for such automatic selection, as described in Status 300.
+<h2>407</h2>
+The <b>407 (Proxy Authentication Required)</b> status code is similar to 401, but it indicates that the client needs to authenticate itself in order to use a proxy. The proxy MUST send a Proxy-Authenticate header field containing a challenge applicable to that proxy for the target resource. The client MAY repeat the request with a new or replaced Proxy-Authorization header field.
 <h2>408</h2>
 The <b>408 (Request Timeout)</b> status code indicates that the server did not receive a complete request message within the time that it was prepared to wait. A server SHOULD send the "close" connection option in the response, since 408 implies that the server has decided to close the connection rather than continue waiting. If the client has an outstanding request in transit, the client MAY repeat that request on a new connection.
 <h2>409</h2>
@@ -157,7 +159,15 @@ The <b>409 (Conflict)</b> status code indicates that the request could not be co
 <br><br>
 Conflicts are most likely to occur in response to a PUT request. For example, if versioning were being used and the representation being PUT included changes to a resource that conflict with those made by an earlier (third-party) request, the origin server might use a 409 response to indicate that it can't complete the request. In this case, the response representation would likely contain information useful for merging the differences based on the revision history.
 <h2>410</h2>
+The <b>410 (Gone)</b> status code indicates that access to the target resource is no longer available at the origin server and that this condition is likely to be permanent. If the origin server does not know, or has no facility to determine, whether or not the condition is permanent, the status code 404 ought to be used instead.
+<br><br>
+The 410 response is primarily intended to assist the task of web maintenance by notifying the recipient that the resource is intentionally unavailable and that the server owners desire that remote links to that resource be removed. Such an event is common for limited-time, promotional services and for resources belonging to individuals no longer associated with the origin server’s site. It is not necessary to mark all permanently unavailable resources as "gone" or to keep the mark for any length of time — that is left to the discretion of the server owner.
+<br><br>
+A 410 response is cacheable by default; i.e., unless otherwise indicated by the method definition or explicit cache controls
+<h2>411</h2>
 The <b>411 (Length Required)</b> status code indicates that the server refuses to accept the request without a defined Content-Length. The client MAY repeat the request if it adds a valid Content-Length header field containing the length of the message body in the request message.
+<h2>412</h2>
+The <b>412 (Precondition Failed)</b> status code indicates that one or more conditions given in the request header fields evaluated to false when tested on the server. This response code allows the client to place preconditions on the current resource state (its current representations and metadata) and, thus, prevent the request method from being applied if the target resource is in an unexpected state.
 <h2>413</h2>
 The <b>413 (Payload Too Large)</b> status code indicates that the server is refusing to process a request because the request payload is larger than the server is willing or able to process. The server MAY close the connection to prevent the client from continuing the request.
 <br><br>
@@ -168,6 +178,18 @@ The <b>414 (URI Too Long)</b> status code indicates that the server is refusing 
 A 414 response is cacheable by default; i.e., unless otherwise indicated by the method definition or explicit cache controls.
 <h2>415</h2>
 The <b>415 (Unsupported Media Type)</b> status code indicates that the origin server is refusing to service the request because the payload is in a format not supported by this method on the target resource. The format problem might be due to the request's indicated Content-Type or Content-Encoding, or as a result of inspecting the data directly.
+<h2>416</h2>
+The <b>416 (Range Not Satisfiable)</b> status code indicates that none of the ranges in the request’s Range header field overlap the current extent of the selected resource or that the set of ranges requested has been rejected due to invalid ranges or an excessive request of small or overlapping ranges.
+<br><br>
+For byte ranges, failing to overlap the current extent means that the first-byte-pos of all of the byte-range-spec values were greater than the current length of the selected representation. When this status code is generated in response to a byte-range request, the sender SHOULD generate a Content-Range header field specifying the current length of the selected representation.
+<br><br>
+Example:
+<pre>
+HTTP/1.1 416 Range Not Satisfiable
+Date: Fri, 20 Jan 2012 15:41:54 GMT
+Content-Range: bytes */47022
+</pre>
+Note: Because servers are free to ignore Range, many implementations will simply respond with the entire selected representation in a 200 response. That is partly because most clients are prepared to receive a 200 to complete the task (albeit less efficiently) and partly because clients might not stop making an invalid partial request until they have received a complete representation. Thus, clients cannot depend on receiving a 416 response even when it is most appropriate.
 <h2>417</h2>
 The <b>417 (Expectation Failed)</b> status code indicates that the expectation given in the request's Expect header field could not be met by at least one of the inbound servers.
 <h2>426</h2>
