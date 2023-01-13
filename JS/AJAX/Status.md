@@ -207,7 +207,7 @@ This service requires use of the HTTP/3.0 protocol.
 <h1>5XX</h2>
 The <b>5XX (Server Error)</b> class of status code indicates that the server is aware that it has erred or is incapable of performing the requested method. Except when responding to a HEAD request, the server SHOULD send a representation containing an explanation of the error situation, and whether it is a temporary or permanent condition. A user agent SHOULD display any included representation to the user. These response codes are applicable to any request method.
 <h2>500</h2>
-The <b>500 (Internal Server Error)</b> status coThe 504 (Gateway Timeout) status code indicates that the server, while acting as a gateway or proxy, did not receive a timely response from an upstream server it needed to access in order to complete the request.de indicates that the server encountered an unexpected condition that prevented it from fulfilling the request.
+The <b>500 (Internal Server Error)</b> status code indicates that the server, while acting as a gateway or proxy, did not receive a timely response from an upstream server it needed to access in order to complete the request.de indicates that the server encountered an unexpected condition that prevented it from fulfilling the request.
 <h2>501</h2>
 The <b>501 (Not Implemented)</b> status code indicates that the server does not support the functionality required to fulfill the request. This is the appropriate response when the server does not recognize the request method and is not capable of supporting it for any resource.
 <br><br>
