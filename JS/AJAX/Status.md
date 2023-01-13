@@ -179,7 +179,7 @@ A 414 response is cacheable by default; i.e., unless otherwise indicated by the 
 <h2>415</h2>
 The <b>415 (Unsupported Media Type)</b> status code indicates that the origin server is refusing to service the request because the payload is in a format not supported by this method on the target resource. The format problem might be due to the request's indicated Content-Type or Content-Encoding, or as a result of inspecting the data directly.
 <h2>416</h2>
-The <b>416 (Range Not Satisfiable)</b> status code indicates that none of the ranges in the request’s Range header field overlap the current extent of the selected resource or that the set of ranges requested has been rejected due to invalid ranges or an excessive request of small or overlapping ranges.
+The <b>416 (Range Not Satisfiable)</b> status code indicates that none of the ranges in the request's Range header field overlap the current extent of the selected resource or that the set of ranges requested has been rejected due to invalid ranges or an excessive request of small or overlapping ranges.
 <br><br>
 For byte ranges, failing to overlap the current extent means that the first-byte-pos of all of the byte-range-spec values were greater than the current length of the selected representation. When this status code is generated in response to a byte-range request, the sender SHOULD generate a Content-Range header field specifying the current length of the selected representation.
 <br><br>
